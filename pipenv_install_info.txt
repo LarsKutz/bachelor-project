@@ -1,0 +1,12 @@
+install following dependencies:
+
+for plotly:
+    - kaleido==0.1.0.post1, for saving as image
+    - nbformat==5.10.4, for plotting
+
+for unstructured:
+    - onnx==1.15.0, for onnx model
+    - onnxruntime==1.17.0, for onnx model
+    - 
+    maybe:
+    - delete python-magic and install python-magic-bin==0.4.14

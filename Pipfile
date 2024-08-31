@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+ipykernel = "*"
+langchain-unstructured = "*"
+langchain-community = "*"
+docx2txt = "*"
+langchain-openai = "*"
+langchain-chroma = "*"
+langchain-cohere = "*"
+langchain-experimental = "*"
+scikit-learn = "*"
+chromadb = "*"
+openai = "*"
+plotly = "*"
+streamlit = "*"
+pytesseract = "*"
+flashrank = "*"
+nltk = "*"
+unstructured = {extras = ["all-docs"], version = "*"}
+ranx = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
