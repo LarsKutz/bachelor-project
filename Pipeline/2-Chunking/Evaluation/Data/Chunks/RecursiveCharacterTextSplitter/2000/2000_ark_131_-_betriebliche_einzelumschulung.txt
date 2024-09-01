@@ -1,0 +1,363 @@
+======================================================================================================================================================
+file:			D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_131_-_betriebliche_einzelumschulung.pdf
+chunk_size:		2000
+chunk_overlap:	500
+separators:		['\n{2,}', '(?<=[.?!])\\s*\n|\n\\s*', '[.!?]']
+n_chunks:		11
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Stand: 01.03.2014 
+Arbeitshilfe  
+ 
+Betriebliche Einzelumschulung im Rahmen der 
+Förderung der beruflichen Weiterbildung 
+gem. § 16 (1) S. 2 Nr. 4 SGB II i.V.m. §§ 81 ff. SG B III 
+ 
+ 
+• Allgemeines 
+ 
+Ein Berufsabschluss ist, unabhängig vom Alter, ein lohnendes Ziel und verbessert die 
+Chancen auf nachhaltige Integration auf dem allgeme inen Arbeitsmarkt erheblich. 
+Darüber hinaus wird die demografische Entwicklung i n den nächsten Jahren Fach- 
+kräftebedarfe in verschiedensten Berufsgruppen stär ker herausstellen, sodass die 
+Qualifizierung von Fachkräften indirekt zur Wirtsch aftsförderung der Region beiträgt.  
+ 
+Es ist belegt, dass Arbeitnehmer mit Berufsabschlus s den Arbeitgeber seltener 
+wechseln und auch seltener von Arbeitslosigkeit bet roffen bzw. bedroht sind. Die 
+besseren Chancen auf dem Arbeitsmarkt zahlen sich d urch bessere Entlohnung und 
+einer verringerten Gefahr von Altersarmut aus. 
+ 
+ 
+• Rechtlicher Hintergrund 
+ 
+Die betriebliche Einzelumschulung ist als spezielle  Ausprägungsform  dem arbeits- 
+marktpolitischen Instrument der Förderung der beruf lichen Weiterbildung (FbW) auf 
+Grundlage der §§ 81 ff. SGB III zuzuordnen. Die För dermöglichkeit für erwerbsfähige 
+Leistungsberechtigte ergibt sich aus § 16 Abs. 1 S.  2 Nr. 4 SGB II. 
+ 
+Demzufolge sind im Vorfeld einer möglichen Förderun g einer betrieblichen Umschu- 
+lungsmaßnahme die grundsätzlichen Förderungsvorauss etzungen der §§ 81 ff. SGB 
+III zu prüfen und zu erfüllen. Bezüglich dieser gru ndsätzlichen Voraussetzungen wird 
+an dieser Stelle auf die Ausführungen in Anlage 13 der ARK - Hinweise und Hand- 
+lungsempfehlungen zur Förderung der beruflichen Wei terbildung - sowie dem Prüf- 
+bogen „Förderungsvoraussetzungen FbW“ (Vordruck FMG 2) verwiesen. Insbesonde- 
+re steht hier der generelle Vorrang einer betriebli chen Erstausbildung im Fokus. Im 
+Ergebnis der Prüfung der Erfüllung der Förderungsvo raussetzungen muss die Er-
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+III zu prüfen und zu erfüllen. Bezüglich dieser gru ndsätzlichen Voraussetzungen wird 
+an dieser Stelle auf die Ausführungen in Anlage 13 der ARK - Hinweise und Hand- 
+lungsempfehlungen zur Förderung der beruflichen Wei terbildung - sowie dem Prüf- 
+bogen „Förderungsvoraussetzungen FbW“ (Vordruck FMG 2) verwiesen. Insbesonde- 
+re steht hier der generelle Vorrang einer betriebli chen Erstausbildung im Fokus. Im 
+Ergebnis der Prüfung der Erfüllung der Förderungsvo raussetzungen muss die Er- 
+messensentscheidung hergeben, dass die arbeitsmarkt liche Notwendigkeit einer 
+Weiterbildungs- (hier Umschulungs-) förderung  gegeben ist. Der Zugang zur betrieb- 
+lichen Einzelumschulung erfolgt formell ebenfalls d urch die Aushändigung eines Bil- 
+dungsgutscheines mit konkreter Definition zu den Ra hmenbedingungen (zeitl. Um- 
+fang, Bildungsziel etc.). Eine entsprechende Falldo kumentation mit Darstellung der 
+Begründung zur Notwendigkeit der Förderung ist eben falls notwendig.
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die rechtlichen Grundlagen für Umschulungsmaßnahmen  sind u.a. im Berufsbil- 
+dungsgesetzes (BBiG) verankert. 
+ 
+• § 1 (5) BBiG - Die berufliche Umschulung soll zu e iner anderen beruflichen Tätig-  
+                            keit befähigen. 
+ 
+Im Sinne des BBiG kann nur umgeschult werden, wer b ereits über eine abgeschlos- 
+sene Ausbildung in einem anderen Beruf verfügt oder  eine mehrjährige Berufspraxis 
+(z.B. in an-/ungelernter Tätigkeit) oder mind. sech s Semester Studium nachweisen 
+kann. Mit dieser Regelung wird eine Verbindung zu §  81 Abs. 2 SGB III geschaffen 
+(Förderung Wiederungelernter bzw. Erfordernis einer  3-jährigen beruflichen Tätig- 
+keit). 
+ 
+Eine Umschulung kann grundsätzlich als Einzel- oder  Gruppenumschulungsmaß- 
+nahme durchgeführt werden. In diesem Zusammenhang k önnen Träger einer Um- 
+schulung Betriebe der gewerblichen Wirtschaft, frei beruflich Tätige oder Organisatio- 
+nen der Erwachsenenbildung sein. Im Falle einer Ein zelumschulungsmaßnahme in 
+einem Betrieb der gewerblichen Wirtschaft bzw. bei einem Freiberufler spricht man 
+von betrieblicher Einzelumschulung . 
+ 
+ 
+• Dauer der Umschulung / Beginntermine 
+ 
+Die Vorschrift des § 180 Abs. 4 SGB III erfordert, dass eine Umschulungsmaßnah- 
+me, so auch die betriebliche Einzelumschulung, um e in Drittel der normalen Ausbil- 
+dungszeit verkürzt werden muss.  
+ 
+Auszug § 180 Abs. 4 SGB III 
+- Ergänzende Anforderungen an Maßnahmen der berufli chen Weiterbildung – 
+ 
+„Die Dauer einer Vollzeitmaßnahme, die zu einem Abs chluss in einem allgemein anerkannten Ausbil- 
+dungsberuf führt, ist angemessen im Sinne des § 179  Absatz 1 Satz 1 Nummer 3, wenn sie gegenü- 
+ber einer entsprechenden Berufsausbildung um mindes tens ein Drittel der Ausbildungszeit verkürzt ist. 
+Ist eine Verkürzung um mindestens ein Drittel der A usbildungszeit auf Grund bundes- oder landesge- 
+setzlicher Regelungen ausgeschlossen, so ist ein Ma ßnahmeteil von bis zu zwei Dritteln nur förde-
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+dungsberuf führt, ist angemessen im Sinne des § 179  Absatz 1 Satz 1 Nummer 3, wenn sie gegenü- 
+ber einer entsprechenden Berufsausbildung um mindes tens ein Drittel der Ausbildungszeit verkürzt ist. 
+Ist eine Verkürzung um mindestens ein Drittel der A usbildungszeit auf Grund bundes- oder landesge- 
+setzlicher Regelungen ausgeschlossen, so ist ein Ma ßnahmeteil von bis zu zwei Dritteln nur förde- 
+rungsfähig, wenn bereits zu Beginn der Maßnahme die  Finanzierung für die gesamte Dauer der Maß- 
+nahme auf Grund bundes- oder landesrechtlicher Rege lungen gesichert ist.“ 
+ 
+Anmerkung:  Sonderregelungen im Bereich der Altenpflege! 
+ 
+Die Verkürzungsvorschrift hat zum Hintergrund, dass  ein Umschüler i.d.R. auf vorlie- 
+gende berufliche Erfahrungen zurückgreifen kann und  eine höhere Leistungsbereit- 
+schaft gegeben ist. In Abhängigkeit der vorgeschrie benen Ausbildungszeit ergeben 
+sich unter Beachtung des Verkürzungserfordernisses folgende Umschulungszeiten: 
+ 
+Statt 2    Jahre Ausbildung                       1  Jahr und 4 Monate Umschulung 
+Statt 3    Jahre Ausbildung                       2  Jahre Umschulung 
+Statt 3,5 Jahre Ausbildung                       2 Jahre und 4 Monate Umschulung
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Da die Abschlussprüftermine im Förderzeitrum der Um schulung liegen müssen, er- 
+geben sich folgende Beginn-Termine für eine etwaige  betriebliche Umschulung: 
+ 
+- bei zweijähriger Umschulung i.d.R. am 01.08. oder  01.02. eines Jahres 
+- bei achtundzwanzigmonatiger / sechzehnmonatiger U mschulung i.d.R. am 
+01.04. oder 01.10. eines Jahres 
+ 
+ 
+• Ausgestaltung einer betrieblichen Umschulung 
+ 
+Eine betriebliche Einzelumschulung kommt der klassi schen Ausbildung sehr nahe. 
+Die betriebliche Umschulung erfolgt ebenfalls dual,  das heißt in einem Ausbildungs- 
+betrieb und im Berufsschulunterricht. Der Besuch ei ner Berufsschule ist nicht ver- 
+pflichtend, wird aber für die betriebliche Einzelum schulung dringend empfohlen, um 
+so die Erreichung des Umschulungsziel sicherzustell en. Der Umschüler steigt auf- 
+grund der verkürzten Ausbildung i.d.R. im zweiten A usbildungsjahr der Berufsschule 
+ein. 
+ 
+Der Ausbildungsbetrieb schließt mit dem Umschüler e inen Umschulungsvertrag  
+statt eines Ausbildungsvertrages ab. Dabei muss die  Dauer der Umschulung den 
+Regelungen zur Verkürzung von Umschulungen entsprec hen. 
+  
+Der Umschulungsvertrag muss bei der zuständigen Kam mer in das Verzeichnis der 
+Umschulungsverträge eingetragen werden. Eine Ausfer tigung der Kammereintra- 
+gung ist dem Jobcenter vorzulegen und den Förderunterlag en beizufügen. Verwei- 
+gert die Kammer die Zustimmung zur Umschulung, ist eine Förderung ausgeschlos- 
+sen. Vertragsunterlagen sind bei der jeweiligen Kam mer erhältlich. 
+ 
+Der Ausbildungsbetrieb muss zwingend zur Ausbildung  berechtigt sein (Ausbil- 
+dungsberechtigung). Eine zusätzliche Trägerzulassung des Betriebes ist nicht er- 
+forderlich (§ 176 Abs. 1 S. 2 SGB II). 
+ 
+Bei einer betrieblichen Umschulung wird die betrieb sübliche tarifliche Wochenar- 
+beitszeit zugrunde gelegt. Eine Ausnahme bildet die  Teilzeitausbildung, welche auch 
+im Rahmen der Förderung der beruflichen Weiterbildu ng als Umschulung umsetzbar 
+ist.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Der Ausbildungsbetrieb muss zwingend zur Ausbildung  berechtigt sein (Ausbil- 
+dungsberechtigung). Eine zusätzliche Trägerzulassung des Betriebes ist nicht er- 
+forderlich (§ 176 Abs. 1 S. 2 SGB II). 
+ 
+Bei einer betrieblichen Umschulung wird die betrieb sübliche tarifliche Wochenar- 
+beitszeit zugrunde gelegt. Eine Ausnahme bildet die  Teilzeitausbildung, welche auch 
+im Rahmen der Förderung der beruflichen Weiterbildu ng als Umschulung umsetzbar 
+ist. 
+ 
+ 
+• Finanzielle Rahmenbedingungen 
+ 
+Im Gegensatz zur Gruppenumschulungsmaßnahme fallen bei einer betrieblichen 
+Einzelumschulung i.d.R. keine Lehrgangskosten für d en Träger, hier dem Umschu- 
+lungsbetrieb, an. 
+ 
+Entsprechend der Regelung des § 83 SGB III können f olgende Weiterbildungskosten 
+übernommen werden:
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+- Lehrgangskosten 
+- Fahrkosten zur Ausbildung / Fahrkosten zu überbet rieblichen Seminaren 
+(Achtung  hier § 11b Abs. 1 S. 1 Nr. 5 vorrangig beachten!) 
+- Kosten für eine auswärtige Unterbringung und Verp flegung 
+- Kinderbetreuungskosten. 
+ 
+Im Vorfeld der Anbahnung einer Umschulung ist der n otwendige Kostenrahmen ab- 
+zustecken. Die Übernahme von Lehrgangskosten für no twendige überbetriebliche 
+Schulungen oder Qualifizierungsmaßnahmen ist dabei dem Grunde nach möglich. 
+Allerdings sollte im Gespräch mit dem Umschulungsbe trieb hier zunächst die Über- 
+nahmemöglichkeit/-bereitschaft von dieser Seite gek lärt werden.  
+ 
+Der Umschulungsbetrieb sollte eine Ausbildungsvergü tung zahlen. Dabei ist im ers- 
+ten Umschulungsjahr auf die tarifliche Regelung des  zweiten Ausbildungsjahres und 
+im zweiten Umschulungsjahr auf die tarifliche Regel ung des dritten Ausbildungsjah- 
+res abzustellen. Durch die Zahlung einer Ausbildung svergütung werden Abbrüche 
+aus finanziellen Gründen deutlich minimiert. Ebenso  stellt die Vergütung einen Moti- 
+vationsansporn für den Umschüler dar. Die Zahlung e iner Ausbildungsvergütung 
+stellt für erwerbsfähige Leistungsberechtigte Einko mmen i.S. des § 11 SGB II dar. In 
+der Mehrzahl der Fallgestaltungen wird ein aufstock ender Leistungsbezug notwendig 
+sein. Durch den Einkommensfreibetrag verbleibt dem Umschüler allerdings in der 
+Gesamtrechnung ein erhöhter Beitrag zum Lebensunter halt. 
+ 
+Eine betriebliche Einzelumschulung soll für Betrieb e keine preiswerte Ausbildungsal- 
+ternative darstellen. Allein deshalb sollte eine Ve rgütung gezahlt werden. Hiervon 
+kann nur in besonders notwendigen und begründeten F allgestaltungen abgewichen 
+werden (z.B. Ausbildung in Mangelberufen, Ausbildun g über Bedarf) wobei in diesem 
+Fall auch eine anteilige Vergütung möglich wäre. Ex istierende tarifvertragliche Be- 
+stimmungen, so z.B. bestehende Tariflöhne für Umsch üler, sind einzuhalten.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ternative darstellen. Allein deshalb sollte eine Ve rgütung gezahlt werden. Hiervon 
+kann nur in besonders notwendigen und begründeten F allgestaltungen abgewichen 
+werden (z.B. Ausbildung in Mangelberufen, Ausbildun g über Bedarf) wobei in diesem 
+Fall auch eine anteilige Vergütung möglich wäre. Ex istierende tarifvertragliche Be- 
+stimmungen, so z.B. bestehende Tariflöhne für Umsch üler, sind einzuhalten. 
+ 
+Im Rahmen der Einkommensanrechnung ist der Wegstrec kenaufwand zur Errei- 
+chung des Umschulungsbetriebes nach den Vorschrifte n des § 11b Abs. 1 S. 1 Nr. 5 
+SGB II vom Einkommen abzusetzen. Daher wird eine zu sätzliche Gewährung von 
+Fahrkosten gem. §§ 83 und 85 SGB III im Regelfall n icht notwendig sein.  
+ 
+Arbeitsplatzbezogene bzw. umschulungsbedingte Schut zkleidung zur Einhaltung der 
+Sicherheitsvorschriften ist durch den Arbeitgeber z u tragen. 
+ 
+ 
+• Umschulungsbegleitende Hilfen 
+ 
+Zur Flankierung individueller Lernprobleme besteht die Möglichkeit umschulungsbe- 
+gleitende Hilfen (ubH) anzubieten. Hierbei handelt es sich um notwendigen Stützun- 
+terricht, der den Berufsschulunterricht im Rahmen d er betrieblichen Einzelumschu- 
+lung ergänzt. So besteht beispielweise im Hochsauer landkreis ein Angebot des Kol-
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ping-Bildungszentrum Südwestfalen GmbH an unterschi edlichen Standorten, wel- 
+ches über einen separaten Bildungsgutschein zugängl ich ist. 
+• Eignungskriterien  
+ 
+Im Rahmen der betrieblichen Umschulung zwingend vor geschalteten Beratungspha- 
+se (§ 81 Abs. 1 Nr. 2 SGB III) ist u.a. die Eignung sfrage für den Zielberuf zu klären. 
+Neben formalrechtlichen Voraussetzungen ist die per sönliche Eignung, insbesondere 
+auch zur Durchhalte- und Lernfähigkeit abzuklären. 
+ 
+Hilfestellungen können sein: 
+ 
+ ABC-Messmethode  – Kompetenzfeststellung und Balanceanalyse zur gru nd- 
+sätzlichen Feststellung von Persönlichkeitsmerkmale n (Vergabemaßnahme in 
+Trägerschaft der moveo gGmbH – FMG2 Projekt „2013/0 2 ABC-Analyse Arn- 
+sberg“ und „2013/03 ABC-Analyse Olsberg“) 
+ 
+ Psychologische Begutachtung  mit konkreter Abfrage der Eignung für den 
+angestrebten Zielberuf (Vergabemaßnahme in Trägersc haft der Kolping Bil- 
+dungszentren Südwestfalen – FMG2 Projekt „2013/13 E ignungsfeststellung“) 
+ 
+ Betriebspraktikum ; ein vorgeschaltetes Betriebspraktikum im Rahmen e iner 
+Maßnahme zur Aktivierung und beruflichen Einglieder ung bei einem Arbeitge- 
+ber auf Grundlage des § 45 SGB III kann zur Klärung  der Eignung für ein be- 
+rufliches Tätigkeitsfeld aber auch der Motivationsf rage hilfreich sein. 
+ 
+ 
+• Akquise betrieblicher Umschulungsplätze  
+ 
+Die Akquise eines betrieblichen Umschulungsplatzes sollte vom Zielberufswunsch 
+des potentiellen Umschülers ausgehen. Es macht weni g Sinn betriebliche Umschu- 
+lungsplätze einzuwerben, die in der Folge nicht mit  geeigneten Personen besetzt 
+werden können. Daher sollte die Akquise im Regelfal l von den vorliegenden Rah- 
+menbedingungen des Leistungsberechtigten ausgehen. Folgende Wege einer AG-
+Ansprache sind denkbar: 
+ 
+ gezielte AG-Ansprache durch den Arbeitsvermittler/ Fallmanager mit Vorlage 
+eines konkreten Bewerbers für eine betriebliche Ums chulung 
+ 
+ Rückgriff auf unbesetzte Ausbildungsplätze (Quelle n: eigene nicht mit einem
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+lungsplätze einzuwerben, die in der Folge nicht mit  geeigneten Personen besetzt 
+werden können. Daher sollte die Akquise im Regelfal l von den vorliegenden Rah- 
+menbedingungen des Leistungsberechtigten ausgehen. Folgende Wege einer AG-
+Ansprache sind denkbar: 
+ 
+ gezielte AG-Ansprache durch den Arbeitsvermittler/ Fallmanager mit Vorlage 
+eines konkreten Bewerbers für eine betriebliche Ums chulung 
+ 
+ Rückgriff auf unbesetzte Ausbildungsplätze (Quelle n: eigene nicht mit einem 
+Ausbildungsstellenbewerber besetzbare Ausbildungsst ellen, Ausbildungs- 
+platzbörse der Agentur für Arbeit, Ausbildungsplatz börsen der Kammern) 
+ 
+ Initiativbemühungen/-bewerbungen durch den erwerbs fähigen Leistungsbe- 
+rechtigten zur Erlangung eines betrieblichen Umschu lungsplatzes (Unterstüt- 
+zungsmöglichkeit aus dem Vermittlungsbudget). Im Vo rfeld sollte der Aktions-
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+radius, d.h. das Berufsfeld bzw. die Berufsrichtung  (Zielberuf), die Arbeits- 
+marktregion (z.B. Tagespendelbereich), potentielle Arbeitgeber gemeinsam 
+abgesteckt und möglichst in einer EGV dokumentiert werden. 
+ 
+ Konzentration auf Mangelberufe, Berufsfelder mit b estehendem Fachkräftebe- 
+darf 
+ 
+ Öffentlichkeitsarbeit; Umwerbung von betrieblichen  Umschulungsplätzen in 
+der Arbeitgeberschaft, dabei aber stets den Vorrang  zur Einrichtung und Be- 
+setzung betrieblicher Ausbildungsstellen zu berücks ichtigen.  
+ 
+Zur Hilfestellung in der Arbeitgeberansprache wurde  ein separater Flyer „Förderung 
+betrieblicher Umschulungen“ zur Information der Arb eitgeber erstellt. 
+ 
+ 
+• Notwendige formelle Umsetzungsschritte (nicht abschließend)  
+ 
+ Individuelle Beratung, Prüfung der Förderungsvorau ssetzungen FbW unter 
+Nutzung des Prüfschema FbW (Vordruck Förderungsvora ussetzungen FbW), 
+ggf. Einbezug einer Eignungsfeststellung durch Drit te;  
+ 
+ Dokumentation der Ermessensentscheidung mit zwinge nd notwendiger Dar- 
+stellung der arbeitsmarktlichen Notwendigkeit der F örderung;  
+ 
+ Zugang einer betrieblichen Einzelumschulung mit Bi ldungsgutschein (Ausgabe 
+eines Bildungsgutscheines mit Festlegung der indivi duellen Rahmenbedin- 
+gungen); 
+ 
+ Erhebungsbogen für eine betriebliche Einzelumschul ung mit Hinweisblatt 
+durch den Arbeitgeber vor Beginn der Umschulung aus füllen, um in der Folge 
+die konkreten Rahmenbedingungen und Kosten im Bewil ligungsverfahren fest- 
+legen zu können; 
+ 
+ Eintrag Umschulungsvertrag bei zust. Kammer, im Vo rfeld Sichtvermerk, För- 
+derbestätigung auf Formvordruck durch FM/AV; Vertra gsvordrucke bei zust. 
+Kammer; 
+ 
+ Erstellung Bewilligungsbescheid FbW, parallel Koste nbuchung FMG2, Förder- 
+absprache mit passivem Leistungsbereich (u.a. Einko mmensanrechnung Aus- 
+bildungsvergütung, Absetzungsbetrag Fahrkostenaufwa nd); 
+ 
+ Umschulungsbegleitung, Absolventenmanagement.

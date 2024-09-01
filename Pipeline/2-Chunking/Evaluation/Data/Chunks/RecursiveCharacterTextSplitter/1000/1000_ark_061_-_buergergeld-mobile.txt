@@ -1,0 +1,168 @@
+======================================================================================================================================================
+file:			D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_061_-_buergergeld-mobile.pdf
+chunk_size:		1000
+chunk_overlap:	200
+separators:		['\n{2,}', '(?<=[.?!])\\s*\n|\n\\s*', '[.!?]']
+n_chunks:		7
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 6a  
+  - Bürgergeld -Mobile – 
+ 
+ 
+ 
+Rahmenkonzeption  
+für die  Bereitstellung und  Nutzung der  „Bürgergeld -Mobile“  
+ 
+ 
+I. Grund der Anschaffung  
+ 
+Fehlende regionale Mobilität stellt bei einer Vielzahl der erwerbsfähigen Leistungsbe-
+rechtigten  im Bereich der Grundsicherung ein Vermittlungshemmnis dar. Eine Beschäf-
+tigungsaufnahme wird in der ländlich  strukturierten  Region des HSK häufig durch feh-
+lende Verkehrsanbindungen verhindert.  So sind entlegene Arbeits orte, Arbeitsplät ze 
+im Schichtdienst sowie mit wechselnden Arbeitsorten (z.B. Arbeitnehmerüberlassung) 
+für viele Hilfesuchenden im Rahmen der zumutbar en Pendelzeiten mit Öffentlichem  
+Personennahverkehr (ÖPNV) nicht zu erreichen.  Eigenmittel zur Finanzierung eines 
+Kraftfahrzeuges stehen i.d.R. nicht zur Verfügung, Fremdkapital kommt wegen Schul-
+denproblematiken und fehlender Einkommenssicherheit meist nicht in Betracht.  In der-
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Kraftfahrzeuges stehen i.d.R. nicht zur Verfügung, Fremdkapital kommt wegen Schul-
+denproblematiken und fehlender Einkommenssicherheit meist nicht in Betracht.  In der-
+art gelagerten Fallkonstellationen sichert d ie Bereitste llung eines Kleinwagens ( Bürger-
+geld-Mobil) grundsätzliche  die Arbeitsaufnahme und pünktliche Erreichbarkeit des Ar-
+beitsortes in der Anfangsphase eines Beschäftigungsverhältnisses ab.  
+ 
+Zur Förderung der regionalen Mobilität für die Anbahnung oder die Aufnah me einer 
+sozial versicherungspflichtigen Beschäftigung wurden  daher  im Rahmen der Aufgaben-
+wahrnehmung nach dem SGB II zum 20.12.2019  drei Fahrzeuge der Marke VW -Up! 
+zur Gebrauchsüberlassung an SGB II -Kunden ohne eigenen Pkw geleast, damit die 
+erwerbsfähigen  Leistungsberechtigten  einen konkret in Aussicht gestellten Arbeits -, 
+Ausbildungs - oder Praktikumsplatz erreichen können.  Fördergrundlage stellt hier § 16
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+erwerbsfähigen  Leistungsberechtigten  einen konkret in Aussicht gestellten Arbeits -, 
+Ausbildungs - oder Praktikumsplatz erreichen können.  Fördergrundlage stellt hier § 16 
+Abs. 1  SGB II i.V.m.  § 45 SGB III – Vermittlungsbudget – dar; dementsprechend be-
+steht die Legitimatio n zum Einsatz von Eingliederungs mitteln  nach dem SGB II.  
+ 
+ 
+II. Voraussetzungen  
+ 
+Damit ein Fahrzeug bereitgestellt werden kann , müssen die folgenden Voraussetzun-
+gen erfüllt werden:  
+ 
+- SGB II - Leistungsbezug , 
+ 
+- Beendigung der Arbeitslosigkeit durch Aufnahme einer sozialversicherungspflich-
+tigen Beschäftigung  oder Teilnahme an einer Maßnahme zur Aktivierung und be-
+ruflichen Eingliederung bei einem Arbeitgeber  (MAG)  mit konkreter Einstellungs-
+aussicht , 
+ 
+- Vorlage eines schriftlichen Arbeitsvertrages bzw. einer konkreten Einstellungsbe-
+stätigung  bzw. entsprechenden Nachweises  des potentiellen Arbeitgebers ,
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+aussicht , 
+ 
+- Vorlage eines schriftlichen Arbeitsvertrages bzw. einer konkreten Einstellungsbe-
+stätigung  bzw. entsprechenden Nachweises  des potentiellen Arbeitgebers , 
+ 
+- Unzumutbarkeit der Nu tzung des ÖPNV (Pendelzeiten außerhalb der Zumutbar-
+keitsgrenzen  – § 121 Abs. 4  SGB III ) bzw. fehlende Verkehrsanbindungen (z.B. 
+abgelegener Arbeits -/Wohnort, Schichtarbeit, Wochenendarbeit) , 
+ 
+- fehlende Verfügbarkeit eines geeigneten Kraftf ahrzeuges innerhalb der Bedarfs-
+gemeinschaft  und 
+ 
+- fehlende Finanzierungsmöglichkeit zur Anschaffung eines eigenen geeigneten 
+Kraftfahrzeuges (fehlende Eigen -/Fremdmitte l)
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 6a  
+  - Bürgergeld -Mobile – 
+ 
+ 
+ 
+III. Umfang  
+ 
+Grundsätzlich ist die zur Verfügungsstellung des Bürgergeld -Mobils auf das unbedingt 
+notwendige Maß zu beg renzen. Eine Aufb ringung von Eigenmitteln ist bis zur ersten   
+Lohn -/Gehaltszahlung im Regelfall  ausgeschlossen, so dass ein Verleih -Zeitraum von 
+durch schnittlich zwei bis vier  Wochen angemessen erscheint.   
+ 
+Abweichungen vom Regelzeitraum bedürfen einer gesonderten Begründung.  
+ 
+Die Nutzung erstreckt sich ausschließlich auf Fahrten zur Bewältigung der  täglichen 
+Wegstrecke zur Erreichung des Arbeitsplatzes. Eine Nutzung für private Fahrten ist  
+ausdrücklich  ausgeschlossen.  
+ 
+ 
+IV. Organisation  
+ 
+Halter der Fahrzeuge ist der Hochsauerlandkreis. Für die Fahrzeuge ist eine Haft-
+pflichtversicherung in gesetzlicher H öhe für Sach - und Personenschäden und eine Voll-
+kasko versicherung abgeschlossen worden.  
+ 
+Zwei Fahrzeuge stehen am Standort Meschede bereit. Die Ausgabe der Fahrzeuge
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+kasko versicherung abgeschlossen worden.  
+ 
+Zwei Fahrzeuge stehen am Standort Meschede bereit. Die Ausgabe der Fahrzeuge 
+erfolgt durch eine durch die Fachdienstleitung 51 beauftragte Person. Diese Person ist 
+für die gesamte Organisation  (u.a. Abschluss einer Vereinbarung mit dem Hilfeemp-
+fänger, Überprüfung der Fahrerlaubnis, Überprüfung der ordnungsgemäßen Rückgabe 
+der Fahrzeuge ) verantwortlich. Die technische Überwachung der Fahrz euge (u.a. 
+Pflege , Wartung und Inspektion)  erfolgt durch das Fuhrparkmanagement des Hoch-
+sauerlandkreises.  
+ 
+Aufgrund der hohen Nachfrage und des bestehenden Bedarfs de s Jobcenters der  Stadt 
+Arnsberg steht ein Fahrzeug am Standort Arnsberg bereit. Die gesamte Abwicklung 
+erfolgt durch die Stadt Arnsberg. Es ist von der Stadt Arnsberg ein Gesamtverantwort-
+licher/Gesamtkoordinator für das Fahrzeug zu benennen. Weiterhin müssen von der 
+Stadt Arnsberg verantwortliche Personen für die Organisation (u.a.  Abschluss einer
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+licher/Gesamtkoordinator für das Fahrzeug zu benennen. Weiterhin müssen von der 
+Stadt Arnsberg verantwortliche Personen für die Organisation (u.a.  Abschluss einer 
+Vereinbarung mit dem Hilfee mpfänger, Überprüfung der Fahrerlaubnis, Überprüfung 
+der ordnungsgemäßen Rückgabe der Fahrzeuge) und die techni sche Überwachung 
+(u.a. Pflege, Wartung und Inspektion) benannt werden.  Es erfolgt von der Stadt Arns-
+berg eine Erklärung, dass sämtliche Abläufe e ntsprechend dieser Rahmenkonzeption 
+erfolgen.  
+ 
+Die organisatorische Fahrzeugverwaltung als auch die Zahlbarmachung entstehender 
+Kosten für Leasingraten und Unterhaltung erfolgt mittels  eines Projektes im Fachver-
+fahren FMG .job.  
+ 
+ 
+V. Ablauf  
+ 
+Die Übergabe der Fahrzeuge erfolgt durch die jeweils für die Organisation zuständige 
+Person. Mit dem jeweiligen Hilfeempfänger ist eine Vereinbarung über die Überlassung 
+eines Kraftfahrzeuges (entsprechend des zur Verfügung gestellten Muster -Vordrucks) 
+abzuschließen.

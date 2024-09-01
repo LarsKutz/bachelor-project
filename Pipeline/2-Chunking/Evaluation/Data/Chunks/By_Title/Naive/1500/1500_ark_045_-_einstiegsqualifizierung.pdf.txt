@@ -1,0 +1,226 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_045_-_einstiegsqualifizierung.pdf
+chunk_size:			1500
+loading_strategy:	hi_res
+chunking_strategy:	By_Title
+mode:				Naive
+n_chunks:			15
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+EQ-
+
+Anlage 4.5
+
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung von Leistungen zur Einstiegsqualifizierung (EQ) gem. § 16 (1) S. 2 Nr. 3 SGB II i.V.m. § 54a SGB III
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Allgemeines
+
+Unternehmen, die Jugendlichen ohne Ausbildungsplatz eine sechs- bis zwölfmonatige Einstiegsqualifizierung anbieten, können einen Zuschuss zum Unterhalt des Jugendlichen III – erhalten. Die näheren Einzelheiten sind Einstiegsqualifizierung geregelt.
+
+Die Jugendlichen sollen durch die Einstiegsqualifizierung die Möglichkeit haben, -fertigkeiten zu erwerben, die auf eine anschließende Grundkenntnisse und Berufsausbildung – möglichst im gleichen Betrieb – vorbereiten.
+
+Die Einstiegsqualifizierung stellt damit ein nachrangiges Integrationsinstrument dar, es zielt des der vorrangig Ausbildungskonsenses ab (Stichtag 30.09. eines Kalenderjahres). Die Verdrängung der Bereitstellung von betrieblichen Ausbildungsverhältnissen ist zu vermeiden. Um einer Substitution von betrieblichen Ausbildungsplätzen durch EQ vorzubeugen, ist zu prüfen, ob der Antrag stellende Betrieb seine Ausbildungstätigkeit verringert hat und durch EQ-Plätze ersetzt. Sollten Anhaltspunkte dafür vorliegen, so ist dies festzuhalten und der EQ-Antrag abzulehnen. Unter Berücksichtigung der besonderen Situation von jungen erwerbsfähigen Leistungsberechtigten mit Fluchthintergrund kann eine Einstiegsqualifizierung im Einzelfall den Zugang zu einer betrieblichen Ausbildungsstelle ermöglichen.
+
+Förderungsvoraussetzungen / Förderkonditionen / Förderdauer /
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 54a SGB III Einstiegsqualifizierung
+
+(1) Arbeitgeber, die eine betriebliche Einstiegsqualifizierung durchführen, können durch Zuschüsse in Höhe der von ihnen mit der oder dem Auszubildenden vereinbarten Vergütung durchschnittlichen Gesamtsozialversicherungsbeitrag gefördert werden. Der Zuschuss zur Vergütung ist auf 262 Euro monatlich begrenzt. Die betriebliche Einstiegsqualifizierung dient der für den Erwerb beruflicher Vermittlung und Vertiefung von Grundlagen Handlungsfähigkeit. als Berufsausbildungsvorbereitung nach dem Berufsbildungsgesetz durchgeführt wird gelten die §§ 68 bis 70 des Berufsbildungsgesetzes.
+
+(2) Eine Einstiegsqualifizierung kann für die Dauer von sechs bis längstens zwölf Monaten gefördert werden, wenn sie
+
+1. auf der Grundlage eines Vertrages i.S. des § 26 BBiG mit der oder dem Auszubildenden durchgeführt wird,
+
+2. auf einen anerkannten Ausbildungsberuf i.S. des § 4 Abs. 1 BBiG, § 25 Abs. 1 S.1 HWO, des Seemannsgesetzes, nach Teil 2 des Pflegeberufegesetzes oder des Altenpflegegesetzes vorbereitet und
+
+EQ-
+
+Anlage 4.5
+
+3. in Vollzeit oder wegen der Erziehung eigener Kinder oder der Pflege von Familienangehörigen in Teilzeit von mind. 20 Wochenstunden durchgeführt wird.
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) Der Abschluss eines Vertrages ist der nach dem BBiG, im Falle der Vorbereitung auf einen nach Teil 2 des Pflegeberufegesetzes oder nach dem Altenpflegegesetz anerkannten Ausbildungsberuf der nach Landesrecht zuständigen Stelle anzuzeigen. Die vermittelten Fertigkeiten, Kenntnisse und Fähigkeiten sind vom Betrieb zu bescheinigen. Die zuständige Stelle stellt über die erfolgreich durchgeführte betriebliche Einstiegsqualifizierung ein Zertifikat aus.
+
+(4) Förderungsfähig sind
+
+Träger“) gemeldete Ausbildungsbewerberinnen und -bewerber mit aus individuellen Gründen eingeschränkten Vermittlungsperspektiven, die auch nach den bundesweiten Nachvermittlungsaktionen keinen Ausbildungsplatz haben,
+
+2. Ausbildungsuchende, die noch nicht in vollem Maße über die erforderliche Ausbildungsreife verfügen, und
+
+3. lernbeeinträchtigte und sozial benachteiligte Ausbildungsuchende.
+
+(5) Die Förderung einer oder eines Auszubildenden, die oder der bereits eine betriebliche Einstiegsqualifizierung bei dem Antrag stellenden Betrieb oder in einem anderen Betrieb des Unternehmens durchlaufen hat, oder in einem Betrieb des Unternehmens oder eines verbundenen Unternehmens in den letzten drei Jahren vor ist Beginn der Einstiegsqualifizierung versicherungspflichtig beschäftigt war, ausgeschlossen. Gleiches gilt, wenn die Einstiegsqualifizierung im Betrieb des Ehegatten, Lebenspartnerin oder Lebenspartner oder Eltern durchgeführt wird.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Verfahrensregelungen
+
+individuellen Der Zugang Zielgruppenzugehörigkeit. § 54a SGB III unterscheidet die Zielgruppe der „unversorgten Bewerber“ im Ausbildungskonsens (§ 54a (4) Nr. 1 SGB III) sowie die Zielgruppe der sogenannten „benachteiligten Bewerber“ (§ 54a (4) Nr. 2 u. 3 SGB III) und „Altbewerber“ (Bewerber aus früheren Schulentlassjahren). Im Regelfall werden die „unversorgten Bewerber“ des aktuellen Entlassjahrgangs durch Bemühungen der Konsenspartner (Agentur für Arbeit, Kammern) den Betrieben zugeführt. Für den Personenkreis der „unversorgten Bewerber“ kann der Zugang einer Einstiegsqualifizierung erst nach dem 30.09. des aktuellen Bewerberjahres erfolgen. Der Beginn der Förderung ab 1. Oktober für den Personenkreis nach § 54a Abs. 4 Nr. 1 SGB III soll sicherstellen, dass erst alle Möglichkeiten der Vermittlung im Rahmen der bundesweiten Nachvermittlungen gemeinsam mit den Kammern verabredet wurden, ausgeschöpft sind.
+
+Für Bewerber nach den Personenkreisen des § 54a Abs. 4 Nr. 2 und 3 SGB III, als auch für Bewerber aus früheren Schulentlassjahren („Altbewerber“), können Eintritte in EQ ab 1. August gefördert werden.
+
+Bei dem Personenkreis nach § 54a (4) Nr. 1 SGB III handelt es sich um ausbildungsreife Ausbildungsuchende mit Vermittlungshemmnissen, die entweder in der Person bzw. den persönlichen Umständen liegen, oder um Personen, die wegen des Mangels an verfügbaren Ausbildungsangeboten im angestrebten Ausbildungsberuf bislang nicht vermittelt werden konnten.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Bei dem Personenkreis nach § 54a (4) Nr. 2 SGB III handelt es sich um Personen, die eignungsbedingte Einschränkungen im Hinblick auf den angestrebten Ausbildungsberuf
+
+Zugang EQ
+
+Zielgruppen- definition
+
+EQ-
+
+Anlage 4.5
+
+aufweisen, die aber grundsätzlich für die Ausbildung in einem Betrieb geeignet sind. Die EQ dient hier insbesondere der Behebung der noch vorhandenen Einschränkungen.
+
+Als lernbeeinträchtigt i.S. des § 54a (4) Nr. 3 SGB III gelten Jugendliche und junge Erwachsene
+
+- ohne Hauptschul- oder vergleichbaren Abschluss bei Beendigung der allgemeinen Schulpflicht,
+
+aus Förderschulen für Lernbehinderte unabhängig vom erreichten Schulabschluss, - mit Hauptschul- oder vergleichbarem Abschluss bei Beendigung der allgemeinbildenden Schulpflicht, wenn erhebliche Bildungsdefizite vorliegen, die erwarten lassen, dass ohne eine Einstiegsqualifizierung ein angestrebter Berufsabschluss nicht zu erreichen ist.
+
+Als sozial benachteiligt i.S. des § 54a (4) Nr. 3 SGB II gelten insbesondere Jugendliche und junge Erwachsene unabhängig von dem erreichten allgemeinbildenden Schulabschluss,
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+die nach Feststellung eines medizinischen/psychologischen Gutachters verhaltensgestört oder wegen gravierender sozialer, persönlicher und/oder psychischer Probleme ohne einer vorgeschalteten Einstiegsqualifizierung den Anforderungen einer betrieblichen Ausbildung nicht gewachsen sind, - mit Teilleistungsschwächen (z.B. Legasthenie; Dyskalkulie, ADS), - für die Hilfe zur Erziehung im Sinne des Kinder- und Jugendhilfegesetzes (SGB VIII) geleistet worden ist oder wird, wenn sie voraussichtlich in der Lage sein werden, die Anforderungen einer EQ zu erfüllen, - ehemals drogenabhängige Jugendliche, - straffällig gewordene Jugendliche, - jugendliche Spätaussiedler mit Sprachschwierigkeiten, - ausländische Jugendliche, die aufgrund von Sprachdefiziten oder bestehender sozialer Eingewöhnungsschwierigkeiten in einem fremden soziokulturellen Umfeld der besonderen Unterstützung bedürfen, - alleinerziehende junge Frauen/Männer.
+
+Grundsätzlich ist der Zugang einer EQ auf den Personenkreis der Jugendlichen bis zur Vollendung des 25. Lebensjahres beschränkt. Ausnahmetatbestände für die Förderung einer EQ für Personen über 25 Jahre können u. a. sein:
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Altersgrenze
+
+- Persönliche Umstände, die eine frühere Berufsausbildung bzw. Hinführung zu einer Ausbildung unmöglich oder stark erschwert haben (z.B. Krankheit, Suchtprobleme, familiäre Besonderheiten, Straffälligkeit, Auslandsaufenthalte etc.).
+
+Bei anerkannten Flüchtlingen bis unter 35 Jahren kann in der Regel vom Vorliegen eines Ausnahmetatbestandes ausgegangen werden. Bei diesem Personenkreis ist generell davon auszugehen, dass die Lebensumstände bisher die Aufnahme einer Berufsausbildung nicht ermöglicht haben.
+
+Ausnahmetatbestände für die Förderung einer EQ für Personen mit (Fach-)Abitur können zusätzlich zu den oben genannten Gründen in Defiziten im Bereich der personalen und sozialen Kompetenzen begründet sein, die durch eine EQ behoben werden können.
+
+Die Förderung für eine Person, die bereits im Rahmen der EQ gefördert wurde, bei einem anderen Arbeitgeber ist nicht ausgeschlossen. Die bisherige Förderzeit ist in diesen Fällen in vollem Umfang auf die neue Förderung anzurechnen und darf insgesamt 12 Monate nicht überschreiten.
+
+Es sind nur Personen förderbar, die sich um eine Ausbildungsvermittlung i.S. des § 35 SGB III bemüht haben. Hierbei ist nicht erforderlich, dass ihnen durch die Agentur für Arbeit der Bewerberstatus zuerkannt wurde.
+
+EQ-
+
+Anlage 4.5
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Beantragung des Zuschusses erfolgt über ein Formformular, welches u.a. auch durch die Kammern ausgegeben wird. In FMG2 ist das Formblatt ausgehend vom Kundendesktop im Register Dokumentation als Kreisvordruck „04 Antrag EQ“ hinterlegt. Zuständig ist das Jobcenter, in dessen Bezirk der EQ - Teilnehmer seinen Wohnsitz hat. Der Arbeitgeber ist verpflichtet, jede Änderung, die sich auf die Zahlung des Zuschusses auswirkt, dem zuständigen Jobcenter unverzüglich mitzuteilen. Endet die Einstiegsqualifizierung vor dem Ende des bewilligten Förderzeitraums, hat der Arbeitgeber etwaige überzahlte Leistungen zurückzuzahlen. Dem Arbeitgeber ist ein schriftlicher Bescheid über die Förderungs- entscheidung zu erteilen. Mit dem Bescheid ist dem Arbeitgeber der Vordruck „Bestätigung Anmeldung zur Sozialversicherung EQ“ zu übersenden.
+
+Die Parteien müssen einen schriftlichen Vertrag über eine Einstiegsqualifizierung schließen. Vertragsvordrucke sind bei der jeweiligen Kammer erhältlich. Der Vertragsabschluss ist der Kammer anzuzeigen.
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Höhe der Vergütung liegt – sofern kein Tarifvertrag mit einer Regelung zur einschlägigen Maßnahme besteht- in der Gestaltungsfreiheit der Vertragsparteien. Regelungen für die Ausbildungsvergütung gelten nicht. Während der Einstiegsqualifizierung besteht Versicherungspflicht in der gesetzlichen KV, PV, RV, AV und UV. Die Vergütung stellt Erwerbseinkommen im Sinne der Anrechungsvorschriften des SGB II (§ 2 Bürgergeld-V) dar. Speziell ist bei erwerbsfähigen Leistungsberechtigten im Alterszuschnitt U25 ab 01.07.2023 die Vorschrift des § 11b (2b) Nr. 2 SGB II zur Festlegung von Absetzbeträgen zu beachten.
+
+Wird Vertraglich eine Vergütung von bis zu 262,- Euro vereinbart, so entstehen dem Betrieb im Förderungsfall keine Kosten durch die Vergütung des Teilnehmers, da er insgesamt bis zu 393,- Euro (262,- + 131,-) incl. des Arbeitsgeberanteils erhält (Förderbeträge ab 01.08.2022).
+
+Die Berufsschulpflicht bleibt unberührt (bis zum Ablauf des Schuljahres, in dem der Jugendliche 18 Jahre alt wird).
+
+Eine Übernahmeverpflichtung in eine Berufsausbildung bzw. Beschäftigung besteht im Anschluss an die Einstiegsqualifizierung nicht.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Unter Berücksichtigung der Anrechenbarkeit eine „EQ-Beschäftigung“ auf die evt. folgende Ausbildungszeit ist die im Gesetz vorgegebene Regelförderungszeit von 6 bis 12 Monaten unter Berücksichtigung des Berufsausbildungsbeginns zum 01.08. / 01.09. eines Jahres einzuhalten. Im Umkehrschluss bedeutet dies, dass das Beginn-Datum des Förderzeitraumes EQ mindestens vor dem 01.02. (bzw. im Ausnahmefall 01.03.) zur Erreichung einer 6-monatigen Förderung eines Jahres liegen muss.
+
+Kostenerstattungen:
+
+Dem qualifizierenden Betrieb können auf Antrag
+
+eine Vergütung der Einstiegsqualifizierung bis zu einer Höhe von 262,- € monatlich zuzüglich eines pauschalierten Anteils am Gesamtsozialversicherungsbeitrag in Höhe
+
+von derzeit 131,- €
+
+erstattet werden (Förderbeträge Stand 01.08.2022).
+
+Der Anteil am pauschalierten Gesamtsozialversicherungsbeitrag beträgt für Personen, die ab 01.08.2022 in EQ eintreten, für die gesamte individuelle Förderdauer monatlich 131,- Euro, unabhängig von der tatsächlich an den Arbeitgeber gezahlten Förderung.
+
+Die Leistungen werden im Rahmen der verfügbaren Haushaltsmittel jeweils für den zurückliegenden Monat ausgezahlt. Ein Rechtsanspruch auf Leistungen besteht nicht. Es liegt im Ermessensspielraum des Jobcenters, ob die Förderung bewilligt wird. Allerdings
+
+Zuständigkeit
+
+EQ- Vertrag
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Berufsschul- pflicht
+
+EQ-
+
+Anlage 4.5
+
+sollte hier im Sinne der Vorbereitung auf eine Berufsausbildung ein großzügiger Maßstab angelegt werden. Die Ermessensentscheidung mit Bezug auf die Zugehörigkeit des förderungsberechtigten Personenkreises (§ 54a (4) Nr. 1 – 3 SGB III) ist in FMG2 im Register Dokumentation bisherigen im Anschluss eine Sonderprogramms belegen, dass 70% der Jugendlichen Berufsausbildung aufnehmen. Zu dem ist zu beachten, dass Anträge durch Dritte – z. B. Kammern – offensiv im Ausbildungskonsens ausgegeben werden. Eine spätere Ablehnung würde den Bemühungen und dem politischen Willen entgegenstehen.
+
+Die in § 54a Abs. 6 SGB III normierte Möglichkeit zur Erstattung von Fahrkosten während der Teilnahme an einer Einstiegsqualifizierung gilt nicht für erwerbsfähige Leistungsberechtigte nach dem SGB II. Bei Teilnehmenden, die Leistungen zur Sicherung des Lebensunterhalts in der Grundsicherung für Arbeitsuchende beziehen, werden die Fahrkosten im Rahmen der Berechnung des Bürgergelds bereits als Absetzbetrag berücksichtigt.
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Förderungsausschluss
+
+Nicht gefördert werden Jugendliche, die zu Beginn der Einstiegsqualifizierung das 25. Lebensjahr vollendet haben. Ausnahmetatbestände aufgrund persönlicher Umstände können ist eine Förderung von berücksichtigt werden (siehe „Altersgrenze“). Desweiteren Jugendlichen ausgeschlossen, die bereits eine Einstiegsqualifizierung bei dem Antrag stellenden Betrieb oder in einem anderen Betrieb des Unternehmens durchlaufen haben oder in einem Betrieb des Unternehmens oder eines verbundenen Unternehmens in den letzten drei Jahren vor Beginn der Einstiegsqualifizierung versicherungspflichtig beschäftigt waren.
+
+Eine Förderung von Personen, die bereits eine Berufsausbildung (schulisch oder betrieblich) oder ein Studium abgeschlossen haben, kommt nicht in Betracht. Ein ausländischer Berufsabschluss gilt nur dann als abgeschlossene Berufsausbildung, wenn der Berufsabschluss in Deutschland anerkannt ist.
+
+Einstiegsqualifizierungen, die im Betrieb des Ehegatten oder des Lebenspartners oder der Eltern des Jugendlichen durchgeführt werden sind ebenfalls nicht förderungsfähig. Von einem Betrieb der Eltern ist auszugehen, wenn mindestens ein Elternteil auf das Unternehmen einen so beherrschenden Einfluss ausübt, dass aus Sicht des Unternehmens zu Interessenskonflikten kommen kann.
+
+
+
+Chunk #14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Nicht gefördert werden Jugendliche, die vergleichbare Leistungen aus öffentlichen Mitteln erhalten bzw. eine Maßnahme eines vergleichbaren Programms ohne wichtigen, von ihnen zu vertretenden Grund ablehnen oder abbrechen.
+
+Zahlbarmachung / technische Umsetzung
+
+Die EDV-technische/statistische Darstellung im Programm FMG2 der Förderung einer betrieblichen Einstiegsqualifizierung erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung „Einstiegsqualifizierung“ im Projekt „400 Maßnahmen“. Bei der Auswahl der Maßnahme ist je nach Berufsfeld zwischen Einstiegsqualifizierung Industrie u. Handel, Einstiegsqualifizierung Handwerk oder. sonstige Bereiche zu unterscheiden. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Nach der Zuweisung sind über den BaEL- Assistenten ggf. bestehende Alo-Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund muss angepasst werden.
+
+EQ-
+
+Anlage 4.5
+
+
+
+Chunk #15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Teilnahme an einer Einstiegsqualifizierung entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge (Grundlage u.a. individuelle Vertragsgestaltung sowie Höchstbeträge des § 54a SGB III) von Beginn an für die gesamte Dauer der Förderzeit für die Zukunft im Programm unter Verwendung des HAS 20350 mit dem Status „geplant“ zu hinterlegen. Bei Abbruch bzw. vorzeitiger Beendigung der Einstiegsqualifizierung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren.
+
+Verfügbare Vordrucke in FMG2: 04 Antrag EQ 04 Bestätigung Anmeldung Sozialversicherung EQ 04 Bewilligung EQ 04 Vertrag EQ
+
+(Stand: 01.05.2023)

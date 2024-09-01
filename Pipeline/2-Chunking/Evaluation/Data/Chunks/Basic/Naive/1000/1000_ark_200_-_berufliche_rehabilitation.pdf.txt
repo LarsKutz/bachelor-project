@@ -1,0 +1,86 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_200_-_berufliche_rehabilitation.pdf
+chunk_size:			1000
+overlap:			200
+loading_strategy:	hi_res
+chunking_strategy:	basic
+mode:				naive
+n_chunks:			8
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Reha-
+
+Anlage 20
+
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung / Gestaltung von Maßnahmen zur Förderung der Teilhabe am Arbeitleben (berufliche Rehabilitation)
+
+Allgemeines
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung / Gestaltung von Maßnahmen zur Förderung der Teilhabe am Arbeitleben (berufliche Rehabilitation)
+
+Allgemeines
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+hlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung / Gestaltung von Maßnahmen zur Förderung der Teilhabe am Arbeitleben (berufliche Rehabilitation)
+
+Allgemeines Der HSK ist im Bereich der Wiedereingliederung für alle Hilfeempfänger Leistungs-Träger, bei denen die Agentur für Arbeit Reha-Träger nach dem SGB IX ist und die unmittelbar vor dem Maßnahmebeginn Leistungen nach dem SGB II beziehen. Eine Ausnahme bilden hier die Aufstocker gem. § 18a SGB II, da sie Anspruch auf Förderung von Pflichtleistungen nach dem SGB III durch die Agentur für Arbeit haben. Die Reha-Leistungen zielen darauf ab, die Hilfeempfänger trotz ihrer Behinderung in das Erwerbsleben einzugliedern. Als Leistungen kommen grundsätzlich alle Qualifizierungsmaßnahmen dieser arbeitsmarktlichen Rahmenkonzeption infrage. Darüber hinaus können besondere Maßnahmen nach dem SGB III gefördert werden wie die Qualifizierung oder Umschulung in besonderen Einrichtungen für Rehabilitanden
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+marktlichen Rahmenkonzeption infrage. Darüber hinaus können besondere Maßnahmen nach dem SGB III gefördert werden wie die Qualifizierung oder Umschulung in besonderen Einrichtungen für Rehabilitanden (Berufsförderungswerke, etc.)
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+infrage. Darüber hinaus können besondere Maßnahmen nach dem SGB III gefördert werden wie die Qualifizierung oder Umschulung in besonderen Einrichtungen für Rehabilitanden (Berufsförderungswerke, etc.)
+
+Verfahrensregelung
+
+Da der Hochsauerlandkreis kein Reha-Träger nach dem SGB IX ist, erfolgt die Reha- Antragstellung in der Regel bei der Agentur für Arbeit. Die Agentur für Arbeit leitet ggfs. den Reha-Antrag weiter, sollte ein andere Reha-Träger (Deutsche Rentenversicherung/ Unfallversicherung, etc.) zuständig sein.
+
+Falls das Fallmanagement einen Reha-Bedarf bei SGB II-Beziehern erkennt, sind die Unterlagen (med. Gutachten, Atteste und Beratungsvermerke) mit der Schweigepflicht- entbindung („Schweigepflichtentbindung_Rehaprüfung_AA“) an den HSK zu leiten. Hier wird geprüft ob eine Rehafall vorliegen könnte und ggfs. die Unterlagen an die Agentur für Arbeit zwecks Reha-Antragstellung weiter geleitet.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ichtentbindung_Rehaprüfung_AA“) an den HSK zu leiten. Hier wird geprüft ob eine Rehafall vorliegen könnte und ggfs. die Unterlagen an die Agentur für Arbeit zwecks Reha-Antragstellung weiter geleitet.
+
+Sollte der Hochsauerlandkreis Leistungs-Träger im Bereich der Wiedereingliederung sein, erhält er von der Agentur für Arbeit einen Eingliederungsvorschlag für den betreffenden Rehabilitanden. Der Hochsauerlandkreis hat dann drei Wochen Zeit dem Vorschlag zuzustimmen bzw. abzulehnen. Die Bewilligung und Auszahlung der Leistungen erfolgt zentral im FD 42 des Hochsauerlandkreises.
+
+Zahlbarmachung
+
+Die Zahlbarmachung aller Reha-Leistungen erfolgt durch den HSK über eine folgende Hilfeartenschlüssel zu personenbezogen Buchung verwenden:
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+zentral im FD 42 des Hochsauerlandkreises.
+
+Zahlbarmachung
+
+Die Zahlbarmachung aller Reha-Leistungen erfolgt durch den HSK über eine folgende Hilfeartenschlüssel zu personenbezogen Buchung verwenden:
+- Reha-Pflichtmaßnahmen (Lehrgangskosten): - Reha-Pflichtmaßnahmen (Fahrtkosten): - Reha-Ermessensmaßnahmen (Lehrgangskosten): - Reha-Ermessensmaßnahmen (Fahrtkosten): HAS 20156 HAS 20157 HAS 20158 HAS 20159
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Pflichtmaßnahmen (Lehrgangskosten): - Reha-Pflichtmaßnahmen (Fahrtkosten): - Reha-Ermessensmaßnahmen (Lehrgangskosten): - Reha-Ermessensmaßnahmen (Fahrtkosten): HAS 20156 HAS 20157 HAS 20158 HAS 20159
+
+(Stand: 30.06.2019)

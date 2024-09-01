@@ -1,0 +1,138 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_082_-_duesseldorfer_erklaerung_arbeitsgelegenh.pdf
+max_characters:		3000
+aimed_chunk_size:	2000
+overlap:			400
+loading_strategy:	hi_res
+chunking_strategy:	Basic
+mode:				Advanced
+n_chunks:			5
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 8b
+
+Düsseldorfer Erklärung zur Arbeitsmarktintegration be- dürftiger Arbeitsuchender (SGB II)
+
+Das Ministerium für Wirtschaft und Arbeit NRW Das Ministerium für Gesundheit, Soziales, Frauen und Familie NRW Die Regionaldirektion NRW der Bundesagentur für Arbeit Die Landesvereinigung der Arbeitgeberverbände NRW e.V. Der DGB Bezirk NRW Die Vereinigung der Industrie- und Handelskammern in NRW Der Nordrhein-Westfälische Handwerkstag Der Städtetag Nordrhein-Westfalen Der Landkreistag NRW Der Städte- und Gemeindebund NRW Die Arbeitsgemeinschaft der Spitzenverbände der Freien Wohlfahrtspflege des Landes Nordrhein-Westfalen Der Verband Garten-, Landschafts- und Sportplatzbau NRW e.V. Der Bauindustrieverband NRW e.V.
+
+erklären zur Arbeitsmarktintegration bedürftiger Arbeitsuchender:
+
+1
+
+Anlage 8b
+
+1. Die Integration in den ersten Arbeitsmarkt hat Vorrang
+
+Nach dem neuen Sozialgesetzbuch II (SGB II) sind öffentlich geförderte Arbeitsgelegenhei- ten für erwerbsfähige Hilfebedürftige vorgesehen. Bei der Umsetzung kann aufgebaut wer- den auf den Erfahrungen mit den Instrumenten des SGB III, des Bundessozialhilfegesetzes (BSHG) und des Landesprogramms „Arbeit statt Sozialhilfe“. Alle Formen von Arbeitsgele- genheiten, auch die zusätzlichen im öffentlichen Interesse liegenden Arbeitsgelegenheiten mit Mehraufwandsentschädigung (§ 16,3 Satz 2 SGB II), sollten genutzt werden, um die Chancen der betroffenen Menschen zur Integration in den regulären Arbeitsmarkt nach Kräften zu stärken.
+
+Bezieherinnen und Bezieher von Arbeitslosengeld II (ALG II) haben Anspruch auf ein Profi- ling und eine Eingliederungsvereinbarung, die die nötigen Schritte verbindlich enthält.
+
+Öffentlich geförderte Arbeitsgelegenheiten sind Teil eines arbeitsmarktpolitischen Gesamt- konzeptes. Sie dürfen nur dann eingesetzt werden, wenn Wettbewerbsverzerrung ausge- schlossen und reguläre Beschäftigung nicht gefährdet ist und sie auch einen Beitrag zur Integration der Betroffenen in den ersten Arbeitsmarkt leisten.
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ingliederungsvereinbarung, die die nötigen Schritte verbindlich enthält.
+
+Öffentlich geförderte Arbeitsgelegenheiten sind Teil eines arbeitsmarktpolitischen Gesamt- konzeptes. Sie dürfen nur dann eingesetzt werden, wenn Wettbewerbsverzerrung ausge- schlossen und reguläre Beschäftigung nicht gefährdet ist und sie auch einen Beitrag zur Integration der Betroffenen in den ersten Arbeitsmarkt leisten.
+
+Dabei ist, insbesondere bei Jugendlichen und jungen Erwachsenen, die Nachrangigkeit der zusätzlichen Arbeitsgelegenheiten gegenüber der direkten Integration in Arbeit und Ausbil- dung und gegenüber anderen Eingliederungsinstrumenten zu beachten.
+
+Bei der Ausgestaltung und dem Einsatz der Arbeitsgelegenheiten sollte darauf geachtet werden, dass •
+
+Arbeitsgelegenheiten Bausteine einer individuellen Integrationsplanung sind. Diese sollten sinnvoll mit weiteren Integrationsmaßnahmen (insbesondere Qualifizierung) verbunden werden; Arbeitsgelegenheiten so berufsnah wie möglich angeboten werden; entsprechend den individuellen Voraussetzungen der betroffenen Menschen das je- weils arbeitsmarktnaheste Arbeitsmarktinstrument so passgenau wie möglich einge- setzt wird; zusätzliche und im öffentlichen Interesse liegende Arbeitsgelegenheiten (nach §16,3 Satz 2) für ALG II beziehende Arbeitslose nicht zur arbeitsmarktpolitischen „Sackgas- se“, sondern zum Sprungbrett zur Integration in den ersten Arbeitsmarkt werden; die Vermittlung in den ersten Arbeitsmarkt Vorrang hat vor einem Verbleib in einer Arbeitsgelegenheit. Eingliederungsvereinbarungen sollten entsprechende Regelungen beinhalten; Arbeitsgelegenheiten nicht zum Verzicht auf geeignetere, aber evtl. aufwändigere Eingliederungsinstrumente führen. Arbeitsgelegenheiten sind ein nachrangiges ar- beitsmarktpolitisches Instrument.
+
+•
+
+.
+
+.
+
+2. Regionale Begleitgremien einbinden
+
+Ein Schlüssel für den arbeitsmarktpolitischen Erfolg der zusätzlichen Arbeitsgelegenheiten liegt darin, dass Konzeption und Umsetzung vor Ort in Begleitstrukturen der beteiligten So- zialpartner und der anderen relevanten Arbeitsmarktakteure mit verantwortet werden.
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+en. Arbeitsgelegenheiten sind ein nachrangiges ar- beitsmarktpolitisches Instrument.
+
+•
+
+.
+
+.
+
+2. Regionale Begleitgremien einbinden
+
+Ein Schlüssel für den arbeitsmarktpolitischen Erfolg der zusätzlichen Arbeitsgelegenheiten liegt darin, dass Konzeption und Umsetzung vor Ort in Begleitstrukturen der beteiligten So- zialpartner und der anderen relevanten Arbeitsmarktakteure mit verantwortet werden.
+
+2
+
+Anlage 8b
+
+Arbeitsgemeinschaften und optierende Kommunen sind aufgerufen, bestehende Strukturen zu nutzen und weiterzuentwickeln. Die jeweiligen gleichstellungspolitischen Vertreterinnen sind hierbei einzubinden.
+
+Die Unterzeichner werden entsprechende bestehende Strukturen weiter unterstützen bzw. sich dafür einsetzen, dass ihre Mitglieder sich an entsprechenden lokalen/regionalen Gre- mien beteiligen.
+
+3. Verdrängung regulärer Arbeitsplätze vermeiden
+
+Damit reguläre Arbeit nicht verdrängt wird, sondern zusätzliche Arbeit entsteht (§16,3 Satz 1) bzw. zusätzliche und im öffentlichen Interesse liegende Arbeiten erledigt werden (§16,3 Satz 2), wird Folgendes empfohlen:
+
+Die Sozialpartner und die anderen relevanten Arbeitsmarktakteure vor Ort beachten den Aspekt der Zusätzlichkeit bei ihren Entscheidungen mit besonderer Sorgfalt und entwi- ckeln hierfür transparente Entscheidungskriterien. Die vor Ort für die Umsetzung Verantwortlichen beziehen die Sozialpartner und die an- deren relevanten Arbeitsmarktakteure in die Entscheidungsfindung ein. Dabei können branchenspezifische Ungleichgewichte bei der Entwicklung entsprechender Arbeitsge- legenheiten ein Indiz für Fehlentwicklungen hinsichtlich der Zusätzlichkeit sein, die in den Begleitgremien verhindert werden sollten. Im Rahmen eines gemeinsamen Entscheidungsprozesses mit den Sozialpartnern und den anderen relevanten Arbeitsmarktakteuren wird [hinsichtlich der Zusätzlichkeit von Stellen] regional ein Beschwerdemanagement als Instrument für Verbesserungsprozes- se entwickelt und eingesetzt.
+
+4. Die Motivation der arbeitsuchenden Menschen berücksichtigen
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+sein, die in den Begleitgremien verhindert werden sollten. Im Rahmen eines gemeinsamen Entscheidungsprozesses mit den Sozialpartnern und den anderen relevanten Arbeitsmarktakteuren wird [hinsichtlich der Zusätzlichkeit von Stellen] regional ein Beschwerdemanagement als Instrument für Verbesserungsprozes- se entwickelt und eingesetzt.
+
+4. Die Motivation der arbeitsuchenden Menschen berücksichtigen
+
+Zusätzliche und im öffentlichen Interesse liegende Arbeitsgelegenheiten können unter- schiedlichen Facetten eines Eingliederungsplanes dienen. Insoweit ist die Passgenauigkeit des jeweiligen Angebots im Einzelfall Voraussetzung für den Erfolg der Maßnahme.
+
+Dabei entspricht es den bewährten fachlichen Standards, dass die für das Fallmanagement Verantwortlichen Eignung und Motivation des arbeitslosen Menschen bei der Auswahl einer Arbeitsgelegenheit berücksichtigen.
+
+Bei personenbezogenen Dienstleistungen ist auch die Interessenlage des entsprechenden Klientels zu berücksichtigen.
+
+5. Jugendliche und junge Erwachsene besonders fördern
+
+Jedem jungen Menschen muss nach Abschluss oder nach Ausscheiden aus Schule oder Ausbildung eine Chance zur Integration in den ersten Arbeitsmarkt geboten werden. Hierfür ist das gesamte Leistungsspektrum des SGB III offensiv einzusetzen.
+
+3
+
+Anlage 8b
+
+Erst nachdem alle anderen Möglichkeiten der integrativen Arbeitsmarktpolitik im Einzelfall ausgeschöpft worden sind, ist jedem Jugendlichen und jungen Erwachsenen (bis 25 Jahre) eine Arbeitsgelegenheit in NRW zu vermitteln. Dabei soll die Zusammenarbeit mit der Schule und der Jugendhilfe intensiviert werden.
+
+6. Die Umsetzung des SGB II in NRW gemeinsam erfolgreich gestalten
+
+Die Unterzeichner halten daran fest, dass alle wichtigen Akteure bei der Umsetzung des SGB II ihre Erfahrungen und Beobachtungen in den Prozess einbringen. Die Chancen, ü- ber die Darstellung guter Praxis, Erfahrungsaustausch etc. einen permanenten Lern- und Verbesserungsprozess zu initiieren, sollten umfassend genutzt werden.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+n.
+
+6. Die Umsetzung des SGB II in NRW gemeinsam erfolgreich gestalten
+
+Die Unterzeichner halten daran fest, dass alle wichtigen Akteure bei der Umsetzung des SGB II ihre Erfahrungen und Beobachtungen in den Prozess einbringen. Die Chancen, ü- ber die Darstellung guter Praxis, Erfahrungsaustausch etc. einen permanenten Lern- und Verbesserungsprozess zu initiieren, sollten umfassend genutzt werden.
+
+Ziel muss es ferner bleiben, etwaige Fehlentwicklungen möglichst frühzeitig zu identifizie- ren und zu korrigieren. Deshalb werden Land, Regionaldirektion NRW und kommunale Spitzenverbände ein differenziertes Monitoring entwickeln.
+
+Düsseldorf, 21. Dezember 2004
+
+Zu den Unterzeichnern der „Düsseldorfer Erklärung“ gehören:
+
+Harald Schartau, Minister für Wirtschaft und Arbeit des Landes Nordrhein-Westfalen; Birgit Fischer, Ministerin für Gesundheit, Soziales, Frauen und Familie des Landes Nord- rhein-Westfalen; Christiane Schönefeld, Vorsitzende der Geschäftsführung der Regional- direktion Nordrhein-Westfalen der Bundesagentur für Arbeit; Hansjörg Döpp, Hauptge- schäftsführer der Landesvereinigung der Arbeitgeberverbände NRW; Walter Haas, Vorsit- zender des DGB-Bezirks NRW; Gerd Pieper, Präsident der Vereinigung der Industrie- und Handelskammern in NRW; Hansheinz Hauser, Vorsitzender des Nordrhein-Westfälischen Handwerkstages; Dr. Gerhard Langemeyer, Vorsitzender des Städtetages NRW; Dr. Ale- xander Schink, Hauptgeschäftsführer des Landkreistages NRW; Roland Schäfer, Präsi- dent des Städte- und Gemeindebundes Nordrhein-Westfalen; Dr. Jörg Steinhausen für die Arbeitsgemeinschaft der Spitzenverbände der Freien Wohlfahrtspflege NRW; Manfred Lo- renz, Präsident des Verbandes Garten-, Landschafts- und Sportplatzbau NRW und Wolf- gang Peters, Hauptgeschäftsführer des Bauindustrieverbandes Nordrhein-Westfalen.
+
+4

@@ -1,0 +1,143 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_021_-_geschaeftsordnung_des_beirats.pdf
+chunk_size:			2000
+overlap:			400
+loading_strategy:	hi_res
+chunking_strategy:	Basic
+mode:				Naive
+n_chunks:			3
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 2 a
+
+Geschäftsordnung für den arbeitsmarktpolitischen Beirat gem. § 18 SGB II in der Region Hochsauerlandkreis
+
+§ 1
+
+Zuständigkeit
+
+Der arbeitsmarktpolitische Beirat gem. § 18 SGB II berät den Hochsauerlandkreis bei der Erbringung von Leistungen zur Eingliederung in den Arbeitsmarkt und der zugrunde liegenden Aufstellung des finanziellen Planungsrahmens. Dabei ist einer gleichmäßigen regionalen Verteilung, der Berück- sichtigung der unterschiedlichen Zielgruppen und einem ausgewogenen Geschlechterverhältnis Rechnung zu tragen.
+
+§ 2
+
+Aufgaben
+
+Der Beirat soll Empfehlungen zu nachfolgende Aufgaben abgeben:
+
+- Entwicklung strategischer Schwerpunkte und Leitprojekte im Rahmen der Eingliederung
+
+- Empfehlung zur Anwendung und Priorisierung von Eingliederungsinstrumenten
+
+Initiierung von Projekt- und Konzeptvorschlägen
+
+- Türöffnerfunktion zu Unternehmen
+
+- Unterstützung in der Öffentlichkeitsarbeit
+
+- Entwicklung von Qualitätsstandards, insbesondere im Bereich der Brückenjobs
+
+- Auswertung der Wirkungsforschung
+
+§ 3
+
+Mitglieder
+
+a) Mitglieder des arbeitsmarktpolitischen Beirates für den Hochsauerlandkreis sind die in der Anlage aufgeführten Institutionen.
+
+b) Der Beirat kann die Aufnahme weiterer Mitglieder vorschlagen. Die Berufung neuer Mitglieder obliegt dem Hochsauerlandkreis.
+
+c) Stimmberechtigt sind die jeweils in der Anlage namentlich ausgewiesenen Vertreterinnen und Vertreter bzw. - im Falle ihrer persönlichen Verhinderung - deren benannte Stellvertreterinnen und -vertreter.
+
+d) Sollten sich in der personellen Repräsentanz in einzelnen Institutionen Veränderungen ergeben, so ist dies dem Hochsauerlandkreis, Fachdienst Grundsicherung für Arbeitsuchende, schriftlich mitzuteilen.
+
+e) Weitere ständige Mitglieder mit beratender Funktion können auf Empfehlung des Beirates durch den Hochsauerlandkreis berufen werden.
+
+Anlage 2 a
+
+§ 4
+
+SitzungIsleitung
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+erinnen und -vertreter.
+
+d) Sollten sich in der personellen Repräsentanz in einzelnen Institutionen Veränderungen ergeben, so ist dies dem Hochsauerlandkreis, Fachdienst Grundsicherung für Arbeitsuchende, schriftlich mitzuteilen.
+
+e) Weitere ständige Mitglieder mit beratender Funktion können auf Empfehlung des Beirates durch den Hochsauerlandkreis berufen werden.
+
+Anlage 2 a
+
+§ 4
+
+SitzungIsleitung
+
+a) Der Vorsitz wird durch den Landrat des Hochsauerlandkreises wahrgenommen; im Vertretungs- fall übernimmt der Kreisdirektor den Vorsitz.
+
+b) Der Vorsitzende lädt zu den Sitzungen des Beirates ein, setzt die Tagesordnung fest und leitet deren Verhandlungen und Beratungen.
+
+c) Die Geschäftsführung des Beirates erfolgt durch den Hochsauerlandkreis, Fachdienst Grundsicherung für Arbeitsuchende.
+
+§ 5
+
+Einberufung von Sitzungen
+
+a) Der arbeitsmarktpolitische Beirat für den Hochsauerlandkreis tagt nach entsprechendem Bedarf. Es wird die Durchführung von mindestens drei Sitzungen pro Jahr angestrebt.
+
+b) Auf schriftlichen Antrag eines Viertels der Mitglieder muss der Vorsitzende unverzüglich eine Sitzung einberufen. Die Antragsteller/innen haben mit dem Antrag den gewünschten Verhand- lungsgegenstand anzugeben.
+
+§ 6
+
+Ladungsfrist
+
+a) Zu den Sitzungen des arbeitsmarktpolitischen Beirates soll mit einer Frist von 7 Tagen unter Bekanntgabe der Tagesordnung und unter Beifügung der erforderlichen Beratungsunterlagen eingeladen werden. Die Versendung der Unterlagen an die Mitglieder des Beirates erfolgt nach Möglichkeit via E-Mail.
+
+b) Projektskizzen inkl. Anlagen aus dem Mitgliederkreis sind der Geschäftsführung des Beirates bis spätestens 28 Tage vor dem Sitzungstermin sowohl schriftlich (Kopfbogen / Unterschrift) als auch per E-Mail zuzuleiten.
+
+c) Der Vorsitzende kann bei dringendem Beratungsbedarf nachträglich Verhandlungsgegenstände auf die Tagesordnung setzen.
+
+d) Der Vorsitzende kann zu einer dringenden Sitzung mit einer Frist von 3 Tagen einladen.
+
+§ 7
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+dem Mitgliederkreis sind der Geschäftsführung des Beirates bis spätestens 28 Tage vor dem Sitzungstermin sowohl schriftlich (Kopfbogen / Unterschrift) als auch per E-Mail zuzuleiten.
+
+c) Der Vorsitzende kann bei dringendem Beratungsbedarf nachträglich Verhandlungsgegenstände auf die Tagesordnung setzen.
+
+d) Der Vorsitzende kann zu einer dringenden Sitzung mit einer Frist von 3 Tagen einladen.
+
+§ 7
+
+Durchführung von Abstimmungen
+
+a) Der Beirat ist bei ordnungsgemäßer Ladung ohne Rücksicht auf die Anzahl der Erschienen beschlussfähig.
+
+b) Empfehlungen werden mit einfacher Mehrheit gefasst.
+
+c) Werden Projekte der im Beirat vertretenen Institutionen beraten, nehmen die jeweiligen Mitglieder/Vertreterinnen weder an den Beratungen noch an den Abstimmungen zu dieser Maßnahme teil.
+
+Anlage 2 a
+
+d) Die Abstimmungen finden in der Regel offen statt. Auf Antrag mindestens einer/eines stimmbe- rechtigten Vertreterin/Vertreters ist jedoch geheim zu votieren.
+
+e) In begründeten Ausnahmefällen kann die Geschäftsführung des Beirates in Abstimmung mit dem Vorsitzenden Beschlüsse in schriftlicher Form einholen.
+
+§ 8
+
+Dokumentation
+
+a) Über jede Sitzung ist ein Ergebnisprotokoll anzufertigen, welches den Mitgliedern mittels E-Mail zur Verfügung gestellt wird.
+
+b) Die Sitzungen des Beirates sind nicht öffentlich.
+
+c) Das Abstimmungsverhalten im Beirat ist vertraulich zu behandeln.

@@ -1,0 +1,150 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_070_-_buergergeldbonus.pdf
+chunk_size:			1500
+loading_strategy:	hi_res
+chunking_strategy:	By_Title
+mode:				Naive
+n_chunks:			13
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Hinweise und Handlungsempfehlungen zur Umsetzung des Bürgergeldbonus gem. § 16j SGB II
+
+Allgemeines
+
+Mit Inkrafttreten des Bürgergeldgesetzes wird zum 01.07.2023 ein Bürgergeldbonus im SGB II eingeführt. Es handelt sich dabei um eine Pflichtleistung, welche bei Maßnahmeteil- nahmen zu gewähren ist, deren Bedeutung für eine nachhaltige Integration besonders wichtig ist. Mit dem Bürgergeldbonus wird eine Anreizfunktion geschaffen, welche sich insgesamt po- sitiv auf die Bereitschaft zur Mitwirkung auswirken und die Einstiegsbarrieren in das zugrun- deliegende Maßnahmeangebot senken sollte. Ebenso ist es Intention das Durchhaltevermö- gen bis zu einem erfolgreichen Maßnahmeabschluss zu stärken und somit Abbrüche zu ver- hindern.
+
+Gesetzestext
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 16j SGB II Bürgergeldbonus
+
+Erwerbsfähige Leistungsberechtigte erhalten einen Bonus in Höhe von 75 Euro für jeden Mo- nat der Teilnahme an einer der folgenden Maßnahmen:
+
+1. Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Dritten Bu- ches sowie nach § 49 Absatz 3 Nummer 4 des Neunten Buches mit einer Mindest- dauer von acht Wochen, für die kein Weiterbildungsgeld nach § 87a Absatz 2 des Dritten Buches gezahlt wird, 2. berufsvorbereitende Bildungsmaßnahmen nach § 51 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 2 des Neunten Buches, Maßnahmen in der Vorphase der Assistierten Ausbildung nach § 75a des Dritten Buches in Verbindung mit § 16 Absatz 1 Satz 2 Nummer 3, 3. Maßnahmen zur Förderung schwer zu erreichender junger Menschen nach § 16h Absatz 1.
+
+Fachliche Hinweise / Verfahrensregelungen
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Förderfähiger Personenkreis
+
+Zum förderfähigen Personenkreis zählen grundsätzlich alle erwerbsfähigen Leistungsberech- tigen nach dem SGB II. Hierzu gehören auch erwerbsfähige Leistungsberechtigte, die trotz (Erwerbs-) Einkommen hilfebedürftig sind (sogenannte Erwerbsaufstocker).
+
+Ein Förderausschluss besteht für erwerbsfähige Leistungsberechtigte, die neben den Leistun- gen zur Sicherung des Lebensunterhalts nach dem SGB II einen Anspruch auf Arbeitslosen- geld / Teilarbeitslosengeld nach dem SGB III (sog. Aufstocker) haben. Für diesen Personen- kreis werden Eingliederungsleistungen ausschließlich durch die Agenturen für Arbeit erbracht (§ 5 Abs. 4 SGB II / § 22 Abs. 4 S. 5 SGB III).
+
+Soweit die Hilfebedürftigkeit während der Teilnahme an der dem Bürgergeldbonus zugrunde- liegenden Maßnahme endet, wird der Bürgergeldbonus wegen der Bindung an die Maßnahme bis zum Teilnahmeende weitergewährt. Soweit Hilfebedürftigkeit während der Teilnahme an einer grundsätzlich mit Bürgergeldbonus förderbaren Maßnahme entsteht, wird der Bürger- geldbonus ab dem Zeitpunkt der Feststellung der Hilfebedürftigkeit gezahlt, soweit die weite- ren Förderungsvoraussetzungen ebenfalls vorliegen.
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+In § 16j Nr. 1 bis 3 SGB II werden die Maßnahmen, für die ein Bürgergeldbonus bei geförderter Teilnahme gezahlt wird, abschließend benannt. Dies sind Maßnahmen, die insbesondere für eine nachhaltige Eingliederung in den Arbeitsmarkt von besonderer Notwendigkeit sind. Die Höhe des Bürgergeldbonus liegt unabhängig der Maßnahmeart bei 75,- € im Monat. Beim Bürgergeldbonus handelt es sich um eine Pflichtleistung, die für Teilnehmende an einer der folgenden Maßnahmen gezahlt wird:
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Förderung der beruflichen Weiterbildung (§ 16j Nr. 1 SGB II)
+
+Nach § 16j Nr. 1 SGB II wird der Bürgergeldbonus für die Teilnahme an Maßnahmen der be- ruflichen Weiterbildung nach §§ 81 ff. und 82 SGB III als Pflichtleistung gezahlt, wenn die Maßnahme eine Mindestdauer von acht Wochen hat. Die geforderte Mindestdauer sichert eine zweckmäßige Abgrenzung zu den Maßnahmen der Aktivierung und beruflichen Eingliederung nach § 45 SGB III ab. Die acht Wochen Mindestdauer sind als Gesamt-Teilnahmezeitraum zu betrachten; nicht erforderlich ist, dass die Weiterbildung an 40 Tagen oder 320 Stunden statt- findet. Daher ist die Teilnahme an einer Maßnahme zur beruflichen Weiterbildung in Teilzeit ebenfalls mit dem Bürgergeldbonus förderbar, wenn die Maßnahmedauer acht Wochen be- trägt.
+
+Soweit eine Maßnahme zur beruflichen Weiterbildung unterbrochen und später fortgesetzt wird, wird der Bezug des Bürgergeldbonus ab der Wiederaufnahme der Maßnahme fortge- setzt, sofern es sich um die gleiche Maßnahme handelt. Dies gilt auch, wenn für eine modular aufgebaute Maßnahme mehrere Bildungsgutscheine ausgegeben und beim gleichen Bil- dungsträger eingelöst werden. Für die Zahlung des Bürgergeldbonus ist es nicht entschei- dend, dass alle Maßnahmeteile länger als acht Wochen dauern. Durch die Integrationsfach- kraft ist zu dokumentieren und zu begründen, dass es sich trotz der Ausgabe mehrerer Bil- dungsgutscheine um die gleiche Weiterbildungsmaßnahme handelt.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Zu den Maßnahmen der beruflichen Weiterbildung zählen auch Weiterbildungen, die der An- erkennung eines ausländischen Berufsabschlusses dienen.
+
+Berufliche Weiterbildungen, die das Nachholen eines Berufsabschlusses vorsehen, sind von der Bonuszahlung ausgenommen.
+
+Für Teilnehmer/-innen berufsabschlussbezogener Weiterbildungen nach § 81 (2) SGB III (be- rufliche Umschulungen) wird ab 01.07.2023 ein monatliches Weiterbildungsgeld (§ 87a (2) SGB III) gewährt. Eine Doppelförderung von Weiterbildungsgeld und Bürgergeldbonus ist aus- geschlossen. Zu den mit Weiterbildungsgeld förderbaren Weiterbildungen gehören:
+
+Umschulungen bei einem Träger in anerkannten Ausbildungsberufen, Betriebliche Einzelumschulungen in Berufen nach BBiG/HwO, Weiterbildungen mit zertifizierter Teilqualifikation,
+
+Vorbereitungslehrgänge auf Externen-/Schulfremdenprüfung, Rehaspezifische Weiterbildungen mit Abschluss, Vorbereitungsmaßnahmen auf rehaspezifische Weiterbildungen mit Abschluss, und Abschlussorientierte Weiterbildungen, die im Rahmen des Aufstiegsfortbildungsförde- rungsgesetzes (AFBG) gefördert werden, sofern es sich um eine Person handelt, die bisher noch keinen Berufsabschluss mit einer Mindestausbildungsdauer von zwei Jah- ren verfügt oder als „wieder ungelernt“ gilt.
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Berufliche Reha-Maßnahmen (§ 16j Nr. 1 SGB II)
+
+Der Bürgergeldbonus wird auch an erwerbsfähige Leistungsberechtigte erbracht, die an einer beruflichen Weiterbildung teilnehmen, deren Umsetzung in Zuständigkeit eines Rehabilitati- onsträgers i.S. des § 6 SGB IX liegt. Die Information über die Teilnahme an einer derartigen Maßnahme erhalten die Jobcenter im Regelfall von dem zuständigen Rehabilitationsträger im Rahmen der Teilhabeberatung.
+
+Bei Zuständigkeit des Rehabilitationsträgers BA werden besondere Leistungen zur Weiterbil- dung gemäß § 117 SGB III in Verbindung mit §§ 81 und 82 SGB III gefördert, wenn die Maß- nahme eine Mindestdauer von acht Wochen umfasst und kein Weiterbildungsgeld nach § 87a SGB III geleistet wird. Der Bürgergeldbonus wird folglich sowohl während der Teilnahme an rehaspezifischen Vergabemaßnahmen als auch Weiterbildungsmaßnahmen, die in Einrichtun- gen der beruflichen Rehabilitation stattfinden, geleistet, wenn die Voraussetzungen erfüllt sind.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Der Bürgergeldbonus wird durch die Jobcenter auch während der Teilnahme an Maßnahmen zur beruflichen Weiterbildung nach § 49 Absatz 3 Nummer 4 SGB IX in Zuständigkeit anderer Rehabilitationsträger geleistet. Voraussetzung ist, dass kein Weiterbildungsgeld nach § 87a Abs. 2 SGB III geleistet wird und die Maßnahmedauer mindestens acht Wochen umfasst. Dies bedeutet, dass Rehabilitandinnen und Rehabilitanden anderer Rehabilitationsträger bei Teil- nahme an einer Weiterbildung mit dem Bürgergeldbonus gefördert werden, auch wenn diese abschlussorientiert ist, da hier kein Weiterbildungsgeld nach § 87a Abs. 2 SGB III geleistet wird. Auch bei Ausführung der Leistungen zur Teilhabe am Arbeitsleben in Form eines Persönlichen Budgets wird der Bürgergeldbonus entsprechend der Voraussetzungen geleistet.
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Berufsvorbereitende Bildungsmaßnahmen und Vorphase der Assistierten Ausbildung (§ 16j Nr. 2 SGB II)
+
+Die Teilnahme vorwiegend junger Menschen an berufsvorbereitenden Bildungsmaßnahmen zielt auf die Erreichung einer beruflichen Ausbildung ab. Die Aufnahme und der Abschluss einer Berufsausbildung ist ein wesentlicher Faktor für eine nachhaltige Eingliederung in das Erwerbsleben. Daher wird für die Teilnahme an einer berufsvorbereitenden Bildungsmaß- nahme nach § 51 SGB III ebenfalls ein Bürgergeldbonus gezahlt. Dies gilt ebenso für die Teil- nahme an der Vorphase der Assistierten Ausbildung (§ 75a SGB III). Sofern die Teilnahme an einer berufsvorbereitenden Bildungsmaßnahme im Rahmen eines beruflichen Rehabilitations- verfahrens zur Erreichung der beruflichen Ersteingliederung durch einen Rehabilitationsträger i.S. des § 6 SGB IX erbracht wird, wird für die Zeit der Teilnahme ebenfalls ein Bürgergeldbo- nus gewährt (Maßnahmegestaltungen nach §§ 112 ff. SGB III i.V.m. §§ 51 oder 75a SGB III).
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Bei den Berufsvorbereitenden Maßnahmen handelt es sich um ein Förderinstrument nach dem SGB III, das rechtskreisunabhängig in der Förderzuständigkeit der Agenturen für Arbeit liegt. Die Bewilligung bzw. Finanzierungsverantwortung für den Bürgergeldbonus für etwaige er- werbsfähige Leistungsberechtigte des SGB II liegt beim Träger der Grundsicherung (Jobcen- ter). Es empfiehlt sich eine enge Abstimmung zwischen Agentur für Arbeit bzw. Maßnahme- träger bezüglich Umsetzung des Leistungsanspruchs.
+
+Förderung schwer zu erreichender junger Menschen (§ 16j Nr. 3 SGB II)
+
+Der Bürgergeldbonus wird auch für die Teilnahme an Maßnahmen auf Grundlage des § 16h SGB II gewährt. Die schwer zu erreichenden Jugendlichen sollen mit dem Bonus motiviert werden, an sozialpädagogischen Angeboten und Maßnahmen teilzunehmen und diese nicht vorzeitig abzubrechen.
+
+Eine Zahlung des Bürgergeldbonus für junge Menschen, die § 16h Abs. 2 SGB II zuzurechnen sind, ist nicht möglich.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Förderausgestaltung / -umsetzung
+
+Der Anspruch auf Gewährung eines Bürgergeldbonus nach § 16j SGB II besteht bei Teilnahme an einer förderwürdigen Maßnahme frühestens ab 01.07.2023. Leistungsbegründendes Er- eignis ist der Zeitpunkt des tatsächlichen Beginns der Teilnahme. Die gesetzliche Regelung des § 16j SGB II umfasst damit Neufälle, welche ab Juli 2023 in eine förderfähige Maßnahme (§ 16j Nr. 1 bis 3 SGB II) eintreten und Bestandsfälle, welche vor dem 01.07.2023 eine förder- fähige Maßnahme aufgenommen haben und bei Inkrafttreten des § 16j SGB II noch andauern. Teilnahmezeiten vor dem 01.07.2023 können nicht „vergütet“ werden. Die Auszahlung des Bürgergeldbonus erfolgt auch für Praxisphasen, die in die Maßnahmekonzeption eingebettet sind und während der Maßnahmeteilnahme stattfinden.
+
+Der Bürgergeldbonus wird monatlich nachträglich (Folgemonat) für die Teilnahme an einer förderfähigen Maßnahme (§ 16j Nr. 1-3 SGB II) gezahlt. Bei Teilmonaten zu Beginn und Ende der Maßnahme werden für jeden Kalendertag 1/30 der Monatspauschale von 75,- Euro ge- währt. Sofern eine Maßnahme, für die ein Bürgergeldbonus gezahlt wird, abgebrochen wird, besteht kein Anspruch auf Weiterzahlung des Bürgergeldbonus. Dies gilt auch, wenn die er- werbsfähige leistungsberechtigte Person den Abbruch der Maßnahme nicht zu vertreten hat.
+
+Die Teilnahme an einer Maßnahme in Teilzeit hat keine Auswirkungen auf die Höhe des Bür- gergeldbonus.
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Fehlzeiten während der Maßnahmeteilnahme, die nicht zu einem Maßnahmeabbruch führen, führen nicht zu einer Kürzung des Bürgergeldbonus.
+
+Zahlbarmachung / technische Umsetzung
+
+Da es sich bei dem Bürgergeldbonus um eine Pflichtleistung handelt, besteht kein Antragser- fordernis. Die Zahlbarmachung des Bürgergeldbonus erfolgt durch die Delegationskommunen. Allein für die Fallgestaltungen der Reha-Maßnahmen in Zuständigkeit der Agentur für Arbeit (Reha-Träger) und Finanzverantwortung des Jobcenters wird der Bürgergeldbonus zentral durch den FD 51 - Hochsauerlandkreis im Zusammenhang der Gewährung der Reha-Maß- nahmekosten gewährt.
+
+Der Bürgergeldbonus stellt zum einen eine eigene Eingliederungsleistung nach dem SGB II, zum anderen eine eigene Maßnahmeart dar, die der Datenmeldung zur BA-Statistik (§ 53 SGB II) unterliegt.
+
+Die EDV-technische/statistische Darstellung im Fachprogramm FMG.job erfolgt durch Zuwei- sung des betreffenden Kunden auf die Maßnahme „Bürgergeldbonus …“ im Projekt „400 Maßnahmen“. Dabei ist zwischen den Maßnahmearten
+
+„Bürgergeldbonus SGB II/SGBIII“ bei paralleler Förderung zu den oben genannten SGB II / SGB III-Förderungen bzw.
+
+„Bürgergeldbonus Reha Sonstige“ bei paralleler Förderung durch einen anderen Reha-Träger (nicht Bundesagentur für Arbeit) zu differenzieren.
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG.job geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Da es sich hier um eine die Hauptmaßnahme ergänzende Förderung handelt, sind die erforderlichen BaEL-Einträge bereits über die Erfassung der Hauptmaßnahme (FbW, BvB, § 16h) abgebildet.
+
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Register- karte „Kosten“. Die mit der Gewährung des Bürgergeldbonus entstehenden Zahlungsverpflich- tungen sind entsprechend der monatlich anfallenden Beträge (voller bzw. anteiliger Monats- betrag) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20155 mit dem Status „geplant“ zu hinterlegen. Bei Abbruch bzw. vorzeitiger Beendigung der Gewährung des Bürgergeldbonus zugrundeliegenden Hauptmaßnahme sind nicht mehr zum Tragen kom- mende Zahlbeträge/Buchungen zu stornieren.
+
+(Stand: 01.07.2023)
