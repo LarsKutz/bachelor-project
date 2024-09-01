@@ -1,0 +1,89 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\zahlungsmodalitaeten.pdf
+chunk_size:			2000
+overlap:			400
+loading_strategy:	hi_res
+chunking_strategy:	basic
+mode:				naive
+n_chunks:			6
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Zusammenstellung der grundsätzlichen Zahlungsmodalitäten von Maßnahme-/Lehrgangskosten arbeitsmarktpolitischer Maßnahmen
+
+A) Arbeitsgelegenheiten (§ 16d SGB II) mit Gewährung einer Maßnahmekostenpauschale (Gruppenmaßnahmen)
+
+Die Gewährung einer Maßnahmekostenpauschale (Regiekosten) erfolgt nur für Träger von Gruppenmaßnahmen mit entsprechenden Aufwendungen, welche durch die Verrichtung der in § 16d Abs. 1 SGB II aufgeführten Arbeiten unmittelbar im Zusammenhang stehen, einschließ- lich der Kosten für Anleitung, tätigkeitsbezogener Unterweisung und sozialpädagogischer Be- treuung. Die Maßnahmekostenpauschale wird in einem Antrags- / Bewilligungsverfahren unter Berücksichtigung einer Maßnahmekostenkalkulation zentral durch den FD 51 festgelegt. Der Betrag wird auf einen Teilnehmermonat heruntergebrochen.
+
+Die Abrechnung der Maßnahmekostenpauschale erfolgt auf Grundlage eines monatlichen Nachweises über die Anwesenheit der zugewiesenen Teilnehmer/-innen im Regelfall direkt durch den FD 51. Im Rahmen dieser Monatsabrechnung ist für jeden Teilnehmertag 1/30 der bewilligten Maßnahmekostenpauschale auszuzahlen. Teilnehmertage sind Kalendertage (incl. Samstage, Sonn- und Feiertage), an denen der Teilnehmerplatz tatsächlich besetzt ist oder als besetzt anerkannt wird. Urlaubstage der Teilnehmer/-innen gelten als Teilnehmertage. Sons- tige Fehlzeiten sind entsprechend der Beurteilungspraxis des Arbeitsrechts im Einzelfall bezüg- lich der Bewertung der Anerkennung als Teilnehmertag zu prüfen. Dabei gelten Krankheitstage und entschuldigte Fehltage mit wichtigem Grund (z.B. Heirat, Geburt eines Kindes, Umzug, Ausübung eines öffentlichen Ehrenamtes) ebenfalls als Teilnehmertage. Unentschuldigte Fehl- tage, Fehltage ohne wichtigen Grund werden nicht als Teilnehmertage anerkannt.
+
+B) Maßnahmen zur Aktivierung und beruflichen Eingliederung (§ 45 SGB III)
+
+1. Vergabemaßnahmen
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ertag zu prüfen. Dabei gelten Krankheitstage und entschuldigte Fehltage mit wichtigem Grund (z.B. Heirat, Geburt eines Kindes, Umzug, Ausübung eines öffentlichen Ehrenamtes) ebenfalls als Teilnehmertage. Unentschuldigte Fehl- tage, Fehltage ohne wichtigen Grund werden nicht als Teilnehmertage anerkannt.
+
+B) Maßnahmen zur Aktivierung und beruflichen Eingliederung (§ 45 SGB III)
+
+1. Vergabemaßnahmen
+
+Der Preis für eine Maßnahme zur Aktivierung und beruflichen Eingliederung bei einem Träger wird im Vergabeverfahren ermittelt. Mit dieser Vergütung sind alle Aufwendungen zur Durch- führung der Maßnahme abgegolten. Detailregelungen zur Vergütung sind den Vergabeunterla- gen zu entnehmen, welche i.d.R. dem entsprechenden Projekt im Fachverfahren FMG.job hin- terlegt sind.
+
+Die Höhe der Monatsrate ergibt sich aus der Summe der Teilnehmerplätze multipliziert mit dem im Angebot angegebenen Monatspreis je Teilnehmerplatz. Teilmonate werden mit 1/30 je Tag vergütet. Jeder Kalendermonat wird mit 30 Tagen gerechnet. Der Monatspreis je Teilnehmer- platz gilt für die gesamte Dauer der Maßnahme. Er wird auch gewährt im Falle einer nicht voll- ständigen Besetzung der Plätze, sofern diese der Auftragnehmer nicht zu vertreten hat. Fehl- zeiten der Teilnehmer (entschuldigt und unentschuldigt) wirken sich nicht mindernd auf die Kos- tenerstattung aus. Zu beachten ist, dass die Maßnahmekostenpauschalen je nach Maßnahme- konstellation zentral durch den FD 51 des Hochsauerlandkreises oder dezentral durch die teil- nehmerzuführenden Jobcenter zu erstatten sind.
+
+2. Aktivierungsgutschein (Maßnahme bei einem Träger) - AVGS
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ten hat. Fehl- zeiten der Teilnehmer (entschuldigt und unentschuldigt) wirken sich nicht mindernd auf die Kos- tenerstattung aus. Zu beachten ist, dass die Maßnahmekostenpauschalen je nach Maßnahme- konstellation zentral durch den FD 51 des Hochsauerlandkreises oder dezentral durch die teil- nehmerzuführenden Jobcenter zu erstatten sind.
+
+2. Aktivierungsgutschein (Maßnahme bei einem Träger) - AVGS
+
+Die Maßnahmekosten ergeben sich im Rahmen des Zulassungsverfahrens (Maßnahmezertifi- zierung). Im Maßnahmezertifikat wird durch die zuständige Zertifizierungsstelle ein Maßnahme- kostensatz je Maßnahmestunde, alternativ die Maßnahmekosten je Teilnehmer unter Zugrun- delegung der berücksichtigungsfähigen Maßnahmestunden ausgewiesen. Die ausgewiesenen Maßnahmekosten werden in den jeweiligen Maßnahmebogen übertragen, ebenso sind hier die Zahlungsmodalitäten definiert.
+
+Es sind nur die Maßnahmekosten berücksichtigungsfähig, die im Rahmen des Zulassungsver- fahrens für die jeweilige Maßnahme festgelegt wurden. Maßnahmekosten können nur für tat- sächlich durchgeführte Maßnahmen bzw. Teile von Maßnahmen erstattet werden. Fehlzeiten der Teilnehmer (entschuldigt und unentschuldigt) wirken sich nicht mindernd auf die Kostener- stattung aus. Wird eine Maßnahme bei einem Träger mit Zugang eines AVGS vorzeitig beendet, können Maßnahmekosten ab diesem Zeitpunkt nicht mehr erstattet werden.
+
+Vor der Zahlbarmachung etwaiger Maßnahmekosten ist, insbesondere bei vorzeitiger Beendi- gung der Maßnahme, zu prüfen, ob die Rechnung/die zahlungsbegründenden Unterlagen der Leistungserbringung entspricht. Grundsätzlich sind Maßnahmekosten erst nach vollständiger Leistungserbringung zu erstatten. Teilzahlungen für bereits erbrachte Leistungen sind nach ent- sprechendem Antrag des Maßnahmeträgers bzw. entsprechend der Darstellung im Maßnah- mebogen (Zahlungsmodalitäten) möglich. Eine monatliche Ratenzahlung ist üblich.
+
+C) Förderung der beruflichen Weiterbildung (§§ 81 ff. SGB III)
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ingung entspricht. Grundsätzlich sind Maßnahmekosten erst nach vollständiger Leistungserbringung zu erstatten. Teilzahlungen für bereits erbrachte Leistungen sind nach ent- sprechendem Antrag des Maßnahmeträgers bzw. entsprechend der Darstellung im Maßnah- mebogen (Zahlungsmodalitäten) möglich. Eine monatliche Ratenzahlung ist üblich.
+
+C) Förderung der beruflichen Weiterbildung (§§ 81 ff. SGB III)
+
+Maßnahmegestaltungen zur Förderung der beruflichen Weiterbildung sind im Jobcenter Hoch- sauerlandkreis ausschließlich über das Bildungsgutscheinverfahren zugänglich. Analog der Re- gelungen zum Aktivierungsgutschein werden die Maßnahmekosten im Rahmen des Zulas- sungsverfahrens (Maßnahmezertifizierung) festgelegt. Im Maßnahmezertifikat wird durch die zuständige Zertifizierungsstelle ein Maßnahmekostensatz je Maßnahmestunde, alternativ die Maßnahmekosten je Teilnehmer unter Zugrundelegung der Maßnahmestunden ausgewiesen. Zu den Lehrgangskosten zählen alle im Zusammenhang mit der Vorbereitung und Durchfüh- rung einer Bildungsmaßnahme und der Prüfung entstehenden notwendigen Kosten. Die aus- gewiesenen Maßnahme-/Lehrgangskosten werden in den jeweiligen Maßnahmebogen übertra- gen, ebenso sind hier die Zahlungsmodalitäten definiert.
+
+Im Regelfall werden Lehrgangskosten direkt an den Maßnahmeträger ausgezahlt. Die Auszah- lung an den Träger begründet für ihn kein Recht darauf und macht ihn nicht zum Anspruchsin- haber. Deshalb kann der Anspruch auch nicht vom Träger an Dritte übertragen werden. Werden Lehrgangskosten an den Träger ausgezahlt, ist dies dem Leistungsberechtigen im Bewilli- gungsbescheid mitzuteilen.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+n definiert.
+
+Im Regelfall werden Lehrgangskosten direkt an den Maßnahmeträger ausgezahlt. Die Auszah- lung an den Träger begründet für ihn kein Recht darauf und macht ihn nicht zum Anspruchsin- haber. Deshalb kann der Anspruch auch nicht vom Träger an Dritte übertragen werden. Werden Lehrgangskosten an den Träger ausgezahlt, ist dies dem Leistungsberechtigen im Bewilli- gungsbescheid mitzuteilen.
+
+Die Zahlung der Lehrgangskosten erfolgt in gleichbleibenden Monatsraten. Die Anzahl der Mo- natsraten entspricht der Anzahl der vollen Teilnahmemonate. Die Höhe des Monatsbetrages ermittelt sich aus der individuellen Teilnahmedauer, die die im Bildungsgutschein festgelegte maximale Weiterbildungsdauer nicht überschreiten darf und den ggfs. anteiligen Lehrgangskos- ten. Die Monatsraten werden, soweit nichts anderes vereinbart ist, monatlich nachträglich ge- zahlt. Die erste Monatsrate ist fällig am Tag nach Ablauf des Monats seit Maßnahmebeginn. Die Aufnahme- und Zahlungsbedingungen sowie die Höhe der Monatsraten werden im Regel- fall durch den Maßnahmeträger im Maßnahmebogen dargestellt.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+sdauer nicht überschreiten darf und den ggfs. anteiligen Lehrgangskos- ten. Die Monatsraten werden, soweit nichts anderes vereinbart ist, monatlich nachträglich ge- zahlt. Die erste Monatsrate ist fällig am Tag nach Ablauf des Monats seit Maßnahmebeginn. Die Aufnahme- und Zahlungsbedingungen sowie die Höhe der Monatsraten werden im Regel- fall durch den Maßnahmeträger im Maßnahmebogen dargestellt.
+
+Lehrgangskosten sind auch während etwaiger (entschuldigter und unentschuldigter) Fehlzeiten weiterzuzahlen. Im Falle eines vorzeitigen Austritts aus der Maßnahme sind noch zwei der nach dem Ausscheiden (letzter Anwesenheitstag) fälligen Monatsraten zu den entsprechenden Fäl- ligkeitsterminen auszuzahlen. Dies gilt nicht, wenn der Maßnahmeträger den Abbruch zu ver- treten hat. Bei vorzeitigem Ausscheiden eines Teilnehmers wegen sozialversicherungspflichti- ger Beschäftigungsaufnahme durch Vermittlung des Maßnahmeträgers können abweichend von der vorstehenden Regelung Lehrgangskosten bei Maßnahmen, die nicht auf den Erwerb eines anerkannten Berufsabschlusses ausgerichtet sind, mit feststehendem Beginntermin bis zum planmäßigen Maßnahmeende gezahlt werden. Dies setzt voraus, dass eine Nachbeset- zung durch einen anderen Teilnehmer nicht möglich ist. Es muss sich hierbei um ein unbefris- tetes oder auf mindestens ein Jahr befristetes, versicherungspflichtiges Arbeitsverhältnis han- deln. Der Maßnahmeträger hat hierzu spätestens einen Monat nach Ausscheiden eine schrift- liche Erklärung vorzulegen.
+
+(Stand: 08.11.2022)

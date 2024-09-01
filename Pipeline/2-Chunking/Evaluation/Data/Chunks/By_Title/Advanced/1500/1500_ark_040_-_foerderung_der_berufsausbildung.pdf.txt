@@ -1,0 +1,450 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_040_-_foerderung_der_berufsausbildung.pdf
+max_characters:		2500
+aimed_chunk_size:	1500
+combine_under:		1000
+loading_strategy:	hi_res
+chunking_strategy:	By_Title
+mode:				Advanced
+n_chunks:			28
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 4
+
+Anlage 4 ZFA
+
+ZFA
+
+Hinweise und Handlungsempfehlungen
+
+des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Gewährung von Förderungshilfen für Auszubildende (Benachteiligtenförderung) gem. § 16 (1) S. 2 Nr. 3 SGB II i.V.m. §§ 73 – 76 SGB III
+
+Allgemeines
+
+Mit dem Inkrafttreten des Gesetzes zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung wurden die Regelungen zur Ausbildungsförderung neue geordnet. Dabei entsprechen die inhaltlichen Vorschriften im Wesentlichen den bisherigen Bestimmungen, die Struktur der Rechtsnormen wurde allerdings überarbeitet. Der Zugang zur Gewährung von Leistungen des ersten bis dritten Unterabschnitts des dritten Abschnitts des SGB III (u.a. Förderung von Berufsorientierungsmaßnahmen, Berufseinstiegsbegleitung, Förderung berufsvorbereitender Bildungsmaßnahmen, Gewährung einer Berufsausbildungsbeihilfe) ist den Leistungsträgern nach dem SGB II weiterhin nicht möglich.
+
+Instrumente zur Unterstützung der besonderen Zielgruppe der erwerbsfähigen jungen Leistungsberechtigten zur Erlangung einer Berufsausbildung:
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 73 SGB III - Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderung und schwerbehinderte Menschen
+
+(1) Arbeitgeber können für die betriebliche Aus- oder Weiterbildung von Menschen mit Behinderungen und schwerbehinderten Menschen im Sinne des § 187 Absatz 1 Nummer 3 Buchstabe e des Neunten Buches durch Zuschüsse zur Ausbildungsvergütung oder zu einer vergleichbaren Vergütung gefördert werden, wenn die Aus- oder Weiterbildung sonst nicht zu erreichen ist.
+
+(2) Die monatlichen Zuschüsse sollen regelmäßig 60 Prozent, bei schwerbehinderten Menschen 80 Prozent der monatlichen Ausbildungsvergütung für das letzte Ausbildungsjahr oder der vergleichbaren Vergütung einschließlich des darauf entfallenden pauschalierten Arbeitgeberanteils am Gesamtsozialversicherungsbeitrag nicht übersteigen. In begründeten Ausnahmefällen können Zuschüsse jeweils bis zur Höhe der Ausbildungsvergütung für das letzte Ausbildungsjahr erbracht werden.
+
+(3) Bei Übernahme schwerbehinderter Menschen in ein Arbeitsverhältnis durch den ausbildenden oder einen anderen Arbeitgeber im Anschluss an eine abgeschlossene Aus- oder Weiterbildung kann ein Eingliederungszuschuss in Höhe von bis zu 70 Prozent des zu berücksichtigenden Arbeitsentgelts (§ 91 SGB III) für die Dauer von einem Jahr erbracht werden, sofern während der Aus- oder Weiterbildung Zuschüsse erbracht wurden.
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Auszug § 187 (1) Nr. 3 Buchstabe e SGB IX - Aufgaben der Bundesagentur für Arbeit
+
+(1) Die Bundesagentur für Arbeit hat folgende Aufgaben: ... 3. die Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben auf dem allgemeinen Arbeitsmarkt, insbesondere von schwerbehinderten Menschen, ... e) die zur Aus- oder Weiterbildung eingestellt werden,
+
+Förderungsvoraussetzungen / Höhe / Dauer (Zuschüsse zur Ausbildungsvergütung behinderter und schwerbehinderter Menschen)
+
+Arbeitgeber können für die betriebliche Aus- oder Weiterbildung von Menschen mit Behinderungen oder schwerbehinderten (GdB von mind. 50) Menschen durch Zuschüsse zur Ausbildungsvergütung oder vergleichbaren Vergütung gefördert werden, wenn die Aus- oder Weiterbildung sonst nicht zu erreichen ist. Zuschüsse zur Ausbildungsvergütung von Menschen mit Behinderungen oder schwerbehinderten Menschen werden in der Praxis nur in ganz bestimmten Einzelfällen zum Tragen kommen. Im Einzelfall ist in der Begründung / Dokumentation in FMG2 darzustellen, aus welchen Gründen ansonsten eine Ausbildung nicht erreicht werden kann.
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die konkreten Förderungsvoraussetzungen sind abschließend in § 73 SGB III definiert, eine Übertragung auf den Personenkreis der nach dem Schwerbehindertenrecht gleichgestellten Jugendlichen ist möglich. Der Nachweis der Schwerbehinderteneigenschaft / Gleichstellung ist aktenkundig zu machen. Hinsichtlich Festlegung der Förderhöhe besteht ein Ermessenspielraum bis zu den in § 73 (2) SGB III definierten Prozentsätzen. Als Kriterien für die Ermessensentscheidung kann beispielsweise die Höhe des GdB, die Dauer der Ausbildungsstellensuche, das vorliegen weitere erheblicher Vermittlungshemmnisse oder der aufgrund der Behinderung notwendige außergewöhnliche Betreuungsaufwand des Ausbildungsbetriebes herangezogen werden. Die Förderdauer bezieht sich im Regelfall auf die gesamte Dauer der nach dem BBiG bzw. HWO festgelegten Regelausbildungszeit. Eine Nachbeschäftigungs- verpflichtung besteht nicht. Die vorzulegenden Förderunterlagen ergeben sich aus dem Bewilligungsbescheid. Der pauschalierte Anteil des Arbeitgebers am Gesamtsozialversicherungsbeitrag beträgt 20 Prozent der berücksichtigungsfähigen Vergütung. Spätestens über die Schlussrechnung ist sicherzustellen, dass dem Arbeitgeber in der Summe kein höherer Zuschuss gewährt wird, als er an Ausbildungsvergütung oder vergleichbarer Vergütung einschließlich des darauf entfallenden Arbeitgeberanteils am Gesamtsozialversicherungsbeitrag tatsächlich gezahlt hat.
+
+Mit dem Gesetz zur Modernisierung und Stärkung der beruflichen Bildung wurde zum 01.01.2020 eine Mindestausbildungsvergütung eingeführt. Die Mindestausbildungsvergütung richtet sich nach § 17 BBiG und darf nicht unterschritten werden. Eine Förderung mit einem Zuschuss zur Ausbildungsvergütung ist nur dann möglich, wenn durch den Ausbildenden die gesetzliche Mindestausbildungsvergütung geleistet wird.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Hinweis
+
+Im Rahmen von bundes- und landesweiten Sonderprogrammen zur Förderung der Ausbildung behinderter Jugendlicher und junger Erwachsener (Bundesinitiative Inklusion - Handlungsfeld 2 bis 12/2015 und aktion5) kann das Integrationsamt ggf. parallel die Einstellung in ein Ausbildungsverhältnis mit Zuschüssen und Prämien fördern. Auch bei der Schaffung eines neuen Ausbildungsplatzes kann der Arbeitgeber ggf. Zuschüsse zu den notwendigen Investitionskosten erhalten.
+
+Verfügbare Vordrucke in FMG2 : 04 Antrag Zuschuss Ausbildungsvergütung Schwerbehinderter/Behinderter 04 Bewilligung Zuschuss Ausbildungsvergütung Behinderter
+
+| | |
+
+Zuschüsse zur Ausbildungs- Vergütung Behinderter/ Schwerbeh.
+
+Mindest- ausbildungs- vergütung
+
+Anlage 4
+
+Anlage 4 ZFA
+
+ZFA
+
+Assistierte Ausbildung
+
+Die Assistierte Ausbildung war seit dem Jahr 2015 als befristete Maßnahme in § 130 SGB III verankert, hatte allerdings keinen Förderschwerpunkt in der Aufgabenumsetzung des SGB II. Der Koalitionsvertrag sieht den Ausbau und die Weiterentwicklung der Assistierten Ausbildung vor, womit nunmehr die Assistierte Ausbildung dauerhaft in das SGB III übernommen wurde. Um parallele Förderstrukturen zu vereinfachen wurde mit dem Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung die Assistierte Ausbildung mit den ausbildungsbegleitenden Hilfen zu einem einheitlichen Instrument zusammengeführt. Angebote der ausbildungsbegleitenden Hilfen sollen künftig im Rahmen der Assistierten Ausbildung flexibel zur Verfügung stehen. Kern der Assistierten Ausbildung ist auch zukünftig die Möglichkeit, Unterstützung vor und während der Berufsausbildung beim selben Träger der Maßnahmen anzubieten.
+
+Die gesetzliche Implementierung als dauerhaftes Instrument im SGB III erfolgt durch die Neufassung der §§ 74 und 75 SGB III. Künftig enthalten die Normen Vorschriften zur Assistierten Ausbildung, die durch den neuen § 75a SGB III komplettiert werden. § 74 SGB II bildet die Grundnorm für das weiterentwickelte Instrument der Assistierten Ausbildung, dass sich wie bisher aus einer obligatorischen begleitenden Phase (§ 75 SGB III) und einer fakultativ vorgeschalteten Vorphase (§ 75a SGB III) zusammensetzt. § 74 SGB III enthält übergreifende Regelungen, die für beide Phasen gelten. Die bisherigen Regelungen zu ausbildungsbegleitenden Hilfen gehen in den genannten neuen Vorschriften auf.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 74 SGB III - Assistierte Ausbildung
+
+(1) Die Agentur für Arbeit kann förderungsberechtige junge Menschen und deren Ausbildungsbetriebe während einer betrieblichen Berufsausbildung oder einer Einstiegsqualifizierung (begleitende Phase) durch Maßnahmen der Assistierten Ausbildung fördern. Die Maßnahme kann auch eine vorgeschaltete Phase enthalten, die die Aufnahme einer betrieblichen Berufsausbildung unterstützt (Vorphase).
+
+(2) Ziele der Assistierten Ausbildung sind
+
+1. die Aufnahme einer Berufsausbildung und 2. die Hinführung auf den Abschluss der betrieblichen Berufsausbildung.
+
+Das Ziel der Assistierten Ausbildung ist auch erreicht, wenn der junge Mensch seine betriebliche Berufsausbildung ohne die Unterstützung fortsetzen und abschließen kann.
+
+(3) Förderungsberechtigt sind junge Menschen, die ohne Unterstützung
+
+1. eine Berufsausbildung nicht aufnehmen oder fortsetzen können oder voraussichtlich Schwierigkeiten haben werden, die Berufsausbildung abzuschließen, oder 2. wegen in ihrer Person liegender Gründe a) nach der vorzeitigen Lösung eines betrieblichen Berufsausbildungsverhältnisses eine weitere Berufsausbildung nicht aufnehmen oder b) nach Abschluss einer mit Assistierter Ausbildung unterstützten Berufsausbildung ein Arbeitsverhältnis nicht begründen oder festigen können.
+
+Förderungsberechtigt sind auch junge Menschen, die wegen in ihrer Person liegender Gründe während einer Einstiegsqualifizierung zusätzlicher Unterstützung bedürfen. Die Förderungsberechtigung endet im Fall des Satzes 1 Nummer 2 Buchstabe b spätestens sechs Monate nach Begründung eines Arbeitsverhältnisses oder spätestens ein Jahr nach Ende der Berufsausbildung.
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Der junge Mensch wird, auch im Betrieb, individuell und kontinuierlich unterstützt und sozialpädagogisch begleitet. Ihm steht beim Träger der Assistierten Ausbildung über die gesamte Laufzeit der Förderung insbesondere eine feste Ausbildungsbegleiterin oder ein fester Ausbildungsbegleiter zur Verfügung.
+
+(5) § 57 Absatz 1 gilt entsprechend.
+
+(6) Mit der Durchführung von Maßnahmen der Assistierten Ausbildung beauftragt die Agentur für Arbeit Träger unter Anwendung des Vergaberechts.
+
+(7) Die Bundesagentur soll bei der Umsetzung der Assistierten Ausbildung mit den Ländern zusammenarbeiten. Durch die Zusammenarbeit sollen unter Berücksichtigung regionaler Besonderheiten Möglichkeiten einer Koordination der Akteure eröffnet und dadurch eine hohe Wirksamkeit der Maßnahme im Ausbildungsmarkt erreicht werden. Die Bundesagentur kann ergänzende Leistungen der Länder berücksichtigen. Das gilt insbesondere für Leistungen der Länder zur Förderung nicht nach Absatz 5 förderungsfähiger Berufsausbildungen.
+
+§ 74 (3) definiert den förderungsberechtigten Personenkreis, welcher über die Vorschrift des § 16 (1) S. 2 Nr. 3 auch für den Rechtskreis des SGB II gilt. Danach kann die Assistierte Ausbildung insbesondere dann eingesetzt werden, wenn während einer betrieblichen Berufsausbildung oder Einstiegsqualifizierung eine Unterstützung notwendig ist oder nach Abbruch einer betrieblichen Berufsausbildung bis zur Aufnahme einer neuen Berufsausbildung eine Begleitung erforderlich ist.
+
+Die Förderung als Teilnehmende richtet sich an junge Menschen, die
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nicht vollzeitschulpflichtig sind und die Ausbildungsreife und Berufseignung besitzen und
+
+ohne Unterstützung eine Berufsausbildung nicht aufnehmen oder fortsetzen können oder voraussichtlich Schwierigkeiten haben werden, die Berufsausbildung abzuschließen oder
+
+ohne Unterstützung wegen in ihrer Person liegender Gründe nach der vorzeitigen Lösung eines betrieblichen Berufsausbildungsverhältnisses eine weitere Berufsausbildung nicht aufnehmen können oder nach Abschluss einer mit Assistierter Ausbildung unterstützten Berufsausbildung ein Arbeitsverhältnis nicht begründen oder festigen können oder
+
+wegen in ihrer Person liegender Gründe während einer Einstiegsqualifizierung zusätzlicher Unterstützung bedürfen.
+
+§ 75 SGB III - Begleitende Phase der Assistierten Ausbildung
+
+(1) In der begleitenden Phase sind auch junge Menschen förderungsberechtigt, die zusätzlich zu der in § 74 Absatz 3 Satz 1 Nummer 1 genannten Voraussetzung abweichend von § 30 Absatz 1 des Ersten Buches ihren Wohnsitz und ihren gewöhnlichen Aufenthalt außerhalb von Deutschland haben, deren Ausbildungsbetrieb aber in Deutschland liegt.
+
+(2) Die begleitende Phase umfasst
+
+1. sozialpädagogische Begleitung, 2. Maßnahmen zur Stabilisierung des Berufsausbildungsverhältnisses oder der Einstiegsqualifizierung, 3. Angebote zum Abbau von Bildungs- und Sprachdefiziten und 4. Angebote zur Vermittlung fachtheoretischer Fertigkeiten, Kenntnissen und Fähigkeiten.
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+förderungs- berechtigter Personenkreis
+
+Anlage 4
+
+Anlage 4 ZFA
+
+ZFA
+
+(3) Die Agentur für Arbeit legt die erforderlichen Unterstützungselemente nach Beratung des förderungsberechtigten jungen Menschen in Abstimmung mit dem Träger der Maßnahme im Einzelfall fest. Sie überprüft die Erforderlichkeit regelmäßig in Abstimmung mit dem Träger.
+
+(4) Die individuelle Unterstützung des jungen Menschen ist durch den Träger der Maßnahme mit dem Ausbildungsbetrieb abzustimmen.
+
+(5) In den Fällen des § 74 Absatz 3 Satz 1 Nummer 2 in Verbindung mit Satz 3 kann der junge Mensch in der begleitenden Phase gefördert werden, ohne dass ein betriebliches Berufsausbildungsverhältnis besteht oder eine Einstiegsqualifizierung durchgeführt wird.
+
+(6) Aufgaben des Ausbildungsbetriebes bei der und Verantwortung desselben für die Durchführung der Berufsausbildung oder der Einstiegsqualifizierung bleiben unberührt.
+
+(7) Betriebe, die einen mit Assistierter Ausbildung geförderten jungen Menschen ausbilden, können bei der Durchführung der Berufsausbildung oder der Einstiegsqualifizierung
+
+1. administrativ und organisatorisch sowie 2. zur Stabilisierung des Berufsausbildungsverhältnisses oder der Einstiegsqualifizierung unterstützt werden.
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 75a SGB III - Vorphase der Assistierten Ausbildung
+
+(Hinweis: die Vorphase der Assistierten Ausbildung steht im Hochsauerlandkreis nicht zur Verfügung)
+
+(1) In der Vorphase sind junge Menschen förderungsberechtigt, wenn sie zusätzlich zu der in § 74 Absatz 3 Satz 1 Nummer 1 genannten Voraussetzung die Vollzeitschulpflicht nach den Gesetzen der Länder erfüllt haben. Ausländerinnen und Ausländer sind förderungsberechtigt, wenn die Voraussetzungen nach Satz 1 vorliegen und sie eine Erwerbstätigkeit ausüben dürfen oder ihnen eine Erwerbstätigkeit erlaubt werden kann. Für eine Unterstützung in dieser Phase müssen Ausländerinnen und Ausländer, die eine Aufenthaltsgestattung nach dem Asylgesetz oder eine Duldung besitzen, zudem
+
+1. sich seit mindestens 15 Monaten erlaubt, gestattet oder geduldet im Bundesgebiet aufhalten und 2. schulische Kenntnisse und Kenntnisse der deutschen Sprache besitzen, die einen erfolgreichen Übergang in eine Berufsausbildung erwarten lassen.
+
+Gestattete oder geduldete Ausländerinnen oder Ausländer, die vor dem 1. August 2019 in das Bundesgebiet eingereist sind, müssen sich abweichend von Satz 3 Nummer 1 seit mindestens drei Monaten erlaubt, gestattet oder geduldet dort aufhalten.
+
+(2) In der Vorphase wird der junge Mensch bei der Suche nach und Aufnahme einer betrieblichen Berufsausbildung unterstützt. Abgestimmt auf den individuellen Förderbedarf sind in angemessenem Umfang betriebliche Praktika vorzusehen.
+
+(3) Die Vorphase darf eine Dauer von bis zu sechs Monaten umfassen. Konnte der junge Mensch in dieser Zeit nicht in eine betriebliche Berufsausbildung vermittelt werden, kann die ausbildungsvorbereitende Phase bis zu zwei weitere Monate fortgesetzt werden.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Die Vorphase darf nicht den Schulgesetzen der Länder unterliegen.
+
+(5) Betriebe, die das Ziel verfolgen, einen förderungsberechtigen jungen Menschen auszubilden, können bei der Vorbereitung zur Aufnahme der Berufsausbildung durch den jungen Menschen durch die Vorphase im Sinne von § 75 Absatz 7 unterstützt werden.
+
+Kernstück der Assistierten Ausbildung ist die Begleitung und Unterstützung während einer betrieblichen Berufsausbildung. Eine Altersbeschränkung sieht das Gesetz nicht vor. Die Assistierte Ausbildung kann sich in zwei Phasen gliedern, wobei im Hochsauerlandkreis nur die ausbildungsbegleitende Unterstützungsphase als Förderinstrument zur Verfügung steht.
+
+In der ausbildungsbegleitenden Phase (Phase II - § 75 SGB III) – obligatorisch bis zum individuellen erfolgreichen Ausbildungsabschluss mit folgenden Inhalten:
+
+Unterstützung der Teilnehmenden und der Betriebe während der betrieblichen Ausbildung sowie Vorbereitung des anschließenden Übergangs in versicherungspflichtige Beschäftigung.
+
+Die Rechte und Pflichten aus dem Ausbildungsverhältnis bleiben von der Assistierten Ausbildung unberührt. Teilnehmende einer Einstiegsqualifizierung können bei entsprechendem Bedarf ebenfalls mit der begleitenden Phase gefördert werden.
+
+Innerhalb der Maßnahmen der Assistierten Ausbildung gibt es zur Vorbereitung und passgenauen Ausbildungsvermittlung zusätzlich die Möglichkeit einer ausbildungsvorbereitenden Phase (Phase I - § 75a SGB III) – fakultativ/optional grundsätzlich maximal bis zu sechs Monaten mit folgenden Inhalten:
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Standortbestimmung, Berufsorientierung, Profiling, Bewerbungstraining, berufspraktische Erprobung und aktive, speziell auf die Belange des einzelnen Teilnehmenden und des einzelnen Betriebes ausgerichtete Ausbildungsstellenakquise sowie Unterstützung der Teilnehmenden und der Betriebe bei Formalitäten vor und beim Vertragsabschluss.
+
+Auf eine vorgeschaltete Ausbildungsvorbereitungsphase im Rahmen von der Assistierten Ausbildung kann auch verzichtet werden. Damit sollte Flexibilität geschaffen werden, um eine Anschlussfähigkeit an und Abstimmung mit vorbereitenden Maßnahmen des Landes zu ermöglichen. In diesem Zusammenhang ist anzumerken, dass im Hochsauerlandkreis kein entsprechendes Angebot durch eine notwendige Vergabemaßnahme vorliegt. Stattdessen steht im Jobcenter Hochsauerlandkreis die Maßnahmegestaltung „Zukunft Arbeit HSK“ zur Verfügung, welche über die Vorschrift des § 45 SGB III durch ein begleitendes Coaching eine Heranführung an den Ausbildungsmarkt zum Ziel hat. Darüber hinaus, stehen weitere Angebote zur Heranführung an den Ausbildungs-/Arbeitsmarkt im Rahmen einer Maßnahme zur Aktivierung und beruflichen Eingliederung als Coaching-Angebote, welche mittels Aktivierungsgutschein zugänglich sind, zur Verfügung.
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 57 SGB III - Förderungsfähige Berufsausbildung
+
+(1) Eine Berufsausbildung in einem nach dem Berufsbildungsgesetz, der Handwerksordnung oder dem Seearbeitsgesetz staatlich anerkannten Ausbildungsberuf betrieblich oder außerbetrieblich oder nach Teil 2, auch in Verbindung mit Teil 5, des Pflegeberufegesetzes oder dem Altenpflegegesetz betrieblich durchgeführt wird und der dafür vorgeschriebene Berufsausbildungsvertrag abgeschlossen worden ist. ...
+
+Einstiegs- qualifizierung
+
+Anlage 4
+
+Anlage 4 ZFA
+
+ZFA
+
+Anforderungen an die Assistierte Ausbildung (AsA) – begleitende Phase
+
+Entsprechend der Vorschrift des § 75 (2) Nr. 1 – 4 SGB III stellen die Angebote zum Abbau von Bildungs- und Sprachdefiziten in Form von Stütz- und Förderunterricht (ehemals ausbildungsbegleitende Hilfen) sowie die sozialpädagogische des Berufsausbildungsverhältnisses bzw. der Einstiegsqualifizierung die wesentlichen Inhalte der Phase II der Assistierten Ausbildung dar. Unterstützungsangebote sind hinsichtlich der konkreten Ausgestaltung und Intensität individuell und (Flexibilität). kontinuierlich den Bedarfen der Teilnehmenden und deren Ausbildungsbetriebe anzupassen Dementsprechend hat in der individuellen Beratung eine Festlegung des Förderbedarfes zu erfolgen. Eine parallele Förderung von Berufseinstiegsbegleitung und Assistierte Ausbildung sollte nicht erfolgen. Vor Eintritt in die Phase II muss ein Ausbildungsvertrag unterzeichnet sein.
+
+Die Förderzusage (Bewilligung) erfolgt in der Regel für ein Jahr, Bezugszeitraum ist das jeweilige Ausbildungsjahr. Nach einem Jahr ist die Antragstellung, die Zielgruppenzugehörigkeit (Zugehörigkeit zum förderungsberechtigten Personenkreis) und die Notwendigkeit der Gewährung von AsA – begleitende Phase zu dokumentieren. Eine schriftliche Antragstellung ist in jedem Fall – auch im Fall einer Verlängerung - erforderlich und je nach Fallkonstellation ggfs. einer mündlichen Antragstellung nachzuholen. Leistungen, die Berechtigten im Sinne des § 7 SGB II zu Gute kommen sollen, sind von den Grundsicherungsträgern zu beauftragen und zu finanzieren. Die Zuständigkeit richtet sich abweichend von der Regelung der Agentur für Arbeit nach dem Wohnsitz des Auszubildenden. Ein Wegfall der Hilfebedürftigkeit im Förderverlauf führt nicht zu einem Wechsel der Kostenträgerschaft.
+
+
+
+Chunk #14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Gewährung einer ergänzenden Fahrkostenerstattung zur Erreichung des Maßnahmeortes AsA – begleitende Phase ist nicht zulässig. Fahrkosten sind aus der evt. bereits vorhandenen Zeitkarte bzw. der Ausbildungsvergütung zu bestreiten.
+
+Der Hochsauerlandkreis als zugelassener kommunaler Träger hat sich bezüglich des Zugangs von AsA – begleitende Phase aufgrund der Beauftragung der örtlichen Agentur für Arbeit mit der Aufgabe der Ausbildungsstellenvermittlung zur Vermeidung weiterer Schnittstellen dem öffentlichen Vergabeverfahren der Agentur für Arbeit angelehnt (§ 74 (6) SGB III) und kann damit in Anspruch nehmen. Die Durchführung eines eigenständigen die Vergabeverfahrens im Rechtskreis des SGB II ist aufgrund der geringen Förderfälle/des geringen Förderbedarfs nicht wirtschaftlicher, als die Anlehnung an die Kostensätze der BA. Aktuell hat das Kolping-Bildungszentrum Arnsberg den Zuschlag für AsA - begleitende Phase für den gesamten Hochsauerlandkreis erhalten. Der Kostensatz liegt monatlich wie folgt:
+
+Ausbildungsjahr 2021/2022 + 2022/2023 + 2023/2024: 55,00 € pro Zeitstunde
+
+§ 75 (3) SGB III verlangt die Festlegung des individuellen Unterstützungsbedarfes mit der Aufnahme der Assistierten Ausbildung in der begleitenden Phase. Dementsprechend wurde die Maßnahmegestaltung beim Kolping-Bildungszentrum durch Festlegung von Stundenkontingenten ausgeschrieben und ausgerichtet. Mit der Zuweisung ist eine individuelle Festlegung der Stundenkontingente für die beiden getrennten Elemente „Abbau von Bildungs- und Sprachdefiziten“ sowie „Sozialpädagogische Betreuung einschl. notwendiger Maßnahmen zur Stabilisierung“ im Austausch mit dem Träger notwendig, hierzu wurde ein separater Zuweisungsbogen entwickelt. Beide Elemente beziehen sich auf den individuellen Unterstützungsbedarf und können getrennt in Anspruch genommen werden. Die Erfahrung zeigt, dass im Regelfall ein auf das Ausbildungsjahr bezogenes Stundenkontingent von 65 Zeitstunden im Element „Abbau von Bildungs- und Sprachdefiziten“ angenommen werden kann. In den vorgenannten Preis pro Zeitstunde für die Unterstützungsleistungen sind zusätzlich zur tatsächlichen Betreuungszeit (Bsp.: Unterrichtseinheit von 45 Minuten für Stütz- u. Förderunterricht), Zeiten für alle weiteren Aufwendungen inkludiert.
+
+
+
+Chunk #15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+AsA – begleitende Phase dient der ordnungsgemäßen Vorbereitung auf einen Beruf und fällt daher unter die Umsatzsteuerbefreiung nach § 4 Nr. 21 Buchst. a) Doppelbuchstabe bb) des Umsatzsteuergesetzes. Die Bescheinigung über die Erfüllung der Voraussetzungen für eine Steuerbefreiung erfolgt durch die zuständige Landesbehörde, nicht durch die Bundesagentur für Arbeit bzw. das Jobcenter.
+
+Verfügbarer Vordruck in FMG2: 04 Antrag_AsA_begleitende.Phase 04 Zuweisung_AsA_begleitende.Phase 04 Bewilligung_AsA_begleitende.Phase
+
+Zahlbarmachung / technische Umsetzung
+
+Die EDV-technische/statistische Darstellung im Programm FMG2 der Förderung durch AsA – begleitende Phase erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung „Ausb.Benachteiligter/AsA (flex)“ im Projekt „400 Maßnahmen“. Dabei ist die Maßnahme „Assistierte Ausbildung“ auszuwählen. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Die Förderung/Bewilligung von Leistungen der Assistierten Ausbildung in der begleitenden Phase muss zeitlich nicht zwangsläufig parallel mit dem Beginn eines Berufsausbildungsverhältnisses einhergehen. Häufig wird ein Förderbedarf erst später festgestellt. Die mit der grundsätzlichen Aufnahme der Berufsausbildung notwendigen Dokumentationsschritte sind der „Übersicht der Maßnahmen im FMG2/Darstellung der Arbeitslosigkeit“ zu entnehmen; insbesondere wird hier auf die Anpassung des Abmeldegrundes im Einzelfall hingewiesen.
+
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Teilnahme an der Assistierten Ausbildung – begleitende Phase entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20310 mit dem Status „geplant“ zu hinterlegen (Stundenkontingente x 55,- / Monate). Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren. Um den Verwaltungsaufwand zu reduzieren, wurde mit dem Maßnahmeträger eine quartalsweise Rechnungslegung abgesprochen.
+
+
+
+Chunk #16
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Mit dem Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung wird das Recht zur Außerbetrieblichen Berufsausbildung ebenfalls vereinfacht und verständlicher erfasst. In der Norm des § 76 SGB III werden Förderungsvoraussetzungen und Ausgestaltung der Förderung zusammengefasst und präzisiert.
+
+Hinweis:
+
+Die Bezeichnung der Unterstützungsleistungen der Assistierten Ausbildung variieren. Die gesetzlich definierte Bezeichnung lautet „Assistierte Ausbildung“. Die Bundesagentur für Arbeit stellt in Veröffentlichen häufig auf die Bezeichnung „Assistierte Ausbildung – flexibel (AsA flex) ab. Der Zusatz „flexibel“ stellt dabei auf die Elemente der Assistierten Ausbildung, als auch die individuelle Bedarfssituation ab. Beide Bezeichnungen implizieren die gleiche Unterstützungsleistung. Das Jobcenter Hochsauerlandkreis stellt auf die gesetzlich definierte Bezeichnung ab.
+
+Maßnahmeorte der Assistierten Ausbildung – begleitende Phase im Element „Abbau von Bildungs- und Sprachdefiziten (Stütz- u. Förderunterricht) der Kolping Bildungszentren Südwestfalen GmbH: Arnsberg, Meschede, Olsberg, Sundern, Schmallenberg und Marsberg.
+
+
+
+Chunk #17
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2 Förder- Elemente in der begleitenden Phase
+
+Festlegung des Unter- stützungs- bedarfs
+
+Anlage 4
+
+Anlage 4 ZFA
+
+ZFA
+
+§ 76 SGB III - Außerbetriebliche Berufsausbildung
+
+(1) Die Agentur für Arbeit kann förderungsberechtigte junge Menschen durch eine nach § 57 Absatz 1 förderungsfähige Berufsausbildung in einer außerbetrieblichen Einrichtung (außerbetriebliche Berufsausbildung) fördern. Der Anteil betrieblicher Ausbildungsphasen je Ausbildungsjahr muss angemessen sein.
+
+(2) Während der Durchführung einer außerbetrieblichen Berufsausbildung sind alle Möglichkeiten wahrzunehmen, um den Übergang der oder des Auszubildenden in ein betriebliches Berufsausbildungsverhältnis zu unterstützen. Die Agentur für Arbeit zahlt dem Träger, der die außerbetriebliche Berufsausbildung durchführt, für jede vorzeitige und nachhaltige Vermittlung aus einer außerbetrieblichen Berufsausbildung in eine betriebliche Berufsausbildung eine Pauschale in Höhe von 2.000 Euro. Die Vermittlung gilt als vorzeitig, wenn die oder der Auszubildende spätestens zwölf Monate vor dem vertraglichen Ende der außerbetrieblichen Berufsausbildung vermittelt worden ist. Die Vermittlung gilt als nachhaltig, wenn das Berufsausbildungsverhältnis länger als vier Monate fortbesteht. Die Pauschale wird für jede Auszubildende und jeden Auszubildenden nur einmal gezahlt.
+
+(2a)Die Gestaltung des Lehrplans, die Unterrichtsmethode und die Güte der zum Einsatz vorgesehenen Lehr- und Lernmittel müssen eine erfolgreiche Berufsausbildung erwarten lassen.
+
+(3) Ist ein betriebliches oder außerbetriebliches Berufsausbildungsverhältnis vorzeitig gelöst worden, kann die Agentur für Arbeit die Auszubildende oder den Auszubildenden auch durch Fortsetzung der Berufsausbildung in einer außerbetrieblichen Einrichtung fördern.
+
+
+
+Chunk #18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(4) Wird ein außerbetriebliches Berufsausbildungsverhältnis vorzeitig gelöst, hat der Träger der Maßnahme eine Bescheinigung über bereits erfolgreich absolvierte Teile der Berufsausbildung auszustellen.
+
+(5) Förderungsberechtigt sind junge Menschen,
+
+1. die lernbeeinträchtigt oder sozial benachteiligt sind und wegen in ihrer Person liegender Gründe auch mit ausbildungsfördernden Leistungen nach diesem Buch eine Berufsausbildung in einem Betrieb nicht aufnehmen können oder 2. deren betriebliches oder außerbetriebliches Berufsausbildungsverhältnis vorzeitig gelöst worden ist und deren Eingliederung in betriebliche Berufsausbildung auch mit ausbildungsfördernden Leistungen nach diesem Buch aussichtslos ist, sofern zu erwarten ist, dass sie die Berufsausbildung erfolgreich abschließen können.
+
+(6) Nicht förderungsberechtigt sind
+
+1. Ausländerinnen und Ausländer, die weder in der Bundesrepublik Deutschland Arbeitnehmerinnen, Arbeitnehmer oder Selbständige noch auf Grund des § 2 Absatz 3 des Freizügigkeitsgesetzes/EU freizügigkeitsberechtigt sind, und ihre
+
+Familienangehörigen für die ersten drei Monate ihres Aufenthalts, 2. Ausländerinnen und Ausländer,
+
+a) die kein Aufenthaltsrecht haben, b) deren Aufenthaltsrecht sich allein aus dem Zweck der Arbeitsuche, der Suche nach einem Ausbildungs- oder Studienplatz, der Ausbildung oder des Studiums ergibt oder c) die ihr Aufenthaltsrecht allein oder neben einem Aufenthaltsrecht nach Buchstabe b aus Artikel 10 der Verordnung (EU) Nr. 492/2011 des Europäischen Parlaments und des Rates vom 5. April 2011 über die Freizügigkeit der Arbeitnehmer innerhalb der Union (ABl. L 141 vom 27.5.2011, S. 1), die durch die Verordnung (EU) 2016/589 (ABl. L 107 vom 22.4.2016, S. 1) geändert worden ist, ableiten, und ihre Familienangehörigen, 3. Leistungsberechtigte nach § 1 des Asylbewerberleistungsgesetzes. Satz 1 Nummer 1 gilt nicht für Ausländerinnen und Ausländer, die sich mit einem Aufenthaltstitel nach Kapitel 2 Abschnitt 5 des Aufenthaltsgesetzes in der Bundesrepublik Deutschland aufhalten.
+
+
+
+Chunk #19
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Abweichend von Satz 1 Nummer 2 können Ausländerinnen und Ausländer und ihre Familienangehörigen gefördert werden, wenn sie seit mindestens fünf Jahren ihren gewöhnlichen Aufenthalt im Bundesgebiet haben; dies gilt nicht, wenn der Verlust des Rechts nach § 2 Absatz 1 des Freizügigkeitsgesetzes/EU festgestellt wurde. Die Frist nach Satz 3 beginnt mit der Anmeldung bei der zuständigen Meldebehörde. Zeiten des nicht rechtmäßigen Aufenthalts, in denen eine Ausreisepflicht besteht, werden auf Zeiten des gewöhnlichen Aufenthalts nicht angerechnet.
+
+(7) Die Agentur für Arbeit erstattet dem Träger, der die außerbetriebliche Berufsausbildung durchführt, die von diesem an die Auszubildende oder den Auszubildenden zu zahlende Ausbildungsvergütung, jedoch höchstens den Betrag nach § 17 Absatz 2 des Berufsbildungsgesetzes. Der Betrag erhöht sich um den vom Träger zu tragenden Anteil am Gesamtsozialversicherungsbeitrag.
+
+(8) Mit der Durchführung von Maßnahmen der außerbetrieblichen Berufsausbildung beauftragt die Agentur für Arbeit Träger unter Anwendung des Vergaberechts.
+
+
+
+Chunk #20
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Detailregelungen zur Berufsausbildung in außerbetrieblichen Einrichtungen (BaE)
+
+BaE wird in zwei Formen „kooperativ“ und „integrativ“ durchgeführt. Bei der integrativen BaE obliegt dem Bildungsträger sowohl die fachtheoretische als auch die fachpraktische Unterweisung. Letztere wird durch betriebliche Phasen von mind. 40 Arbeitstagen je Ausbildungsjahr ergänzt. Die angemessenen Anteile betrieblicher Ausbildungsphasen ergeben sich aus den individuellen Qualifizierungsfortschritten des Teilnehmenden und den Vorgaben des Ausbildungsrahmenplans. Sofern während des Ausbildungsjahres über 60 Arbeitstage für betriebliche Ausbildungsphasen vorgesehen sind, bedarf die der Abstimmung zwischen Bildungsträger und Integrationsfachkraft im Jobcenter.
+
+Bei der vorrangigen kooperativen BaE wird die fachpraktische Unterweisung in den betrieblichen Phasen durch einen Kooperationsbetrieb durchgeführt. Der Bildungsträger ist für die Gewinnung des Kooperationsbetriebes sowie die Koordinierung der Ausbildung mit allen beteiligten Stellen verantwortlich und unterstützt diese in ihrer Aufgabenwahrnehmung insbesondere durch fachtheoretische Unterweisung sowie sozialpädagogische Begleitung. In dem zwischen Bildungsträger, dem Kooperationsbetrieb sowie dem Auszubildenden abzuschließenden Kooperationsvertrag ist die Aufgabenverteilung hinsichtlich aller Ausbildungsinhalte festzulegen. Um eine Verdrängung regulärer Ausbildungsplätze durch die BaE im kooperativen Modell zu vermeiden, können Kooperationspartner nur Betriebe sein, die ihre üblichen Ausbildungskapazitäten hierdurch nicht reduzieren und die grundsätzliche Bereitschaft erklären, den Jugendlichen nach dem ersten Ausbildungsjahr in ein betriebliches Ausbildungsverhältnis zu übernehmen. Im Falle der Übernahme fallen für die Zukunft keine Maßnahmekosten mehr an. Eine Vermittlungspauschale von 2000,- Euro wird an den Träger der BaE fällig (§ 76 (2) S. 2 SGB III).
+
+
+
+Chunk #21
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Eine Nachbesetzung frei gewordener Teilnehmerplätze (z.B. durch Vermittlung) ist solange möglich, wie die zuständigen Stellen die Ausbildungsverträge eintragen und die vorgesehenen Prüfungstermine im Rahmen der Vertragslaufzeit eingehalten werden können.
+
+Ausbildungen, die im ersten Jahr vollzeitschulisch durchgeführt werden und für die im ersten Jahr kein Ausbildungsvertrag abgeschlossen sein muss, können ab dem zweiten Ausbildungsjahr außerbetrieblich durchgeführt werden. Eine Förderung ist im ersten Ausbildungsjahr nicht vorgesehen, da erst alle Möglichkeiten auszuschöpfen sind, einen betrieblichen Ausbildungsplatz zu finden.
+
+BaE
+
+Anlage 4
+
+ZFA
+
+Zur förderungsberechtigten Zielgruppe gehören junge Menschen ohne berufliche Erstausbildung, die die allgemeine Schulpflicht erfüllt haben. Zum förderungsberechtigten Personenkreis (§ 76 (5) SGB III) gehören lernbeeinträchtigte und sozial benachteiligte junge Menschen, die wegen der in ihrer Person liegenden Gründe ohne die Förderung eine Einstiegsqualifizierung (EQJ) oder eine Berufsausbildung nicht beginnen, fortsetzen, oder erfolgreich beenden können, nach dem Abbruch einer Berufsausbildung eine weitere Berufsausbildung nicht beginnen können oder nach erfolgreicher Beendigung einer Berufsausbildung ein Arbeitsverhältnis nicht begründen oder festigen können. Förderungsbedürftig sind auch Auszubildende, die nach der vorzeitigen Lösung eines betrieblichen Berufsausbildungsverhältnisses unter den Voraussetzungen des § 76 (5) Nr. 2 SGB III eine Berufsausbildung außerbetrieblich fortsetzen.
+
+
+
+Chunk #22
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Als lernbeeinträchtigt gelten junge Menschen
+
+ohne Hauptschul- oder vergleichbaren Abschluss bei Beendigung der allgemeinen Schulpflicht, - aus Förderschulen mit dem Förderschwerpunkt Lernen unabhängig vom erreichten Schulabschluss, - mit Hauptschul- oder vergleichbarem Abschluss bei Beendigung der allgemeinbildenden Schulpflicht ausnahmsweise nur dann, wenn erhebliche Bildungsdefizite vorliegen, die erwarten lassen, dass ohne BaE oder die Unterstützung mit Assistierter Ausbildung ein Berufsabschluss nicht zu erreichen ist. In diesen Fällen ist zur Abklärung ein psychologisches Gutachten einzuholen bzw. die erheblichen Bildungsdefizite sind mit der Förderentscheidung in FMG2 zu dokumentieren.
+
+Als sozial benachteiligt gelten insbesondere junge Menschen unabhängig von dem erreichten allgemeinbildenden Schulabschluss,
+
+die verhaltensauffällig oder wegen gravierender sozialer, persönlicher und/oder psychischer Probleme den Anforderungen einer betrieblichen Berufsausbildung nicht gewachsen sind, - mit Teilleistungsschwächen (z.B. Legasthenie; Dyskalkulie; ADS), - für die Hilfen zur Erziehung i.S. des Kinder- und Jugendhilfegesetzes (SGB VIII) geleistet worden ist oder wird, wenn sie voraussichtlich in der Lage sein werden, die Anforderungen der regulären betrieblichen Ausbildung zu erfüllen, - junge Menschen, bei denen eine Suchtproblematik vorlag, - straffällig gewordene junge Menschen, -junge Menschen mit Migrationshintergrund, die aufgrund von Sprachdefiziten oder bestehender sozialer
+
+
+
+Chunk #23
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Eingewöhnungsschwierigkeiten in einem fremden soziokulturellen Umfeld der besonderen Unterstützung bedürfen, - alleinerziehende junge Frauen / Männer.
+
+Es genügt in diesem Zusammenhang nicht, formal zur Zielgruppe zu gehören. Ausschlaggebend ist vielmehr, dass der Auszubildende aufgrund seiner individuellen Situation der besonderen Hilfen nach § 76 SGB III bedarf. Das Ergebnis der Ermessensentscheidung ist unter Angabe der Zielgruppenzugehörigkeit (hier u.a. der Lernbeeinträchtigung bzw. der sozialen Benachteiligung) und der Begründung der Fördernotwendigkeit in FMG2 (Register Dokumentation) zu dokumentieren.
+
+Zur Feststellung der Lernbeeinträchtigung oder einer sozialen Benachteiligung können psychologische Testverfahren einbezogen werden.
+
+Auszubildende, die eine abgebrochene betriebliche Berufsausbildung unter den Voraussetzungen des § 76 (5) Nr. 2 SGB III in einer außerbetrieblichen Einrichtung fortsetzen wollen, müssen nicht zum Personenkreis der lernbeeinträchtigten oder sozial benachteiligten Jugendlichen gehören.
+
+Ausländerinnen und Ausländer können grundsätzlich gefördert werden, wenn sie einen Arbeitsmarktzugang haben, welches aus den Ausweispapieren ersichtlich ist, es sei denn, es greifen die in § 76 (6) SGB III normierten Förderausschlüsse.
+
+
+
+Chunk #24
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Maßnahmenzugang BaE
+
+Für die Instrumente „ausbildungsbegleitende Hilfen“ und „Berufsausbildung in außerbetrieblichen Einrichtungen“ lehnt sich der Hochsauerlandkreis als Träger der Grundsicherung an den Regelungen und dem damit verknüpften Maßnahmeeinkauf der örtlichen Agentur für Arbeit Meschede-Soest an. Hintergrund ist zum einen die bestehende Doppelzuständigkeit in den Aufgabengebieten Berufsorientierung und Berufsberatung sowie zum anderen die geschlossene Verwaltungsvereinbarung zur Ausbildungsstellenvermittlung durch die Agentur für Arbeit. Ein eigener Maßnahmeeinkauf würde zu keinem wirtschaftlicherem Ergebnis führen, da die entsprechenden Ausschreibungslose durch deutlich geringere regionale Teilnehmerzahlen im Bereich des SGB II und multipleren Vermittlungshemmnissen in den Personen der Jugendlichen geprägt sind. Zudem würden weitere Schnittstellenproblematiken aus der Verwaltungsvereinbarung und einem Zuständigkeitswechsel bei Eintritt / Wegfall von Hilfebedürftigkeit entstehen. Gerade bei der Zielgruppe der Jugendlichen sollten „Stigmatisierungsansätze“ vermieden werden und eine Gleichbehandlung im Gesamtgefüge der Bildungslandschaft erreicht werden. Die maßgeblichen Träger haben sich im Zuge einer einheitlichen Gestaltung bereit erklärt, die Maßnahmekosten nach dem Ausschreibungsverfahren Agentur für Arbeit auf den Bereich der Grundsicherung zu übertragen, es entstehen somit keine höheren Kosten, Mitnahmeeffekte werden ausgeschlossen, Betreuungsschlüssel eingehalten. Die Grundsätze der Wirtschaftlichkeit und Sparsamkeit (§ 3 SGB II) sind damit erfüllt.
+
+
+
+Chunk #25
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Für das Ausbildungsjahr 2023/2024 hat in der Region die Kolping-Bildungszentren Südwestfalen GmbH den Zuschlag für die Durchführung von BaE seitens der Agentur für Arbeit erhalten. Die Maßnahmekosten belaufen sich im kooperativen Modell für Eintritte im Ausbildungsjahr 2023/2024 durchschnittlich auf 662,78 Euro je Teilnehmer/Monat (Stand 07/2023). Hinzu kommen die zu gewährende Ausbildungsvergütung, Sozialversicherungsbeiträge, Beiträge zur Unfallversicherung (Berufsgenossenschaft) und evt. Lehrgangskosten für überbetriebliche Ausbildungsinhalte, welche dem Träger zu erstatten sind. Die Ausbildungsvergütung stellt gewöhnliches Einkommen im Sinne des SGB II dar und ist unter Berücksichtigung der Einkommensfreigrenzen entsprechend auf die passive Leistung anzurechnen (Nettobeträge).
+
+Die maximal erstattungsfähigen Zuschüsse zur Ausbildungsvergütung gemäß § 76 Abs. 7 SGB III i. V. mit § 17 (2) BBiG (Mindestvergütung) für Auszubildende im Rahmen einer BaE betragen für Ausbildungsverträge, die ab 01.01.2023 für das Ausbildungsjahr 2023/2024 geschlossen werden (Stand 07/2022):
+
+im 1. Ausbildungsjahr 620,00 Euro; im 2. Ausbildungsjahr 731,60 Euro;
+
+im 3. Ausbildungsjahr 837,00 Euro; im 4. Ausbildungsjahr 868,00 Euro.
+
+Die dargestellten Beträge für das 2. bis 4. Ausbildungsjahr gelten nur für Auszubildende, deren Ausbildung ab dem 01.01.2023 aufgenommen wurde (siehe Regelung des § 17 (2) BBiG). Für ältere Jahrgänge gelten die Bezugswerte des jeweiligen Eintrittsjahrs in die Berufsausbildung.
+
+
+
+Chunk #26
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Der Zuschuss zur Ausbildungsvergütung ist ein Höchstbetrag. Das Alter des Auszubildenden und die Art seiner Unterbringung sind dabei unerheblich. Der Zuschuss zur Ausbildungsvergütung darf die geltende tarifliche oder ortsübliche Ausbildungsvergütung nicht übersteigen. Leistungen wie Urlaubsgeld, Weihnachtsgeld, Leistungen nach dem Fünften Vermögensbildungsgesetz oder sonstige tarifliche oder ortsübliche Leistungen und Urlaubsabgeltungen sind nicht zu berücksichtigen. Der Wechsel in das zweite Ausbildungsjahr und in die weiteren Ausbildungsjahre richtet sich nach dem individuellen Ausbildungsbeginn und ist kalendertäglich zu berechnen.
+
+Förder- ungs- fähiger Personen- kreis
+
+Begriffs- definition
+
+Maßnahme- Zugang BaE
+
+Anlage 4
+
+Anlage 4 ZFA
+
+ZFA
+
+Der mit der Maßnahmedurchführung beauftragte Bildungsträger wird vertraglich verpflichtet, dem Teilnehmer eine Ausbildungsvergütung in Höhe des sich hiernach ergebenden Zuschussbetrages zu zahlen.
+
+Die Maßnahmekostensätze beim integrativen Modell (BaE Integrativ) betragen im aktuellen Ausbildungsjahr 2022/2023 in den Berufsfeldern Tischler, Maler- u. Lackierer sowie Fachkraft für Metalltechnik ohne Kosten für überbetriebliche Lehrgänge, Ausbildungsvergütung und Sozialversicherungsbeitrag jeweils 1.343,00 €. Ab dem Ausbildungsjahr 2023/2024 wird die BaE Integrativ nicht mehr angeboten, d.h. es können keine Neufälle in eine Förderung eintreten.
+
+
+
+Chunk #27
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Verfügbare Vordrucke in FMG2: 04 Antrag.Entscheidung_BaE
+
+Zahlbarmachung / technische Umsetzung
+
+Die EDV-technische/statistische Darstellung in außerbetrieblichen Einrichtungen erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung „Berufsausbildung Benachteiligter“ im Projekt „400 Maßnahmen“. Dabei ist die Maßnahme „BA in außerbetr. Einricht. (BaE)“ auszuwählen. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die „Maßnahmezuweisungsmaske“ zu gelangen. Nach der Zuweisung sind über den BaEL-Assistenten ggf. bestehende Alo-Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund muss im Einzelfall angepasst werden.
+
+Die Zahlbarmachung von Leistungen erfolgt aus der „Maßnahmezuweisung“ über die Registerkarte „Kosten“. Die mit der Teilnahme an einer Berufsausbildung in außerbetrieblichen Einrichtungen entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20310 mit dem Status „geplant“ zu hinterlegen. Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung der Ausbildung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren.
+
+Zur Vermeidung von Leistungsmissbrauch ist bei sämtlichen Fördergestaltungen der Unterstützung zur Erlangung eines betrieblichen / überbetrieblichen Berufsabschlusses eine Kopie des bei der zuständigen Stelle eingetragenen Berufsausbildungsvertrages vorzulegen.
+
+
+
+Chunk #28
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Förderungsausschluss berufsvorbereitender Maßnahmen
+
+Gem. § 16 (1) S. 2-4 SGB II ist die Förderung berufsvorbereitender Maßnahmen für den Leistungsträger des SGB II ausgeschlossen. Es handelt sich bei den berufsvorbereitenden Maßnahmen um Leistungen des Zweiten Unterabschnitts des Dritten Abschnitt im Dritten Kapitel des SGB III. Für die Finanzierung berufsvorbereitender Maßnahmen liegt die Zuständigkeit im SGB III (s.a. § 22 (4) SGB III im Umkehrschluss), somit bei der Agentur für Arbeit. Damit verbunden ist auch ein Förderungsausschluss inhaltsgleicher/-ähnlicher Maßnahmen (s.a. Schreiben des BMAS vom 21.11.2007).
+
+Sonderprogramme
+
+Das ehemalige Sonderprogramm „3. Weg in der Berufsausbildung NRW“ wurde dem gesetzlichen Förderinstrument der BaE untergeordnet. In der Region wurde hierzu eine gemeinschaftliche Ausschreibung mit der örtlichen Agentur für Arbeit veranlasst. Die Umsetzung erfolgte mit Maßnahmebeginn 06.09.2010 durch die Kolping-Bildungszentren Südwestfalen GmbH am Standort Meschede. Aufgrund fehlender Bedarfsgrößen wurde ein erneuter Ausbildungsdurchlauf ab dem Ausbildungsjahr 2016/2017 eingestellt. Der Bildungsträger führt das Angebot im Wege der Förderung der beruflichen Weiterbildung als sogenannte Umschulungsmaßnahme fort.
+
+Stand: 13.07.2023

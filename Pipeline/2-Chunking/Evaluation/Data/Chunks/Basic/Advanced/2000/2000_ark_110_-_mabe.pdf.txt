@@ -1,0 +1,670 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_110_-_mabe.pdf
+max_characters:		3000
+aimed_chunk_size:	2000
+overlap:			400
+loading_strategy:	hi_res
+chunking_strategy:	Basic
+mode:				Advanced
+n_chunks:			28
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+MAbE -
+
+Anlage 11
+
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung von vermittlungsunterstützenden Leistungen für Maßnahmen zur Aktivierung und beruflichen Eingliederung (MAbE) gem. § 16 (1) S. 2 Nr. 2 SGB II i.V.m. § 45 SGB III
+
+Maßnahmen bei einem Arbeitgeber (MAG) - - Maßnahmen bei einem Träger (MAT) –
+
+Anmerkung: Maßnahmen bei einer privaten Arbeitsvermittlung (Vermittlungsgutschein) werden separat in Anlage 5 ARK behandelt.
+
+Allgemeines
+
+Förderintention des § 45 SGB III ist die Verbesserung der Eingliederungsaussichten in den Arbeitsmarkt von Menschen, die arbeitslos sind, von Arbeitslosigkeit bedroht sind oder die eine Ausbildungsstelle suchen. In der Umsetzung von Maßnahmen der Aktivierung und beruflichen Eingliederung hat der Gesetzgeber auf inhaltliche Vorgaben verzichtet, stattdessen wurden die Maßnahmeziele in den Vordergrund gestellt, um so auf den individuellen Bedarf ausgerichtete Unterstützungsangebote unterbreiten zu können.
+
+Mit dem Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt wurden die bisherigen §§ 46 und 421g SGB III zu einer gemeinsamen Norm unter § 45 SGB III zusammengefasst und inhaltlich weiterentwickelt. Neben den bisher aus § 46 SGB III bekannten Möglichkeiten, Träger mit der Durchführung von MAbE zu beauftragen (Vergabeverfahren) oder MAbE bei einem Arbeitgeber (Betriebspraktika) durchzuführen, haben die Jobcenter ab 01.04.2012 mit § 45 SGB III zusätzlich die Option, erwerbsfähige Leistungsberechtigte (eLb) für die Teilnahme an einer MAbE einen Aktivierungs- und Vermittlungsgutschein (AVGS) auszustellen. Der Aktivierungs- und Vermittlungs- gutschein zur Inanspruchnahme eines privaten Arbeitsvermittlers, welcher eine ausschließlich erfolgsbezogen vergütete Arbeitsvermittlung in versicherungspflichtige Beschäftigung anbietet, ist separat zu sehen und wird in Anlage 5 der ARK behandelt.
+
+Nach der Zielsetzung des SGB II soll die individuelle Beschäftigungsfähigkeit der/des eLb durch Erhalt und Ausbau seiner/ihrer Fertigkeiten und Fähigkeiten gefördert sowie dessen/deren berufliche Eingliederung in den allgemeinen Arbeitsmarkt unterstützt werden. Mit der neu eingeführten Gutscheinvariante werden die eLb in die Lage versetzt, innerhalb eines durch die Jobcenter vorgegebenen Rahmens eigenverantwortlich eine betriebliche Maßnahme oder auch eine zugelassene Maßnahme bei einem Träger auszuwählen. Die eLb sollen damit hinsichtlich ihres eigenen Beitrags zum Integrationsprozess mehr gefordert werden. Gleichzeitig werden auch ihre Entscheidungs- und Wahlrechte gestärkt.
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+n Gutscheinvariante werden die eLb in die Lage versetzt, innerhalb eines durch die Jobcenter vorgegebenen Rahmens eigenverantwortlich eine betriebliche Maßnahme oder auch eine zugelassene Maßnahme bei einem Träger auszuwählen. Die eLb sollen damit hinsichtlich ihres eigenen Beitrags zum Integrationsprozess mehr gefordert werden. Gleichzeitig werden auch ihre Entscheidungs- und Wahlrechte gestärkt.
+
+Für die Umsetzung der MAbE im Jobcenter des Hochsauerlandkreises wird bezüglich der Inanspruchnahme von Maßnahmen bei einem Träger sowie bei einem Arbeitgeber strategisch an einem vorrangigen Zuweisungsverfahren festgehalten. D.h., dass für die Einrichtung dezentraler Gruppenmaßnahmen bei einem Träger weiterhin an einem zentralen Einkaufsprozess und Berücksichtigung des Vergaberechts festgehalten wird. Hierzu werden in den Planungs- und Umsetzungsprozess die Delegationskommunen einbezogen, damit regionale Bedarfslagen konkret berücksichtigt werden können.
+
+Darüber hinaus gehende individuelle Förderbedarfe sind im Einzelfall über den Aktivierungs- und Vermittlungsgutschein (AVGS) zur Inanspruchnahme zugelassener Trägerangebote bzw. auch Maßnahmen bei einem Arbeitgeber (Praktika) zugänglich.
+
+Maßnahme- typen
+
+MAbE -
+
+Anlage 11
+
+§ 45 SGB III
+
+Maßnahmen zur Aktivierung und beruflichen Eingliederung
+
+(1) Ausbildungsuchende, von Arbeitslosigkeit bedrohte Arbeitsuchende und Arbeitslose können bei Teilnahme an Maßnahmen gefördert werden, die ihre berufliche Eingliederung durch
+
+1. Heranführung an den Ausbildungs- und Arbeitsmarkt sowie Feststellung, Verringerung oder Beseitigung von Vermittlungshemmnissen, 2. aufgehoben 3. Vermittlung in eine versicherungspflichtige Beschäftigung, 4. Heranführung an eine selbständige Tätigkeit oder 5. Stabilisierung einer Beschäftigungsaufnahme
+
+unterstützen (Maßnahmen zur Aktivierung und beruflichen Eingliederung). Für die Aktivierung von Arbeitslosen, deren berufliche Eingliederung auf Grund von schwerwiegenden Vermittlungshemmnissen, insbesondere auf Grund der Dauer ihrer Arbeitslosigkeit, besonders erschwert ist, sollen Maßnahmen gefördert werden, die nach inhaltlicher Ausgestaltung und Dauer den erhöhten Stabilisierungs- und Unterstützungsbe- darf der Arbeitslosen berücksichtigen. Versicherungspflichtige Beschäftigungen mit einer Arbeitszeit von mindestens 15 Stunden wöchentlich in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Euro- päischen Wirtschaftsraum sind den versicherungspflichtigen Beschäftigungen nach Satz 1 Nummer 3 gleichgestellt. Die Förderung umfasst die Übernahme der angemessenen Kosten für die Teilnahme, soweit dies für die berufliche Eingliederung notwendig ist. Die Förderung kann auf die Weiterleistung von Arbeitslosengeld beschränkt werden.
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Union oder einem anderen Vertragsstaat des Abkommens über den Euro- päischen Wirtschaftsraum sind den versicherungspflichtigen Beschäftigungen nach Satz 1 Nummer 3 gleichgestellt. Die Förderung umfasst die Übernahme der angemessenen Kosten für die Teilnahme, soweit dies für die berufliche Eingliederung notwendig ist. Die Förderung kann auf die Weiterleistung von Arbeitslosengeld beschränkt werden.
+
+(2) Die Dauer der Einzel- oder Gruppenmaßnahmen muss deren Zweck und Inhalt entsprechen. Soweit Maßnahmen oder Teile von Maßnahmen nach Absatz 1 bei oder von einem Arbeitgeber durchgeführt werden, dürfen diese jeweils die Dauer von sechs Wochen nicht überschreiten. Die Vermittlung von beruflichen Kenntnissen in Maßnahmen zur Aktivierung und beruflichen Eingliederung darf die Dauer von acht Wochen nicht überschreiten. Maßnahmen des Dritten Abschnitts sind ausgeschlossen.
+
+(3) Die Agentur für Arbeit kann unter Anwendung des Vergaberechts Träger mit der Durchführung von Maßnahmen nach Absatz 1 beauftragen.
+
+(4) Die Agentur für Arbeit kann der oder dem Berechtigten das Vorliegen der Voraussetzungen für eine Förderung nach Absatz 1 bescheinigen und Maßnahmeziel und - inhalt festlegen (Aktivierungs- und Vermittlungsgutschein). Der Aktivierungs- und Vermitt- lungsgutschein kann zeitlich befristet sowie regional beschränkt werden. Der Aktivierungs- und Vermittlungsgutschein berechtigt zur Auswahl
+
+1. eines Trägers, der eine dem Maßnahmeziel und -inhalt entsprechende und nach § 179 zugelassene Maßnahme anbietet, 2. eines Trägers, der eine ausschließlich erfolgsbezogen vergütete Arbeitsvermittlung in versicherungspflichtige Beschäftigung anbietet, oder 3. eines Arbeitgebers, der eine dem Maßnahmeziel und -inhalt entsprechende betriebliche Maßnahme von einer Dauer bis zu sechs Wochen anbietet.
+
+Der ausgewählte Träger nach Satz 3 Nummer 1 und der ausgewählte Arbeitgeber nach Satz 3 Nummer 3 haben der Agentur für Arbeit den Aktivierungs- und Vermittlungsgutschein vor Beginn der Maßnahme vorzulegen. Der ausgewählte Träger nach Satz 3 Nummer 2 hat der Agentur für Arbeit den Aktivierungs- und Vermittlungsgutschein nach erstmaligem Vorliegen der Auszahlungsvoraussetzungen vorzulegen.
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nbietet.
+
+Der ausgewählte Träger nach Satz 3 Nummer 1 und der ausgewählte Arbeitgeber nach Satz 3 Nummer 3 haben der Agentur für Arbeit den Aktivierungs- und Vermittlungsgutschein vor Beginn der Maßnahme vorzulegen. Der ausgewählte Träger nach Satz 3 Nummer 2 hat der Agentur für Arbeit den Aktivierungs- und Vermittlungsgutschein nach erstmaligem Vorliegen der Auszahlungsvoraussetzungen vorzulegen.
+
+(5) Die Agentur für Arbeit soll die Entscheidung über die Ausgabe eines Aktivierungs- und Vermittlungsgutscheins nach Absatz 4 von der Eignung und den persönlichen Verhältnissen der Förderberechtigten oder der örtlichen Verfügbarkeit von Arbeitsmarktdienstleistungen abhängig machen.
+
+MAbE -
+
+Anlage 11
+
+(6) Die Vergütung richtet sich nach Art und Umfang der Maßnahme und kann aufwands- oder erfolgsbezogen gestaltet sein; eine Pauschalierung ist zulässig. § 83 Absatz 2 gilt entsprechend. Bei einer erfolgreichen Arbeitsvermittlung in versicherungspflichtige Be- schäftigung durch einen Träger nach Absatz 4 Satz 3 Nummer 2 beträgt die Vergütung 2 000 Euro. Bei Langzeitarbeitslosen und behinderten Menschen nach § 2 Absatz 1 des Neunten Buches kann die Vergütung auf eine Höhe von bis zu 2 500 Euro festgelegt werden. Die Vergütung nach den Sätzen 3 und 4 wird in Höhe von 1 000 Euro nach einer sechswöchigen und der Restbetrag nach einer sechsmonatigen Dauer des Beschäftigungsverhältnisses gezahlt. Eine erfolgsbezogene Vergütung für die Arbeitsvermittlung in versicherungspflichtige Beschäftigung ist ausgeschlossen, wenn das Beschäftigungsverhältnis
+
+1. von vornherein auf eine Dauer von weniger als drei Monaten begrenzt ist oder 2. bei einem früheren Arbeitgeber begründet wird, bei dem die Arbeitnehmerin oder der Arbeitnehmer während der letzten vier Jahre vor Aufnahme der Beschäftigung mehr als drei Monate lang versicherungspflichtig beschäftigt war; dies gilt nicht, wenn es sich um die befristete Beschäftigung besonders betroffener schwerbehinderter Menschen handelt.
+
+(7) Arbeitslose, die Anspruch auf Arbeitslosengeld haben, dessen Dauer nicht allein auf § 147 Absatz 3 beruht, und nach einer Arbeitslosigkeit von sechs Wochen innerhalb einer Frist von drei Monaten noch nicht vermittelt sind, haben Anspruch auf einen Aktivierungs- und Vermittlungsgutschein nach Absatz 4 Satz 3 Nummer 2. In die Frist werden Zeiten nicht ein- gerechnet, in denen die oder der Arbeitslose an Maßnahmen zur Aktivierung und beruflichen Eingliederung sowie an Maßnahmen der beruflichen Weiterbildung teilgenommen hat.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+tslosigkeit von sechs Wochen innerhalb einer Frist von drei Monaten noch nicht vermittelt sind, haben Anspruch auf einen Aktivierungs- und Vermittlungsgutschein nach Absatz 4 Satz 3 Nummer 2. In die Frist werden Zeiten nicht ein- gerechnet, in denen die oder der Arbeitslose an Maßnahmen zur Aktivierung und beruflichen Eingliederung sowie an Maßnahmen der beruflichen Weiterbildung teilgenommen hat.
+
+(8) Abweichend von Absatz 2 Satz 2 und Absatz 4 Satz 3 Nummer 3 darf bei Langzeitarbeitslosen oder Arbeitslosen, deren berufliche Eingliederung auf Grund von schwerwiegenden Vermittlungshemmnissen besonders erschwert ist, die Teilnahme an Maßnahmen oder Teilen von Maßnahmen, die bei oder von einem Arbeitgeber durchgeführt werden, jeweils die Dauer von zwölf Wochen nicht überschreiten.
+
+(9) Die Absätze 1 bis 8 gelten entsprechend für die in § 39a genannten Personen.
+
+Förderfähiger Personenkreis
+
+Zum förderfähigen Personenkreis gehören nach § 16 Abs. 1 Nr. 2 SGB II i.V.m. § 45 SGB III von Arbeitslosigkeit bedrohte Arbeitsuchende, Ausbildungsuchende und Arbeitslose.
+
+Maßgebliche Voraussetzung für die aktivierenden Leistungen in der Grundsicherung für Arbeitsuchende ist die Hilfebedürftigkeit. Der personelle Anwendungsbereich ergibt sich somit aus den Regelungen der §§ 7 ff. SGB II. Eine Ausnahme stellt der Personenkreis dar, der neben dem Anspruch auf Leistungen zur Sicherung des Lebensunterhalts nach dem SGB II noch Arbeitslosengeld nach dem SGB III (Ergänzer) erhält. Bezieher von Arbeitslosengeld oder Teilarbeitslosengeld erhalten generell keine Eingliederungsleistungen nach dem SGB II (§ 5 Abs. 4 SGB II und § 22 Abs. 4 S. 5 SGB III), sondern ausschließlich Leistungen zur Sicherung des Lebensunterhalts. Die vermittlerische Betreuung und Integrationsverantwortung obliegt in diesen Fällen der zuständigen Agentur für Arbeit. Rechtlich möglich ist der Einsatz von MAbE ebenso für Personen, die trotz Einkommen weiterhin hilfebedüftig sind (Erwerbsaufstocker). Da diese bereits in den Arbeitsmarkt integriert sind, muss jedoch in jedem Einzelfall besonders intensiv geprüft werden, ob die Teilnahme an einer MAbE sinnvoll und zielführend ist.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+tegrationsverantwortung obliegt in diesen Fällen der zuständigen Agentur für Arbeit. Rechtlich möglich ist der Einsatz von MAbE ebenso für Personen, die trotz Einkommen weiterhin hilfebedüftig sind (Erwerbsaufstocker). Da diese bereits in den Arbeitsmarkt integriert sind, muss jedoch in jedem Einzelfall besonders intensiv geprüft werden, ob die Teilnahme an einer MAbE sinnvoll und zielführend ist.
+
+Da es sich bei den MAbE nicht um Maßnahmen handeln darf, die der Berufsvorbereitung dienen (§ 45 Abs. 2 S.4 SGB II), sind für Personen, die allein die Aufnahme einer Ausbildung anstreben (Ausbildungsuchende) vorrangig die Leistungen des Dritten Kapitels, Dritter Abschnitt (Berufswahl und Berufsausbildung) des SGB III einzusetzen.
+
+Förderungs- fähiger Personenkreis
+
+MAbE -
+
+Anlage 11
+
+Förderdauer
+
+Die Dauer von Maßnahmegestaltungen MAbE bei einem Träger ist gesetzlich nicht geregelt. individuellen arbeitsmarktlichen Die Dauer der Maßnahmen orientiert sich an der Notwendigkeit sowie an den Grundsätzen von Wirkung und Wirtschaftlichkeit. Die konkrete Teilnahmedauer der/des eLb an einer Maßnahme MAbE ist ebenfalls nicht geregelt (Ausnahme: Maßnahmen bei einem Arbeitgeber; siehe hierzu Sonderregelungen). Sie ist im Jobcenter festzulegen und richtet sich nach den individuellen Handlungsbedarfen, dem daraus abgeleiteten strategischen Vorgehen und den Anforderungen der Maßnahme.
+
+Eine vorzeitige Beendigung durch den Träger ist nicht möglich. Diese kann nur durch die/den Teilnehmer/in selbst oder durch das Jobcenter erfolgen.
+
+Berufliche Kenntnisvermittlung
+
+Die im Rahmen einer Maßnahmegestaltung MAbE ist bis zu einer Dauer von acht Wochen möglich (§ 45 Abs. 2 S. 3 SGB III). Findet eine fachtheoretische Kenntnisvermittlung bei einem Arbeitgeber statt, darf die Dauer dieser Kenntnisvermittlung max. sechs der möglichen acht Wochen Gesamtdauer betragen. Eine darüber hinaus gehende Qualifizierung kann nur im Rahmen der Förderung der beruflichen Weiterbildung gemäß den §§ 81 ff. SGB III oder der Förderung der Berufsausbildung erfolgen.
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+n möglich (§ 45 Abs. 2 S. 3 SGB III). Findet eine fachtheoretische Kenntnisvermittlung bei einem Arbeitgeber statt, darf die Dauer dieser Kenntnisvermittlung max. sechs der möglichen acht Wochen Gesamtdauer betragen. Eine darüber hinaus gehende Qualifizierung kann nur im Rahmen der Förderung der beruflichen Weiterbildung gemäß den §§ 81 ff. SGB III oder der Förderung der Berufsausbildung erfolgen.
+
+Zur beruflichen Kenntnisvermittlung zählen die Vermittlung fachtheoretischer Inhalte und die Vermittlung fachpraktischer Inhalte, die auf die Ausübung des Zielberufes oder der Zieltätigkeit vorbereiten. Die Vermittlung beruflicher Kenntnisse bezieht sich dabei auf tätigkeits- bzw. berufsbezogene Inhalte.
+
+Nicht zur beruflichen Kenntnisvermittlung im Rahmen einer MAbE gehören z.B. die Ausstellung von Bescheinigungen, Zertifizierungen und Gesundheitsnachweise. Diese stehen in unmittelbaren Zusammenhang mit einer konkreten Arbeitsaufnahme und können daher nicht Bestandteil einer MAbE sein. Hier ist eine Förderung aus dem Vermittlungsbudget nach § 44 SGB III zu prüfen.
+
+Produktionsorientierte Tätigkeiten
+
+Sinnstiftende oder marktnahe Arbeiten von Teilnehmerinnen/Teilnehmern können Bestandteil einer erfolgreichen Heranführung an den Arbeitsmarkt sein, gerade wenn diese Arbeiten beim Maßnahmeträger selbst durchgeführt werden. Sofern diese Arbeiten oder Tätigkeiten dazu dienen, sehr personenbezogen Fertigkeiten und Fähigkeiten der Teilnehmerin/des Teilnehmers festzustellen, zu aktivieren oder zu entwickeln bzw. vermittelte berufliche Kenntnisse praktisch zu erproben, unterliegen diese keiner zeitlichen Begrenzung nach dem Gesetzeswortlaut des § 45 SGB III bzw. des § 16 SGB II. Der zeitliche Umfang der Ausübung praktischer sinnstiftender Tätigkeiten in Maßnahmen richtet sich nach den individuellen Eingliederungserfordernissen. Dies setzt voraus, dass die Ausübung dieser Tätigkeiten in ein Gesamtkonzept zur Betreuung und Unterstützung mit dem Ziel der Heranführung an den Arbeitsmarkt eingebettet ist. Dies kann durch Beschreibung der produktionsorientierten Tätigkeit in der Vergabeunterlage erfolgen oder durch Genehmigung des Jobcenters bei Anfrage im Verlauf der Maßnahme. Dabei muss der aktivierende Ansatz der praktischen sinnstiftenden Tätigkeiten im Vordergrund stehen und nicht die Erzielung wirtschaftlicher Ergebnisse. Führen die Tätigkeiten zu wirtschaftlich verwertbaren Ergebnissen, sind die Einnahmen oder geldwerten Vorteile hieraus von den Maßnahmekosten abzusetzen.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+unterlage erfolgen oder durch Genehmigung des Jobcenters bei Anfrage im Verlauf der Maßnahme. Dabei muss der aktivierende Ansatz der praktischen sinnstiftenden Tätigkeiten im Vordergrund stehen und nicht die Erzielung wirtschaftlicher Ergebnisse. Führen die Tätigkeiten zu wirtschaftlich verwertbaren Ergebnissen, sind die Einnahmen oder geldwerten Vorteile hieraus von den Maßnahmekosten abzusetzen.
+
+Förderdauer
+
+Dauer berufl. Kenntnis- vermittlung
+
+Produktions- orientierte Tätigkeiten
+
+MAbE -
+
+Anlage 11
+
+Im Maßnahmeverlauf ist es erforderlich, dass parallel zur praktischen Tätigkeit die eigentlichen Maßnahmeinhalte Aktivierungsinhalte, Kenntnisvermittlung, Feststellung von Vermittlungshemmnissen, Eingliederungsbemühungen usw.). Dies muss sich auch in der konkreten Ausgestaltung der Maßnahmekonzeption widerspiegeln. Darüber hinaus dürfen die sinnstiftenden Arbeiten nicht zu einer Wettbewerbsverzerrung führen, die von der regionalen Wirtschaft als Beeinträchtigung gewertet wird. Der Maßnahmeträger ist zu verpflichten, für den jeweiligen Schwerpunkt der sinnstiftenden Arbeiten eine Unbedenklichkeitsbescheinigung der zuständigen Kammer bzw. des zuständigen Verbandes vorzulegen oder in sonstiger geeigneter Weise nachzuweisen, dass eine Beeinträchtigung der ist. Liegt eine Unbedenklichkeitsbescheinigung (o.ä.) nicht vor, gelten analog die in § 45 Abs. 2 Satz 2 SGB III bzw. die in § 16 Abs. 3 Satz 2 SGB II geregelten zeitlichen Grenzen für Maßnahmen oder Maßnahmeteile bei einem Arbeitgeber.
+
+A) Maßnahmen bei einem Träger (MAT)
+
+Trägerzulassung
+
+Alle Anbieter von Arbeitsmarktdienstleistungen – mit Ausnahme von Arbeitgebern, die betriebliche Maßnahmen oder betriebliche Teile von Maßnahmen durchführen, müssen über eine Zulassung nach §§ 176 ff. SGB III (Trägerzulassung) verfügen. Dies gilt unabhängig davon, ob die Beauftragung im Rahmen des Vergaberechts erfolgt oder ein Aktivierungs- und Vermittlungsgutschein ausgegeben wird. Übergangsregelungen werden an dieser Stelle nicht behandelt, da diese für eine Umsetzung im Hochsauerlandkreis unerheblich sind.
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+riebliche Teile von Maßnahmen durchführen, müssen über eine Zulassung nach §§ 176 ff. SGB III (Trägerzulassung) verfügen. Dies gilt unabhängig davon, ob die Beauftragung im Rahmen des Vergaberechts erfolgt oder ein Aktivierungs- und Vermittlungsgutschein ausgegeben wird. Übergangsregelungen werden an dieser Stelle nicht behandelt, da diese für eine Umsetzung im Hochsauerlandkreis unerheblich sind.
+
+eines bedürfen Maßnahmegestaltungen, welche Darüber Vergabeverfahrens mit dem Aktivierungs- und Vermittlungsgutschein (AVGS) in Anspruch genommen werden einer Maßnahmezulassung nach § 179 SGB III.
+
+Maßnahmezugang
+
+Wie zuvor bereits dargestellt, kann der Zugang zu einer MabE durch Beauftragung von Arbeitsmarktdienstleistern (Trägern) mit der Durchführung von Maßnahmen erfolgen. In diesem Fall findet das Vergaberecht Anwendung. Im Regelfall wird hier die Deckung der Arbeitsmarktbedarfe durch öffentliche Ausschreibungen abgewickelt. Im Hochsauerlandkreis wird das Vergabeverfahren insbesondere zur Einrichtung von Gruppenmaßnahmen nach vorheriger Bedarfsfeststellung durch die Delegationskommunen favorisiert.
+
+Mit den gesetzlichen Neuregelungen wird den Jobcentern eine neue Handlungsalternative zum Zugang freier Maßnahmeangebote MAbE eröffnet. Den Förderberechtigten kann der Förderbedarf einer MAbE durch Ausgabe eines Aktivierungs- und Vermittlungsgutscheins (AVGS) zur Inanspruchnahme eines Maßnahmeangebotes bescheinigt werden. Es obliegt der ein AVGS ausgegeben wird. Entscheidungsmerkmale stellen die individuelle Eignung, die persönlichen Verhältnisse, der festgestellte individuelle Eingliederungsstrategie dar. Das Gutscheinverfahren wird für eLb mit komplexen Profillagen überwiegend nicht geeignet sein. Hier ist eher ein konkretes Maßnahmeangebot mit individuell festgelegter Teilnahmedauer zielführender.
+
+Für die Teilnahme an Vergabemaßnahmen wird der/dem eLb von der Integrationsfachkraft ein konkretes Angebot zur inhaltlichen und zeitlichen Ausgestaltung unterbreitet. Mit der
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ngliederungsstrategie dar. Das Gutscheinverfahren wird für eLb mit komplexen Profillagen überwiegend nicht geeignet sein. Hier ist eher ein konkretes Maßnahmeangebot mit individuell festgelegter Teilnahmedauer zielführender.
+
+Für die Teilnahme an Vergabemaßnahmen wird der/dem eLb von der Integrationsfachkraft ein konkretes Angebot zur inhaltlichen und zeitlichen Ausgestaltung unterbreitet. Mit der
+
+Vergabe- verfahren
+
+Gutschein- verfahren
+
+MAbE -
+
+Anlage 11
+
+Unterbreitung des Angebotes sind der/dem eLb die Rechtsfolgen zu erläutern. Die Zuweisung wird mit einer konkreten Eingliederungsvereinbarung bzw. Kooperationsplan untermauert.
+
+Die Aushändigung eines AVGS zur Inanspruchnahme eines Maßnahmeangebotes MAbE stellt gegenüber der/dem eLb eine konkrete Zusicherung i.S.d. § 34 SGB X dar. Der AVGS ermöglicht es der/dem eLb, im Rahmen des festgestellten Unterstützungsbedarfes selbst nach zugelassenen Maßnahmeangeboten zu suchen. Dies stärkt die Eigenverantwortung der/des eLb bei der Umsetzung ihrer/seiner individuellen Integrationsstrategie.
+
+Um dem Charakter des Gutscheinverfahrens nicht entgegenzuwirken ist mit Aushändigung des AVGS noch keine verbindliche, auf das beabsichtigte Maßnahmeziel MAbE bestimmte Eingliederungsvereinbarung / Kooperationsplan zu schließen. Vielmehr sollte sich die Eingliederungsvereinbarung / der Kooperationsplan auf eine Verpflichtung zur eigen- verantwortlichen Recherche und Kontaktaufnahme zu einem mit dem vereinbarten Maßnahmeinhalt konformen Bildungsangebot/-Träger beschränken (§ 31 (1) Nr. 1 SGB II). Erst bei Rücklauf des AVGS und Beantragung der Übernahme der entstehenden Maßnahmekosten ist eine konkrete Eingliederungsvereinbarung / ein Kooperationsplan mit Aufnahme der Teilnahmebedingungen zur verbindlichen Teilnahme zu schließen (§ 31 (1) Nr. 3 SGB II).
+
+Die Förderung betrieblicher Maßnahmen kann durch Zuweisung oder durch einen Aktivierungs- und Vermittlungsgutschein (AVGS) erfolgen (siehe auch S. 10).
+
+Bei der Entscheidung, ob die Zuweisung in eine betriebliche Maßnahme oder die Ausstellung eines AVGS zweckmäßig ist, berücksichtigt die Vermittlungs- und Beratungsfachkraft die Eignung und die persönlichen Verhältnisse der Kundinnen/Kunden. Es ist zu hinterfragen, ob diese in der Lage sind, einen Maßnahmeträger (Arbeitgeber) auszuwählen, der die passgenaue betriebliche Maßnahme durchführt. Dabei ist auch zu entscheiden, ob die Förderung in Form eines AVGS oder eine Zuweisung durch das Jobcenter für die schnellere Erreichung des Förderziels sinnvoller erscheint.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+kraft die Eignung und die persönlichen Verhältnisse der Kundinnen/Kunden. Es ist zu hinterfragen, ob diese in der Lage sind, einen Maßnahmeträger (Arbeitgeber) auszuwählen, der die passgenaue betriebliche Maßnahme durchführt. Dabei ist auch zu entscheiden, ob die Förderung in Form eines AVGS oder eine Zuweisung durch das Jobcenter für die schnellere Erreichung des Förderziels sinnvoller erscheint.
+
+Verfahrensregelungen AVGS
+
+Grundsätzlich stellt die Ausgabe eines AVGS eine auf den Einzelfall bezogene Ermessensentscheidung dar. Als wesentliches Merkmal der Entscheidung steht der festgestellte Unterstützungsbedarf im Zugang zum Arbeitsmarkt im Vordergrund. In diesem Zusammenhang darf die Ausstellung eines AVGS nicht allein aufgrund knapper Haushaltsmittel versagt werden.
+
+Die Ausstellung des AVGS ist auf den individuellen Förderbedarf auszurichten. Die zeitgleiche Ausgabe mehrerer AVGS mit unterschiedlichen Maßnahmezielen (§ 45 Abs. 1 S. 1 Nr. 1 bis 5 SGB III) sollte nur erfolgen, wenn dies die individuelle Integrationsstrategie zielorientiert unterstützt. Nach Abschluss der Teilnahme an einer Maßnahme ist zunächst immer festzustellen, ob das Förderziel erreicht wurde und sich ggf. weiterer Förderbedarf ergibt. Daher sollte der Fokus eher auf der schrittweisen Bearbeitung der Handlungsbedarfe liegen.
+
+Gültigkeitsdauer
+
+Die Gültigkeitsdauer eines AVGS sollte gemäß § 45 Abs. 4 S. 2 SGB III immer zeitliche befristet werden. Es empfiehlt sich die Gültigkeitsdauer des AVGS auf max. drei Monate zu begrenzen. Die Gültigkeitsdauer ist auf dem AVGS zu vermerken.
+
+betriebliche Maßnahmen (MAG)
+
+Gültigkeits- Dauer AVGS
+
+MAbE -
+
+Anlage 11
+
+Die Gültigkeit erlischt mit Wegfall der Fördervoraussetzungen, mit Ablauf der im AVGS angegebenen Frist oder mit Wegfall der Hilfebedürftigkeit (§ 9 SGBII). Mit dem Wegfall der Gültigkeit des AVGS entfällt die Bindung des Jobcenters an die Zusicherung.
+
+Der tatsächliche Eintritt in die Maßnahme MAbE muss innerhalb der Gültigkeitsdauer des AVGS erfolgen.
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Gültigkeits- Dauer AVGS
+
+MAbE -
+
+Anlage 11
+
+Die Gültigkeit erlischt mit Wegfall der Fördervoraussetzungen, mit Ablauf der im AVGS angegebenen Frist oder mit Wegfall der Hilfebedürftigkeit (§ 9 SGBII). Mit dem Wegfall der Gültigkeit des AVGS entfällt die Bindung des Jobcenters an die Zusicherung.
+
+Der tatsächliche Eintritt in die Maßnahme MAbE muss innerhalb der Gültigkeitsdauer des AVGS erfolgen.
+
+Ist die Frist abgelaufen, die/der eLb jedoch weiterhin hilfebedürftig, kann ein erneuter AVGS ausgestellt werden. Es ist allerdings zu prüfen, ob die Gutscheinlösung als geeignete Form des Maßnahmezugangs angesehen wird.
+
+Maßnahmeziel und Maßnahmeinhalt
+
+Maßnahmeziel, Maßnahmeinhalt und Maßnahmedauer sind auf dem AVGS detailliert und nachvollziehbar zur vermerken. Dies gewährleistet, dass sich die Maßnahme zielführend an der zuvor festgelegten Integrationsstrategie und Förderbedarf orientiert.
+
+Regionale Beschränkung
+
+Die Vorschrift des § 45 Abs. 4 S. 2 SGB III ermöglicht es den Jobcentern, den Gültigkeitsbereich des AVGS für die Auswahl des Maßnahmeträgers regional zu beschränken. Da gesetzlich kein konkreter regionaler Gültigkeitsbereich vorgegeben ist, sollte dieser individuell durch das Jobcenter festgelegt werden. Die Beschränkung ist auf dem AVGS zu vermerken. Die Beschränkung sollte sich an der strategischen Ausrichtung des Integrationsprozesses orientieren und auch die teilnehmerbezogenen Kosten (hier z.B. Fahrkosten) berücksichtigen.
+
+Einlösung AVGS
+
+Der AVGS kann nur für zugelassene Maßnahmen MAbE eingelöst werden. Der von der/dem eLb ausgewählte Maßnahmeträger hat den AVGS im Original vor Beginn der Maßnahme beim zuständigen Jobcenter einzureichen. Spätestens mit der Einlösung ist der Nachweis der Träger- und Maßnahmezulassung durch den Träger in geeigneter Form nachzuweisen (z.B. Kopie Zulassung). Der Beginn der Maßnahme MAbE muss im Zulassungszeitraum für die Einlösung des AVGS notwendigen liegen. Der Maßnahmeträger hat die maßnahmebezogenen Daten mit einem Kurzfragebogen zu erklären. Bei Bewilligung der Teilnahme an der Maßnahme MAbE erhält die/der eLb einen Bewilligungsbescheid mit Rechtsfolgen- und Rechtsbehelfsbelehrung. Der Maßnahmeträger wird durch eine Mehrfertigung des Bewilligungsbescheides informiert. Die Teilnahme an der Maßnahme MAbE kann erst nach Zugang des Bewilligungsbescheides beginnen.
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+räger hat die maßnahmebezogenen Daten mit einem Kurzfragebogen zu erklären. Bei Bewilligung der Teilnahme an der Maßnahme MAbE erhält die/der eLb einen Bewilligungsbescheid mit Rechtsfolgen- und Rechtsbehelfsbelehrung. Der Maßnahmeträger wird durch eine Mehrfertigung des Bewilligungsbescheides informiert. Die Teilnahme an der Maßnahme MAbE kann erst nach Zugang des Bewilligungsbescheides beginnen.
+
+Bei Ablehnung der Teilnahme an der Maßnahme MAbE erhält die/der eLb einen Ablehnungsbescheid mit Rechtsbehelfsbelehrung. Der Maßnahmeträger wird durch eine Mehrfertigung des Ablehnungsbescheides informiert.
+
+Die Gültigkeit des AVGS erlischt durch die Ablehnung nicht. Der AVGS berechtigt bis zum Ablauf seiner Gültigkeit weiterhin zur Auswahl eines Maßnahmeträgers für die Teilnahme an einer zugelassenen Maßnahme. Im Bedarfsfall ist der Gutschein erneut als 2. Ausfertigung auszustellen.
+
+MAbE -
+
+Anlage 11
+
+Maßnahmeteile bei einem Arbeitgeber
+
+Die gesetzlichen Regelungen lassen es zu, Maßnahmeteile einer MAbE, welche durch einen Träger durchgeführt wird, bei einem Arbeitgeber durchzuführen. Die Organisation und Durchführung von Maßnahmeteilen bei einem Arbeitgeber liegt in der Gesamtverantwortung des Maßnahmeträgers, da es sich um Bestandteile der Gesamtmaßnahme handelt.
+
+Werden Maßnahmeteile bei einem Arbeitgeber durchgeführt, dürfen diese nach § 45 Abs. 2 S. 2 SGB III grundsätzlich die Dauer von jeweils sechs Wochen (30 Tage bei einer üblichen 5-Tage Woche) nicht überschreiten. Kommt die IFK zu der Einschätzung, dass es sich um eine/n eLb handelt, der/die langzeitarbeitslos nach § 18 SGB III oder dessen berufliche Eingliederung auf Grund von schwerwiegenden Vermittlungshemmnissen besonders erschwert ist, entscheidet sie im Einzelfall darüber, ob eine Teilnahme an der betrieblichen Erprobung bis zu max. 12 Wochen zielführend ist (§ 45 Abs. 8 SGB III).
+
+Die maximale Dauer von Maßnahmebestandteilen bei Arbeitgebern gilt auch für Kooperations- und Erprobungsbetriebe. Die Durchführung von Maßnahmeteilen bei einem Arbeitgeber kann für die Teilnehmer/innen entsprechend der Maßnahmekonzeption auch bei mehreren verschiedenen Arbeitgebern erfolgen.
+
+
+
+Chunk #14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+eine Teilnahme an der betrieblichen Erprobung bis zu max. 12 Wochen zielführend ist (§ 45 Abs. 8 SGB III).
+
+Die maximale Dauer von Maßnahmebestandteilen bei Arbeitgebern gilt auch für Kooperations- und Erprobungsbetriebe. Die Durchführung von Maßnahmeteilen bei einem Arbeitgeber kann für die Teilnehmer/innen entsprechend der Maßnahmekonzeption auch bei mehreren verschiedenen Arbeitgebern erfolgen.
+
+Zweck der Maßnahme bzw. des Maßnahmeteils darf es nicht sein, ausschließlich oder überwiegend Tätigkeiten auszuüben, für die i.d.R. Entgelt gezahlt wird. Teile von Maßnahmen, die bei einem Arbeitgeber stattfinden, dürfen nicht dazu genutzt werden, um urlaubs- oder krankheitsbedingte Ausfälle oder betriebliche Spitzenbelastungen aufzufangen.
+
+Teile von Maßnahmen können nur dann von einem Zeitarbeitsunternehmen durchgeführt werden, wenn sie im Zeitarbeitsunternehmen selbst erfolgt oder die Betreuung und Anleitung der/des eLb durch eine geeignete Fachkraft des Zeitarbeitsunternehmens im Betrieb des Entleihers gewährleistet ist und die einschlägigen Bestimmungen der Zeitarbeitsbranche eingehalten werden.
+
+Umfang der Förderung einer Maßnahme bei einem Träger
+
+Teilnehmerbezogene Kosten
+
+Förderungen im Rahmen von MAbE bei einem Träger umfassen grundsätzlich die Übernahme aller teilnehmerbezogenen notwendigen und angemessenen Kosten für die Teilnahme. Erstattungsfähige Kosten können z.B. Fahrkosten, Kinderbetreuungskosten, Kosten für auswärtige Unterbringung und Verpflegung sein.
+
+Kosten für Leistungen, die durch den Maßnahmeträger zu erbringen sind, können nicht im Rahmen anderer Ermessensleistungen der aktiven Arbeitsförderung erstattet werden. Dies gilt insbesondere für Maßnahmekombinationen, für die eine Vermittlungsvergütung gezahlt wird.
+
+Kosten, die in keinem unmittelbaren Zusammenhang zur Maßnahmeteilnahme stehen, können nicht erstattet werden.
+
+Ob und welche teilnehmerbezogenen Kosten durch die Teilnahme an einer MAbE bei einem Träger entstehen und in welchem Umfang diese erstattet werden, entscheidet in jedem Einzelfall das Jobcenter.
+
+
+
+Chunk #15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+gilt insbesondere für Maßnahmekombinationen, für die eine Vermittlungsvergütung gezahlt wird.
+
+Kosten, die in keinem unmittelbaren Zusammenhang zur Maßnahmeteilnahme stehen, können nicht erstattet werden.
+
+Ob und welche teilnehmerbezogenen Kosten durch die Teilnahme an einer MAbE bei einem Träger entstehen und in welchem Umfang diese erstattet werden, entscheidet in jedem Einzelfall das Jobcenter.
+
+Die Auszahlung dieser Kosten wird bei Vergabemaßnahmen gemäß den mit dem Träger getroffenen Vereinbarungen (i.d.R. Vertragsunterlagen) geleistet.
+
+Förderumfang MAbE Träger
+
+MAbE -
+
+Anlage 11
+
+(AVGS) werden die Sowohl bei Vergabe- als auch Gutscheinmaßnahmen teilnehmerbezogenen Kosten auf Antrag erstattet. Der/dem eLb ist ein entsprechender Bescheid auszustellen. Ein Antragsformular / Bewilligungsbescheid ist als Vorlage im Fachverfahren FMG2 hinterlegt.
+
+Maßnahmekosten für Vergabemaßnahmen
+
+Der Preis für eine MAbE bei einem Träger wird im Vergabeverfahren ermittelt. Mit dieser Vergütung sind alle Aufwendungen zur Durchführung der Maßnahme abgegolten. Detailregelungen zur Vergütung sind den Vergabeunterlagen zu entnehmen, welche i.d.R. dem entsprechenden Projekt in FMG2 angehängt sind.
+
+Wird bei Maßnahmekombinationen die erfolgreiche Vermittlung vergütet, hat der Träger den Erfolg durch die Vermittlungs- und Beschäftigungsbestätigung nachzuweisen. Auf diese Weise werden evtl. Doppelförderungen in versicherungspflichtige Beschäftigung“ vermieden.
+
+Maßnahmekosten für Aktivierungs- und Vermittlungsgutschein
+
+Es werden nur die Maßnahmekosten berücksichtigt, die im Rahmen des Zulassungsverfahrens für die jeweilige Maßnahme festgelegt wurden. Maßnahmekosten können nur für tatsächlich durchgeführte Maßnahmen bzw. Teile von Maßnahmen erstattet werden. Fehlzeiten der Teilnehmer wirken sich nicht mindern auf die Kostenerstattung aus. Wird die MAbE bei einem Träger mit Zugang eines AVGS vorzeitig beendet, können Maßnahmekosten ab diesem Zeitpunkt nicht mehr erstattet werden.
+
+Vor der Zahlung ist, insbesondere bei vorzeitiger Beendigung der Maßnahme, zu prüfen, ob die Rechnung der Leistungserbringung entspricht. Grundsätzlich sind Maßnahmekosten erst nach vollständiger Leistungserbringung zu erstatten. Teilzahlungen für bereits erbrachte Leistungen sind nach entsprechendem Antrag des Trägers bzw. entsprechend der Darstellungen des Kurzfragebogens möglich. Eine monatliche Ratenzahlung ist üblich.
+
+
+
+Chunk #16
+------------------------------------------------------------------------------------------------------------------------------------------------------
+sondere bei vorzeitiger Beendigung der Maßnahme, zu prüfen, ob die Rechnung der Leistungserbringung entspricht. Grundsätzlich sind Maßnahmekosten erst nach vollständiger Leistungserbringung zu erstatten. Teilzahlungen für bereits erbrachte Leistungen sind nach entsprechendem Antrag des Trägers bzw. entsprechend der Darstellungen des Kurzfragebogens möglich. Eine monatliche Ratenzahlung ist üblich.
+
+B) Maßnahmen bei einem Arbeitgeber
+
+Unter Gliederungspunkt „Allgemeines“ wurden die verschiedenen Maßnahmetypen des § 45 SGB III dargestellt. U.a. wird über die Vorschrift des § 45 SGB III der Zugang zur betrieblichen Maßnahme im Gutscheinverfahren ermöglicht.
+
+Anforderungen an den Arbeitgeber und die Tätigkeit im Betrieb
+
+Die Teilnahme an einer MAbE bei einem Arbeitgeber kann nur erfolgen, wenn sowohl der Arbeitgeber als auch die Tätigkeit der/des eLb im Betrieb die nachfolgend beschriebenen Anforderungen erfüllen:
+
+Durch den Arbeitgeber werden die maßgeblichen arbeitsrechtlichen Bestimmungen einschließlich des Unfallversicherungsschutzes (§ 2 Abs. 1 Nr. 1 SGB VII oder § 2 Abs. 2 SGB VII) eingehalten. Der zuständige Unfallversicherungsträger ist maßgebend für den Unfallversicherungsschutz der Teilnehmerin / des Teilnehmers. Da vom Arbeitgeber kein Entgelt an die/den für den Arbeitgeber ist der Unfallversicherungsschutz Versicherte/n grundsätzlich beitragsfrei.
+
+Die Betreuung, Beaufsichtigung und Anleitung der/des eLb erfolgt durch eine geeignete Fachkraft. Die/der eLb erhält einen Berichtsbogen, wenn im Anschluss an
+
+MAbE -
+
+Anlage 11
+
+die Maßnahme keine Übernahme in ein versicherungspflichtiges Arbeitsverhältnis durch den Arbeitgeber erfolgt. In diesem Berichtsbogen sind insbesondere die während der betrieblichen Maßnahme erworbenen Kenntnisse und Fertigkeiten (Integrationsfortschritte) zu beschreiben sowie ggf. die Anzahl der Fehltage anzugeben.
+
+Die Tätigkeit hat sich an den Anforderungen und Ausführungsformen des Berufs zu orientieren, der als Gegenstand der Maßnahme vorgesehen ist. Damit wird der / dem eLb eine objektive Einschätzung seiner Stärken und Schwächen ermöglicht.
+
+
+
+Chunk #17
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ie während der betrieblichen Maßnahme erworbenen Kenntnisse und Fertigkeiten (Integrationsfortschritte) zu beschreiben sowie ggf. die Anzahl der Fehltage anzugeben.
+
+Die Tätigkeit hat sich an den Anforderungen und Ausführungsformen des Berufs zu orientieren, der als Gegenstand der Maßnahme vorgesehen ist. Damit wird der / dem eLb eine objektive Einschätzung seiner Stärken und Schwächen ermöglicht.
+
+Maßnahmen bei einem Arbeitgeber dürfen nicht genutzt werden, um urlaubs- oder (z.B. krankheitsbedingte Ausfälle Weihnachtsgeschäft) aufzufangen. bzw. betriebliche Spitzenbelastungen
+
+Zweck der Maßnahme darf es nicht sein, dass der/die Teilnehmer/in allein zur Arbeitsleistung ohne Betreuung eingesetzt wird. Der Zweck wird auch dann nicht erreicht, wenn ein/eine eLb wiederholt beim selben Arbeitgeber eine Maßnahme für ein ähnliches Beschäftigungsverhältnis durchlaufen muss.
+
+Begrenzung der Förderdauer einer Maßnahme bei einem Arbeitgeber
+
+Maßnahmen bei einem Arbeitgeber sind gem. § 45 Abs. 2 S. 2 auf einen maximalen Zeitraum von 6 Wochen (30 Tage bei einer üblichen 5-Tage-Woche) zu begrenzen. Die bisherige Förderpraxis zeigt, dass eine vollständige Ausschöpfung dieses zeitlichen Korridors nur in wenigen Einzelfällen notwendig ist. I.d.R. kann die Förderintention einer betrieblichen Maßnahme in einer zwei- bzw. max. vierwöchigen Maßnahme erreicht werden. Zur Vermeidung von Mitnahmeeffekten sollten daher eher kurzfristige Maßnahmen vereinbart werden.
+
+Kommt die IFK zu der Einschätzung, dass es sich um eine/n eLb handelt, der/die langzeitarbeitslos nach § 18 SGB III oder dessen berufliche Eingliederung auf Grund von schwerwiegenden Vermittlungshemmnissen besonders erschwert ist, entscheidet sie im Einzelfall darüber, ob eine Teilnahme an der betrieblichen Erprobung bis zu max. 12 Wochen zielführend ist (§ 45 Abs. 8 SGB III). Entsprechende Förderkonstellationen sind ausdrücklich in FMG2 hinsichtlich der Zugehörigkeit zum besonderen Personenkreises als auch der Vorlage schwerwiegender Vermittlungshemmnisse zu dokumentieren (Beispiel: erhöhter Förderbedarf bei Personen mit Fluchthintergrund).
+
+
+
+Chunk #18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Einzelfall darüber, ob eine Teilnahme an der betrieblichen Erprobung bis zu max. 12 Wochen zielführend ist (§ 45 Abs. 8 SGB III). Entsprechende Förderkonstellationen sind ausdrücklich in FMG2 hinsichtlich der Zugehörigkeit zum besonderen Personenkreises als auch der Vorlage schwerwiegender Vermittlungshemmnisse zu dokumentieren (Beispiel: erhöhter Förderbedarf bei Personen mit Fluchthintergrund).
+
+Maßnahmen bei einem Arbeitgeber im europäischen Ausland
+
+Die Freizügigkeit in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum bezieht sich auf die Beschäftigung. Da die Teilnahme an einer Maßnahme bei einem Arbeitgeber keine Beschäftigung ist, können Maßnahmen bei einem Arbeitgeber im Ausland demnach nicht gefördert werden.
+
+Zugang zu einer Maßnahme bei einem Arbeitgeber
+
+Der Zugang zu einer MabE bei einem Arbeitgeber kann durch Beauftragung von Arbeitgebern mit der Durchführung von Maßnahmen erfolgen. Die Vorschrift des § 45 Abs. 3 SGB III sieht in diesem Fall ebenso die Anwendung des Vergaberechts vor. Da die Durchführung eines Vergabeverfahrens allerdings die Förderintention aushebeln würde und keine Kostenerstattung gegenüber dem Arbeitgeber erfolgt, macht die Durchführung eines Vergabeverfahrens keinen Sinn. Daher kann eine Maßnahme bei einem Arbeitgeber direkt
+
+MAbE -
+
+Anlage 11
+
+im Zuweisungsverfahren als Angebot unterbreitet werden. Die Zuweisung ist mit einer schriftlichen Eingliederungsvereinbarung zu untermauern (ab 01.07.2023 – Kooperationsplan ohne Rechtsfolgenbelehrung).
+
+Darüber hinaus wird den Jobcentern mit den gesetzlichen Regelungen eine neue Handlungsalternative zum Zugang freier Maßnahmeangebote MAbE eröffnet. Den Förderberechtigten kann der Förderbedarf einer MAbE bei einem Arbeitgeber durch Ausgabe eines Aktivierungs- und Vermittlungsgutscheins (AVGS) zur Inanspruchnahme eines Maßnahmeangebotes bei einem Arbeitgeber bescheinigt werden. Es obliegt der Integrationsfachkraft zu entscheiden, ob ein AVGS ausgegeben wird. Die inhaltlichen Ausführungen der Maßnahmen bei einem Träger im Gutscheinverfahren gelten entsprechend. Insbesondere sind hier die Hinweise zur Gültigkeitsdauer, der inhaltlichen regionalen Beschränkung sowie der Einlösung einschließlich Ausgestaltung, der Bescheiderteilung zu beachten.
+
+
+
+Chunk #19
+------------------------------------------------------------------------------------------------------------------------------------------------------
+rbeitgeber bescheinigt werden. Es obliegt der Integrationsfachkraft zu entscheiden, ob ein AVGS ausgegeben wird. Die inhaltlichen Ausführungen der Maßnahmen bei einem Träger im Gutscheinverfahren gelten entsprechend. Insbesondere sind hier die Hinweise zur Gültigkeitsdauer, der inhaltlichen regionalen Beschränkung sowie der Einlösung einschließlich Ausgestaltung, der Bescheiderteilung zu beachten.
+
+Umfang der Förderung einer Maßnahme bei einem Arbeitgeber
+
+Förderungen im Rahmen einer MAbE bei einem Arbeitgeber umfassen die Übernahme aller teilnehmerbezogenen notwendigen und angemessenen Kosten für die Teilnahme.
+
+Erstattungsfähige Kosten können z.B. Fahrkosten, Kinderbetreuungskosten, Kosten für auswärtige Unterbringung und Verpflegung sein. Die konkrete Ausgestaltung etwaiger Kostenerstattungen sind unter dem Gliederungspunkt „Kostenerstattungen“ erläutert.
+
+Bestehen gesetzliche Verpflichtungen des Arbeitgebers zur Kostenübernahme, ist eine Erstattung ausgeschlossen (z.B. Arbeitsschutzkleidung).
+
+Kosten, die in keinem unmittelbaren Zusammenhang zur Maßnahmeteilnahme stehen, können ebenfalls nicht erstattet werden.
+
+Eine Kostenerstattung an den Arbeitgeber (z.B. Maßnahmekosten) ist ausgeschlossen.
+
+Kostenerstattungen – Detailregelungen unabhängig des Maßnahmetyps MAbE
+
+Bezüglich der teilnehmerbezogenen Kostenerstattungen zur Teilnahme an einer MAbE greift der Hochsauerlandkreis auf bestehende Regelungen aus dem Bereich der Förderung der beruflichen Weiterbildung zurück.
+
+§ 63 SGB III Fahrkosten
+
+(1) Als Bedarf für Fahrkosten werden folgende Kosten der oder des Auszubildenden zugrunde gelegt:
+
+1. Kosten für Fahrten zwischen Unterkunft, Ausbildungsstätte und Berufsschule (Pendelfahrten), 2. bei einer erforderlichen auswärtigen Unterbringung Kosten für die An- und Abreise und für eine monatliche Familienheimfahrt oder anstelle der Familienheimfahrt für eine monatliche Fahrt einer oder eines Angehörigen zum Aufenthaltsort der oder des Auszubildenden. Eine auswärtige Unterbringung Familienwohnort aus nicht in angemessener Zeit erreicht werden kann.
+
+
+
+Chunk #20
+------------------------------------------------------------------------------------------------------------------------------------------------------
+e und Berufsschule (Pendelfahrten), 2. bei einer erforderlichen auswärtigen Unterbringung Kosten für die An- und Abreise und für eine monatliche Familienheimfahrt oder anstelle der Familienheimfahrt für eine monatliche Fahrt einer oder eines Angehörigen zum Aufenthaltsort der oder des Auszubildenden. Eine auswärtige Unterbringung Familienwohnort aus nicht in angemessener Zeit erreicht werden kann.
+
+(2) ...
+
+(3) Die Fahrkosten werden in Höhe des Betrags zugrunde gelegt, der bei Benutzung des zweckmäßigsten regelmäßig verkehrenden öffentlichen Verkehrsmittels in der niedrigsten Klasse zu zahlen ist; bei Benutzung sonstiger Verkehrsmittel wird für Fahrkosten die
+
+Förderumfang MAbE Arbeitgeber
+
+grds. Kosten ÖPNV / ansonsten BRKG
+
+MAbE -
+
+Anlage 11
+
+Höhe der Wegstreckenentschädigung nach § 5 Absatz 1 des Bundesreisekostengesetzes (BRKG) zugrunde gelegt. Bei nicht geringfügigen Fahrpreiserhöhungen hat auf Antrag eine Anpassung zu erfolgen, wenn der Bewilligungszeitraum noch mindestens zwei weitere Monate andauert. Kosten für Pendelfahrten werden nur bis zur Höhe des Betrags zugrunde gelegt, der nach § 86 insgesamt erbracht werden kann.
+
+Höchstgrenze -588 €/mtl.-
+
+Nach § 5 (1) BRKG wird als Auslagenersatz bei Benutzung eines Kraftfahrzeuges oder eines anderen motorbetriebenen Fahrzeuges eine Wegstreckenentschädigung gewährt, und zwar in Höhe von 0,20 Euro je Kilometer zurückgelegter Strecke, höchstens jedoch 130 Euro je Einzelfahrt (insgesamt für Hin- und Rückfahrt). Für die Wegstreckenentschädigung kommt es nicht darauf an, wem das Fahrzeug gehört. Sind dem Antragsteller Kosten für Mitfahrt entstanden, erhält er ebenfalls 0,20 Euro je Kilometer, höchstens jedoch 130 Euro je Einzelfahrt. Dem Antragsteller steht es frei, das Beförderungsmittel selbst zu wählen.
+
+Regelung BRKG
+
+Der Höchstbetrag von 130 Euro gilt jeweils für die − Familienheimfahrt einschließlich der Fahrt eines Angehörigen zum Teilnehmer (Gesamtfahrstrecke für Hin- und Rückfahrt), − Anreise, − Rückreise (d.h. für die Anreise und die Rückreise wird jeweils der Höchstbetrag angesetzt) und − tägliche Pendelfahrt (darüber hinaus gilt der kalendermonatliche Höchstbetrag für Pendelfahrkosten nach § 86 SGB III.
+
+
+
+Chunk #21
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Der Höchstbetrag von 130 Euro gilt jeweils für die − Familienheimfahrt einschließlich der Fahrt eines Angehörigen zum Teilnehmer (Gesamtfahrstrecke für Hin- und Rückfahrt), − Anreise, − Rückreise (d.h. für die Anreise und die Rückreise wird jeweils der Höchstbetrag angesetzt) und − tägliche Pendelfahrt (darüber hinaus gilt der kalendermonatliche Höchstbetrag für Pendelfahrkosten nach § 86 SGB III.
+
+Grundlage der Fahrkostenerstattung für die Teilnahme an einer MAbE nach § 45 SGB III ist § 63 Abs. 1 und 3 SGB III.
+
+Daraus abgeleitet sind bei Nutzung eines motorgetriebenen Fahrzeuges grundsätzlich Fehltage, unabhängig des Grundes, auf die Höhe der im Voraus bewilligten Fahrkostenbeträge zurückzufordern (Aufhebungs- und Erstattungsbescheid gem. § 48 SGB X). Aufgrund des Verwaltungsaufwandes bleiben monatliche Fehltage bis zu 2 Kalendertagen unberücksichtigt. Darüber hinaus gehende Fehltage sind vom ersten Fehltage an zu erstatten. Bei längerfristigen Maßnahmen kann ein evtl. bestehender Erstattungsanspruch durch Aufrechnung nach § 51 SGB I mit Fahrkosten für die verbleibende Dauer der Maßnahme durchgesetzt werden.
+
+Fahrkosten- Erstattung bei Fehltagen
+
+Sollten im Einzelfall besondere Umstände vorliegen, die eine unbillige Härte begründen, kann von einer Erstattung abgesehen werden.
+
+Die Entscheidungsgründe sind in jedem Fall aktenkundig zu machen.
+
+Die Angaben zur Nutzung des entsprechenden Beförderungsmittels haben sich an den tatsächlichen Gegebenheiten zu orientieren, Falschangaben in diesem Zusammenhang zu unrechtmäßig gewährten Erstattungsbeträgen. Wegstrecken- entfernungen von bis zu 2 Kilometern sollten grundsätzlich ohne die Nutzung des ÖPNV bzw. eines motorbetriebenen Fahrzeuges überbrückt werden.
+
+Die Einführung des MobiTickets (Sozialticket) im Hochsauerlandkreis ab 01.01.2017 ist bei der Zugrundelegung der Kostenerstattung für das zweckmäßigste regelmäßig verkehrende öffentliche Verkehrsmittel in der niedrigsten Klasse zu berücksichtigen. Aufgrund der Ausgestaltung der Rahmenbedingungen zum Erwerb des MobiTickets kann es im Einzelfall je nach Konstellation und Verfügbarkeit des MobiTickets kostengünstiger sein, auf das bisherige Erstattungsverfahren zum Erwerb einer Wochen-, Monatskarte oder 4erKarte zurückzugreifen. Insbesondere bei folgenden Fallgestaltungen:
+
+
+
+Chunk #22
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ffentliche Verkehrsmittel in der niedrigsten Klasse zu berücksichtigen. Aufgrund der Ausgestaltung der Rahmenbedingungen zum Erwerb des MobiTickets kann es im Einzelfall je nach Konstellation und Verfügbarkeit des MobiTickets kostengünstiger sein, auf das bisherige Erstattungsverfahren zum Erwerb einer Wochen-, Monatskarte oder 4erKarte zurückzugreifen. Insbesondere bei folgenden Fallgestaltungen:
+
+Fahrkostenerstattung für einen anteiligen Monat (z.B. MobiTickets ist beantragt, Verfügbarkeit erst ab Folgemonat),
+
+Maßnahmebeendigung vor Ablauf der Gültigkeit des MobiTickets,
+
+MAbE -
+
+Anlage 11
+
+kann die Erstattung einer Wochen- bzw. Monatskarte im Einzelfall günstiger sein. Bei derartigen Fallgestaltungen ist über eine Vergleichsberechnung die kostengünstigste Abrechnungsvariante zu berücksichtigen und darzustellen.
+
+Beispiel:
+
+Maßnahmebesuch vom 19.08.2019 – 08.11.2019 (12 Wochen) im Stadtgebiet (Preisstufe 2M); Verfügbarkeit MobiTicket aufgrund des formellen Antragsverfahrens frühestens ab 01.10.2019.
+
+Vergleichsberechnung:
+
+Kostenaufwand MobiTicket: 3 x 27,- Euro = 81,- Euro zzgl. der anteiligen Kosten für 2 Wochentickets (à 34,40 Euro) im August und einem Monatsticket (à 97,50 Euro) für Maßnahmetage im September = Gesamtkosten i.H.v. 212,90,- Euro.
+
+Kostenaufwand Monats-/Wochenkarte: 3x Wochenticket (à 34,40 Euro) für anteilige für Maßnahmetage Maßnahmetage im September und Oktober, 1x Einzelfahrticket (á 4,10 Euro) für 1 Maßnahmetag im November = Gesamtkosten i.H.v. 302,30 Euro.
+
+Dieses Beispiel zeigt, dass die Berücksichtigung von MobiTicket/Monats- u. Wochenticket die kostengünstigste Erstattungsweise darstellt.
+
+Ein Gültigkeitszeitraum des MobiTicket über das Maßnahmeende hinaus ist für die Kostenübernahme unschädlich, sofern der Erwerb des MobiTickets in der Gesamtrechnung für die Maßnahmeteilnahme kostengünstiger ist.
+
+§ 86 SGB III Kosten für auswärtige Unterbringung und Verpflegung
+
+Ist eine auswärtige Unterbringung erforderlich, so kann
+
+1. für die Unterbringung je Tag ein Betrag in Höhe von 60 Euro gezahlt werden, je Kalendermonat jedoch höchstens 420 Euro, und
+
+
+
+Chunk #23
+------------------------------------------------------------------------------------------------------------------------------------------------------
+inaus ist für die Kostenübernahme unschädlich, sofern der Erwerb des MobiTickets in der Gesamtrechnung für die Maßnahmeteilnahme kostengünstiger ist.
+
+§ 86 SGB III Kosten für auswärtige Unterbringung und Verpflegung
+
+Ist eine auswärtige Unterbringung erforderlich, so kann
+
+1. für die Unterbringung je Tag ein Betrag in Höhe von 60 Euro gezahlt werden, je Kalendermonat jedoch höchstens 420 Euro, und
+
+2. für die Verpflegung je Tag ein Betrag in Höhe von 24 Euro gezahlt werden, je Kalendermonat jedoch höchstens 168 Euro.
+
+§ 87 SGB III Kinderbetreuungskosten
+
+Kosten für die Betreuung der aufsichtsbedürftigen Kinder der Arbeitnehmerin oder des Arbeitnehmers können in Höhe von 160 Euro monatlich je Kind übernommen werden.
+
+Entstehen dem erwerbsfähigen Leistungsberechtigten während der Teilnahme an einer Voll- oder Teilzeitmaßnahme Kinderbetreuungskosten, können diese regelmäßig in Höhe von 160,- € übernommen werden. Dabei ist unerheblich, ob die Kosten bereits vor der Maßnahme angefallen sind. Als Kinderbetreuungskosten gelten u.a. Kindergarten- /Hortgebühren, Kosten für eine Tagesmutter, Mehraufwendungen für die Betreuung bei Nachbarn und Verwandten. Die Kinderbetreuungskosten können auch übernommen werden, wenn der Bildungsträger selbst geeignete Kinderbetreuungsmöglichkeiten anbietet. Verpflegungskosten sind keine Kinderbetreuungskosten.
+
+auswärtige Unter- bringung
+
+Kinder- betreuung
+
+MAbE -
+
+Anlage 11
+
+Kinderbetreuungskosten für aufsichtsbedürftige Kinder können in der Regel nur bis zur Vollendung ihres 15. Lebensjahres übernommen werden. Bei Teilmonaten werden für jeden Kalendertag 1/30 der Monatspauschale von 150,- € erstattet. Bei Betreuungseinrichtungen ist auch für Teilmonate der volle Monatsbetrag zu zahlen. Kinderbetreuungskosten werden je Kind nur einmal gewährt. Es genügt grundsätzlich die Glaubhaftmachung der Kosten.
+
+Bei Beschäftigung einer Betreuungsperson im Haushalt des erwerbsfähigen Leistungsberechtigten sind die Bestimmungen über einen "Minijob" zu beachten. Wenn ein Arbeitnehmer in einem privaten Haushalt Tätigkeiten übernimmt, die üblicherweise von Familienmitgliedern durchgeführt werden, handelt es sich evtl. um eine "haushaltsnahe Dienstleistung". Hier ist im Regelfall eine Meldung an die Bundesknappschaft als Minijob- Zentrale erforderlich. (Detailinfos unter http://www.minijob-zentrale.de/nn_10152/DE/Service/SiteMap/sitemap.html).
+
+
+
+Chunk #24
+------------------------------------------------------------------------------------------------------------------------------------------------------
+" zu beachten. Wenn ein Arbeitnehmer in einem privaten Haushalt Tätigkeiten übernimmt, die üblicherweise von Familienmitgliedern durchgeführt werden, handelt es sich evtl. um eine "haushaltsnahe Dienstleistung". Hier ist im Regelfall eine Meldung an die Bundesknappschaft als Minijob- Zentrale erforderlich. (Detailinfos unter http://www.minijob-zentrale.de/nn_10152/DE/Service/SiteMap/sitemap.html).
+
+Doppelfinanzierungen sind zu vermeiden. Daher ist eine Kostenübernahme in Fällen der Tagespflege nach SGB VIII durch das Jugendamt im Einzelfall zu prüfen. Dabei ist die Zuständigkeit nach dem SGB VIII auch bei Teilnahme an einer Maßnahme weiterhin gegeben, soweit das Jugendamt bereits vor Maßnahmeteilnahme die Pflege der Kinder aus erzieherischen Gründen übernommen hat. Treten die Hilfen des Jugendamtes allein wegen der Maßnahmeteilnahme ein, sind Kinderbetreuungskosten nach dem SGB II bzw. SGB III in der dort vorgesehenen Höhe zu erbringen.
+
+Teilnehmerstatus während einer MAbE
+
+Teilnehmer an einer MAbE bei einem Träger oder Arbeitgeber gelten i.S.d. § 16 Abs. 2 SGB III nicht als arbeitslos. Die Teilnehmer sind während der Maßnahmezeit arbeitsuchend zu führen und weiterhin in Vermittlungsbemühungen einzubeziehen.
+
+Teilnehmer- und Absolventenmanagement
+
+Die Maßnahmeteilnehmer/innen MAbE sind während der Maßnahme von den Integrationsfachkräften in die Betreuungs- und Vermittlungsaktivitäten weiter einzubeziehen. Mit dem Träger der Maßnahme bzw. dem Arbeitgeber ist ein enger Kontakt bzgl. eines zielgerichteten Integrationsprozess des Teilnehmers sicherzustellen.
+
+Grundsätzlich ist jede Aktivität und jeder Einsatz von Eingliederungsleistungen durch die Integrationsfachkraft in FMG2 nachzuhalten und deren Auswirkungen auf die weiteren Integrationsschritte zu überprüfen. Ein Folgekontakt zur Nachhaltung mit der/dem eLb hat spätestens unmittelbar nach Maßnahmeende zu erfolgen. Im Rahmen dieses Gespräches ist mit der/dem eLb das Ergebnis der Maßnahme auszuwerten und gemeinsam die weitere individuelle Integrationsstrategie festzulegen.
+
+
+
+Chunk #25
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ngen durch die Integrationsfachkraft in FMG2 nachzuhalten und deren Auswirkungen auf die weiteren Integrationsschritte zu überprüfen. Ein Folgekontakt zur Nachhaltung mit der/dem eLb hat spätestens unmittelbar nach Maßnahmeende zu erfolgen. Im Rahmen dieses Gespräches ist mit der/dem eLb das Ergebnis der Maßnahme auszuwerten und gemeinsam die weitere individuelle Integrationsstrategie festzulegen.
+
+Auf die Nachhaltung kann verzichtet werden, wenn die/der eLb unmittelbar in ein Beschäftigungsverhältnis einmünden kann.
+
+Dokumentation
+
+Die Entscheidung über die Teilnahme an einer MAbE stellt eine Ermessensentscheidung dar. Alle wesentlichen Verfahrensschritte und Entscheidungen sind aussagekräftig und nachvollziehbar im Programm FMG2 zu begründen und zu hinterlegen (Register Dokumentation).
+
+Die Dokumentation schließt die Feststellung des Förderbedarfes ein.
+
+MAbE -
+
+Anlage 11
+
+Zahlbarmachung / technische Umsetzung
+
+Die Anforderungen an das formelle Verwaltungsverfahren sind im Zusammenhang der Teilnahme an einer Maßnahme zur Aktivierung und beruflichen Eingliederung einzuhalten. Hier sind incl. Profiling, das Gutscheinverfahren bei der Inanspruchnahme zugelassener zertifizierter Maßnahmen sowie das schriftliche Antrags-/Bewilligungsverfahren zur Gewährung von Maßnahmekosten für Unterkunft und (Lehrgangskosen, Fahrkosten, Kinderbetreuungskosten, Kosten Verpflegung) im Vorfeld der Aufnahme einer Aktivierungsmaßnahme zu nennen. Im Detail wird auf die Verfahrensübersicht der Anlage 11a der ARK im Forum SGB II hingewiesen.
+
+Die EDV-technische/statistische Darstellung im Programm FMG2 der Förderung einer MAbE ist abhängig vom Fördertyp.
+
+Bei Maßnahmegestaltungen, welche mittels Vergabeverfahren zentral eingekauft werden, wird ein Projekt in FMG2 hinterlegt (Suchweg: Projekte suchen / interne Bezeichnung – vierstellige Jahreszahl...). Die Zuweisung des betreffenden Kunden erfolgt auf der dem Projekt angehängte Maßnahme. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Nach der Zuweisung sind über den BaEL- Assistenten ggf. bestehende Alo-Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund ist bei jedem Einzelfall auf „AM-polit. Maßnahme“ zu ändern.
+
+
+
+Chunk #26
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ein, um auf die Maßnahmezuweisungsmaske zu gelangen. Nach der Zuweisung sind über den BaEL- Assistenten ggf. bestehende Alo-Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund ist bei jedem Einzelfall auf „AM-polit. Maßnahme“ zu ändern.
+
+Maßnahmezugänge mittels Aktivierungs- und Vermittlungsgutschein sind i.d.R auf Einzelfälle begrenzt, sodass hier im Regelfall kein eigenständiges Projekt/Hilfeprodukt in FMG2 ist (Ausnahme z.B. BBBI des bfw, HSZ der GAB...). Derartige Förder- hinterlegt konstellationen sind in FMG2 durch Zuweisung des betreffenden Kunden auf eine der zutreffenden Maßnahme mit der Bezeichnung „Aktivierungsmaßnahme/ Gutschein“ im Projekt „400 Maßnahmen“ abzubilden. Bei der Auswahl der Maßnahme ist je nach „Heranführung an den Ausbildungs- und Arbeitsmarkt“, Förderintention zwischen „Feststellung, Verringerung oder Beseitigung von Vermittlungshemmnissen“, Heranführung an eine selbständige Tätigkeit“, „Stabilisierung einer Beschäftigungsaufnahme“ oder „Kombinationsleistung“ zu unterscheiden. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen.
+
+Zu beachten ist, dass zwischen der Aushändigung eines Gutscheins und der tatsächlichen Aufnahme einer Maßnahme unterschieden werden muss. Die statistische Meldepflicht bezieht tatsächliche Förderkonstellationen. Daher ist bei Ausgabe des AVGS zunächst der Status „nicht angetreten“ zu wählen und als „Eintritt/Austritt-Datum“ der Zeitraum der Gültigkeit des AVGS einzutragen. Die Aushändigung eines AVGS stellt eine Zusicherung nach § 34 SGB X dar. Demzufolge sind zur Sicherstellung einer auskömmlichen Haushaltsplanung bereits bei der Ausgabe des Gutscheins mögliche Zahlungsverpflichtungen in voller abschätzbarer Höhe für die Zukunft darzustellen. Hierzu sind aus der Maßnahmezuweisung über die Registerkarte (ggf. entsprechend „Kosten“ Zahlungsverpflichtungen überschlagsmäßig) für die Zukunft mit dem Status „vorgemerkt“ darzustellen. Bei fehlender Einlösung des AVGS sind diese Buchungen nach Ablauf der Gültigkeitsfrist des Gutscheins zu stornieren (Überwachung durch Wiedervorlage). Bei Einlösung des AVGS ist auf der Maßnahmezuweisung der Status in „läuft“ zu ändern, damit die statistische Meldung sichergestellt „Eintritt-/Austritt-Datum“ auf den konkreten Maßnahmezeitraum MAbE anzupassen. Daneben sind bei Maßnahmeantritt über den BaEL-
+
+
+
+Chunk #27
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nder Einlösung des AVGS sind diese Buchungen nach Ablauf der Gültigkeitsfrist des Gutscheins zu stornieren (Überwachung durch Wiedervorlage). Bei Einlösung des AVGS ist auf der Maßnahmezuweisung der Status in „läuft“ zu ändern, damit die statistische Meldung sichergestellt „Eintritt-/Austritt-Datum“ auf den konkreten Maßnahmezeitraum MAbE anzupassen. Daneben sind bei Maßnahmeantritt über den BaEL-
+
+Zahlbar- machung Vergabe- maßnahmen
+
+Zahlbar- machung Gutschein- Verfahren
+
+MAbE -
+
+Anlage 11
+
+Assistenten ggf. bestehende Alo-Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund ist bei jedem Einzelfall auf „AM-polit. Maßnahme“ zu ändern.
+
+Sollte im Einzelfall eine Maßnahmegestaltung, welche durch einen Aktivierungs- und Vermittlungsgutschein zugänglich ist, für eine größere Teilnehmerzahl von Bedeutung sein, kann hierzu ein Projekt in FMG2 hinterlegt werden. Derartige Projekte sind unter der zweistelligen Jahreszahl zu finden. Bezüglich der konkreten Teilnehmerzuweisung gilt die zuvor beschrieben Verfahrensweise.
+
+im Zuweisungsverfahren Maßnahmegestaltungen welche bei einem Arbeitgeber durchgeführt werden (MAbE bei einem Arbeitgeber) sind in FMG2 im Projekt „400 Maßnahmen“ in der Maßnahme mit der Bezeichnung „Aktivierungsmaßnahme/Zuweisung“ (Name: Betriebspraktikum) abzubilden.
+
+Die Zahlbarmachung von Leistungen erfolgt unabhängig des Maßnahmetyps aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Teilnahme an der MAbE entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge (Grundlage u.a. Maßnahmebogen und Teilnehmerbewilligung) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20191 mit dem Status „geplant“ zu hinterlegen (Ausnahme siehe Beschreibung „Gutscheinverfahren“). Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren.
+
+
+
+Chunk #28
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ungen sind entsprechend der monatlich anfallenden Beträge (Grundlage u.a. Maßnahmebogen und Teilnehmerbewilligung) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20191 mit dem Status „geplant“ zu hinterlegen (Ausnahme siehe Beschreibung „Gutscheinverfahren“). Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren.
+
+Die Trägerkostenerstattung für Maßnahmen die im zentralen Vergabeverfahren eingekauft wurden (Vergabemaßnahmen) erfolgt in der entsprechenden Maßnahme (Overheadkosten). Eine Aufteilung auf die einzelnen Kunden / Teilnehmer (Maßnahmezuweisungen) ist nicht erforderlich, da durch die Registerkarte "Statistik" die Verteilung der Kosten auf die Maßnahmeteilnehmer maschinell gesteuert werden kann. Kosten, die direkt an die Kunden ausgezahlt werden (z. B. Fahrtkosten, Kinderbetreuungskosten), sind jedoch auch bei Vergabemaßnahmen in der konkreten Maßnahmezuweisung des Kunden zu buchen.
+
+Verfügbare Vordruckvorlagen in FMG.job:
+
+Aktivierungsgutschein (11_Aktivierungsgutschein_MAT_MAG) Antrag eLb Kostenerstattung (11_AntragKostenerstattung_MAT_MAG) Erhebungsbogen MabE beim AG (11_ErhebungsbogenArbeitgeber_MAG) Bewilligungsbescheid MabE (11_Bewilligung_MAT_MAG) Zuweisung MabE Arbeitgeber mit
+
+Kooperationsplan ohne RFB (11_MabE_Zuweisung_AG_ohne.RFB)
+
+Zuweisung MabE Arbeitgeber ohne
+
+Kooperationsplan mit RFB (11_MabE_Zuweisung_AG_o.KoopP.m.RFB)
+
+Zuweisung MabE Träger mit
+
+Kooperationsplan ohne RFB (11_MabE_Zuweisung_Träger_ohneRFB)
+
+Zuweisung MabE Träger ohne
+
+Kooperationsplan mit RFB (11_MabE_Zuweisung_Träger_o.KoopP.m.RFB)
+
+Zuweisung MabE Träger, Aufforderung
+
+nach § 15 Abs. 5 SGB II mit RFB (11_MabE_Zuweisung_§15.5_mit.RFB) Teilnahmebescheinigung MabE (11_Teilnehmerbescheinigung_MAG_MAT)
+
+(Stand: 01.01.2023)
+
+Zahlbar- machung Einzelprojekte
+
+Zahlbar- machung Gutschein- Verfahren

@@ -1,0 +1,183 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_999_-_arbeitshilfe_falldokumentation.pdf
+chunk_size:			1500
+overlap:			300
+loading_strategy:	hi_res
+chunking_strategy:	basic
+mode:				naive
+n_chunks:			18
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Stand: 01.06.2013
+
+Arbeitshilfe: Dokumentation der Instrumentenauswahl / des Instrumentenein- satzes (Musterbeispiele Falldokumentation)
+
+In der Aufgabenumsetzung nach dem SGB II bestehen unterschiedliche Dokumentations- und Erfassungspflichten. Zum Einen ergeben sich aus der gesetzlichen Grundlage des § 51b SGB II und den damit festgelegten Datenstandards X-Sozial verbindliche Erfassungs- und Übertragungspflichten zu Merkmalen und Melderegeln. Darüber hinaus verlangt das BMAS im Kontext der Finanzverantwortung und Sicherstellung eines wirtschaftlichen und sparsa- men Mitteleinsatzes eine systematische Falldokumentation mit zwingender Darstellung der individuellen Begründung zur Notwendigkeit und Zielgerichtetheit beim Einsatz arbeitsmarkt- politischer Instrumente. Desweiteren setzt ein rechtskonformer Instrumenteneinsatz eine nachvollziehbare Falldokumentation mit den wesentlichen Entscheidungsmerkmalen voraus. 11de Bedeutung an. Zudem ist eine umfassende Falldokumentation für die tägliche Aufga- benumsetzung im Fallmanagement und der Arbeitsvermittlung unerlässlich.
+
+Die Mehrzahl der aktiven Eingliederungsleisten ist als Ermessensleistung ausgestaltet. Hier bedarf es zwingend der Darstellung einer individuellen Begründung der Ermessensentschei- dung mit Darlegung aller Gesichtspunkte, von denen die Behörde bei der Ausübung des Er- messens ausgegangen ist (Nachvollziehbarkeit der Ermessensentscheidung).
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+isten ist als Ermessensleistung ausgestaltet. Hier bedarf es zwingend der Darstellung einer individuellen Begründung der Ermessensentschei- dung mit Darlegung aller Gesichtspunkte, von denen die Behörde bei der Ausübung des Er- messens ausgegangen ist (Nachvollziehbarkeit der Ermessensentscheidung).
+
+Durch das Zusammenspiel von § 16 Abs. 1 SGB II mit den arbeitsmarktpolitischen Maßnah- men des SGB III sowie mit den §§ 16a bis 16f SGB II ergibt sich das Erfordernis, neben der nach § 35 SGB X erforderlichen Begründung auch die getroffene Auswahl einer bestimmten Maßnahme nachvollziehbar zu begründen.
+
+In der Vergangenheit haben Schwerpunktprüfungen des Bundesrechnungshofs wiederholt festgestellt, dass in der Förderpraxis Förderungsvoraussetzungen einzelner Instrumente nicht erfüllt wurden. Als Ursache wurde u.a. eine fehlende Fall- und Begründungsdokumen- tation angeführt.
+
+Mit dieser Arbeitshilfe soll den Integrationsfachkräften Anregungen zur Sicherstellung der Dokumentationspflichten (Dokumentation FMG2) bei der Instrumentenauswahl und des In- strumenteneinsatzes gegeben werden. Es wird ausdrücklich darauf hingewiesen, dass es sich bei den dargestellten Begründungen um geraffte Mustertexte handelt, welche sich nicht auf konkrete Förderfälle übertragen lassen. Daher sind diese Begründungen nicht als „Ko- piervorlage“ zu verwenden. Sie sollen lediglich Impulse für eine individuelle Entscheidungs- begründung liefern.
+
+Eingliederungszuschuss (§§ 88 ff. SGB II)
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ngen um geraffte Mustertexte handelt, welche sich nicht auf konkrete Förderfälle übertragen lassen. Daher sind diese Begründungen nicht als „Ko- piervorlage“ zu verwenden. Sie sollen lediglich Impulse für eine individuelle Entscheidungs- begründung liefern.
+
+Eingliederungszuschuss (§§ 88 ff. SGB II)
+
+„Aufgrund des fehlenden Berufsabschlusses sowie fehlender Berufspraxis besteht ein erhebliches Defizit zwischen vorliegenden beruflichen Fertigkeiten und Kenntnissen in der Person des Herrn/Frau ... und dem Anforderungsprofil der auszuführenden be- ruflichen Tätigkeit als ... (erschwerte Vermittlung). Um das Ziel einer beruflichen In- tegration dennoch kurzfristig zu erreichen, bedarf es dem Ausgleich der Minderleis- tung durch Gewährung eines Eingliederungszuschusses für die Dauer von ... Mona- ten in Höhe von ... Prozent. Dem Arbeitgeber entsteht mit der Einstellung ein über dem Normalmaß liegender Einarbeitungsaufwand, insbesondere im Bereich der Kenntnisvermittlung Lagerhaltung, welcher durch die finanzielle Förderung auszuglei- chen ist. Das Eingliederungsziel kann derzeit auf anderer Weise nicht erreicht wer- den. Unter Berücksichtigung der Sachverhaltsmerkmale ist eine Minder- leistungsausgleich i.H.v. X Prozent für die Dauer von X Monaten erforderlich.“
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ng Lagerhaltung, welcher durch die finanzielle Förderung auszuglei- chen ist. Das Eingliederungsziel kann derzeit auf anderer Weise nicht erreicht wer- den. Unter Berücksichtigung der Sachverhaltsmerkmale ist eine Minder- leistungsausgleich i.H.v. X Prozent für die Dauer von X Monaten erforderlich.“
+
+„Durch bestehende Langzeitarbeitslosigkeit im Sinne des § 18 SGB III sind die Per- sönlichkeitsmerkmale als auch die verwertbaren beruflichen Fertigkeiten und Kenn- tnisse weit unterhalb eines, für eine berufliche Tätigkeit akzeptablen Normalmaßes abgerutscht (erschwerte Vermittlung). Für die Aufnahme der sozialversicherungs- pflichten Tätigkeit als ... bei Fa. ... ist die Gewährung eines Eingliederungszuschus- ses als Minderleistungsausgleich unerlässlich. Es besteht ein überdurchschnittlicher Einarbeitungsaufwand insbesondere zur Erlangung der Grundfertigkeiten im Berufs- bild der/des .... welcher den Förderumfang eines Eingliederungszuschusses von ... Monaten i.H.v. ... Prozent rechtfertigt. Das Eingliederungsziel kann derzeit auf ande- rer Weise nicht erreicht werden.“
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+rchschnittlicher Einarbeitungsaufwand insbesondere zur Erlangung der Grundfertigkeiten im Berufs- bild der/des .... welcher den Förderumfang eines Eingliederungszuschusses von ... Monaten i.H.v. ... Prozent rechtfertigt. Das Eingliederungsziel kann derzeit auf ande- rer Weise nicht erreicht werden.“
+
+„Das Beschäftigungsverhältnis wurde durch Firma X während des Förderungszeit- raumes EGZ / in der Nachbeschäftigungszeit EGZ gekündigt. In diesem Zusammen- hang ist eine Rückzahlungsverpflichtung i.S. des § 92 SGB III durch den Arbeitgeber zu prüfen. Von einer Rückzahlungsverpflichtung kann abgesehen werden, sofern ei- ner der Tatbestandsmerkmale des § 92 Abs. 2 S. 2 Nr. 1 bis 5 SGB III erfüllt wird. Der Betriebsinhaber gibt im Anhörungsverfahren als Kündigungsgrund die fehlende be- rufsfachliche Eignung des Herrn .../der Frau ... an. Eine festgestellte fehlende Eig- nung kann nicht allgemein als Ausschlussgrund einer Rückzahlungsverpflichtung i.S. des § 92 Abs. 2 S. 2 Nr. 1 – 5 SGB III anerkannt werden. Insbesondere sind die Gründe einer derartigen Kündigung nicht als dringendes betriebliches Erfordernis zu werten. Die Gewährung des Eingliederungszuschusses war auf den Ausgleich von Minderleistungen, welche in der Person begründet waren, hier insbesondere den be- rufsfachlichen Defiziten, ausgelegt. Demzufolge liegt ein Rückzahlungstatbestand vor. Die Höhe des Rückzahlungsbetrages stellt sich wie folgt dar ...(in Abhängigkeit der individuellen Fallkonstellation).“
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Ausgleich von Minderleistungen, welche in der Person begründet waren, hier insbesondere den be- rufsfachlichen Defiziten, ausgelegt. Demzufolge liegt ein Rückzahlungstatbestand vor. Die Höhe des Rückzahlungsbetrages stellt sich wie folgt dar ...(in Abhängigkeit der individuellen Fallkonstellation).“
+
+Maßnahmen zur Aktivierung und beruflichen Eingliederung (§ 45 SGB III)
+
+„Im Rahmen des Eingangsprofiling zeichnet sich ein Förderbedarf zur weiteren Akti- vierung und beruflichen Eingliederung in Kombination der Förderelemente Heranfüh- rung an den Arbeitsmarkt, Verringerung von Vermittlungshemmnissen sowie die Vermittlung in eine versicherungspflichtige Beschäftigung ab. Dabei liegt der Schwer- punkt in der Unterstützung der Eigeninitiative zur Erreichung eines Arbeitsplatzes. Die Elemente der personenbezogenen Motivationssteigerung, Vermittlung von Kenn- tnissen zur Erstellung von Bewerbungsunterlagen sowie einer aktiven Unterstützung der Vermittlung stehen im Vordergrund. Der konkrete Förderbedarf wird in einem Ak- tivierungs- und Vermittlungsgutschein zur Inanspruchnahme eines freien Maßnah- meträgers übertragen, dabei wird die zeitliche Maßnahmedauer auf X Monate be- grenzt. Die Förderung ist zur Erreichung des Integrationsziels unerlässlich.“
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+tehen im Vordergrund. Der konkrete Förderbedarf wird in einem Ak- tivierungs- und Vermittlungsgutschein zur Inanspruchnahme eines freien Maßnah- meträgers übertragen, dabei wird die zeitliche Maßnahmedauer auf X Monate be- grenzt. Die Förderung ist zur Erreichung des Integrationsziels unerlässlich.“
+
+„Aufgrund der bestehenden Betreuungspflichten war in der Vergangenheit der Weg zum Arbeitsmarkt verwehrt. Durch das fortgeschrittene Alter des Kindes sowie der ausgeweiteten Betreuungsfenster im Kindergarten/der Schule erscheint eine Be- schäftigungsaufnahme mittelfristig realistisch. Allerdings bedarf Herr/Frau ... unters- tützender Angebote, welche auf eine Beschäftigungsaufnahme vorbereiten und den Prozess begleiten. Hier bietet sich die Teilnahme an einer Aktivierungsmaßnahme in Teilzeitform unter besonderer Berücksichtigung der Bindungen an. Ziel ist die Errei- chung einer Beschäftigungsaufnahme unter Berücksichtigung der Sicherstellung der Kindesbetreuung. Der Förderbedarf wird in einem Aktivierungs- und Vermittlungsgut- schein zur Inanspruchnahme eines freien Maßnahmeträgers definiert, dabei ist der zeitliche Maßnahmeumfang auf maximal X Monate begrenzt.“
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+hung einer Beschäftigungsaufnahme unter Berücksichtigung der Sicherstellung der Kindesbetreuung. Der Förderbedarf wird in einem Aktivierungs- und Vermittlungsgut- schein zur Inanspruchnahme eines freien Maßnahmeträgers definiert, dabei ist der zeitliche Maßnahmeumfang auf maximal X Monate begrenzt.“
+
+„Das aktuelle Bewerbungsverfahren für die Tätigkeit als ... bei Firma .... gestaltet sich positiv. Der Arbeitgeber ist grundsätzlich an einer Einstellung des Herrn/der Frau ... interessiert. Allerdings bestehen aufgrund der langen berufsfremden Tätigkeit / lan- gen Zeit der Arbeitslosigkeit Zweifel an der Leistungsfähigkeit sowie der Passge- nauigkeit des Herrn/der Frau.... Zur Feststellung der beruflichen Kenntnisse und Ausweitung der spezifischen Fertigkeiten im Bereich ... ist die Durchführung einer angeleiteten betrieblichen Aktivierungsmaßnahme (Betriebspraktikum) notwendig. Dabei ist eine zeitliche Dauer von 2 Wochen zielführend. Der Förderbedarf wird in ei- nem Aktivierungs- und Vermittlungsgutschein festgehalten.“
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+tung der spezifischen Fertigkeiten im Bereich ... ist die Durchführung einer angeleiteten betrieblichen Aktivierungsmaßnahme (Betriebspraktikum) notwendig. Dabei ist eine zeitliche Dauer von 2 Wochen zielführend. Der Förderbedarf wird in ei- nem Aktivierungs- und Vermittlungsgutschein festgehalten.“
+
+„Grundsätzlich wird Herr/Frau ... nach den Erhebungen und Erkenntnissen des Ein- gangsprofiling dem arbeitsmarktnahen Personenkreis zugeordnet. Die weitere Integ- rationsstrategie ist auf eine Forcierung der Eigenbemühungen durch Direktbewer- bungen im Berufsfeld der Metallbearbeitung auf dem Niveau der Tätigkeiten für ange- lernte Kräfte ausgelegt. Allerdings bedarf es der Auffrischung der Kenntnisse zur Ge- staltung aussagekräftiger Bewerbungsunterlagen. Daher wird die Teilnahme an ei- nem Bewerberseminar in der Zeit vom X bis X auf Grundlage des § 45 (1) Nr. 1 SGB III vereinbart.“
+
+Förderung der Berufsausbildung (§§ 74 ff. SGB III)
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+usgelegt. Allerdings bedarf es der Auffrischung der Kenntnisse zur Ge- staltung aussagekräftiger Bewerbungsunterlagen. Daher wird die Teilnahme an ei- nem Bewerberseminar in der Zeit vom X bis X auf Grundlage des § 45 (1) Nr. 1 SGB III vereinbart.“
+
+Förderung der Berufsausbildung (§§ 74 ff. SGB III)
+
+„Herr/Frau ... gehört aufgrund einer vorliegenden sozialen Benachteiligung zum förde- rungsbedürftigen Personenkreis des § 78 (1) SGB III. Der/die Jugendliche ist infolge gravierender sozialer, persönlicher und/oder psychischer Probleme, hier insbesonde- re den fehlenden Beziehungen zum Elternhaus und den daraus resultierenden Moti- vationsdefiziten derzeit und absehbar den Anforderungen einer vorrangigen betriebli- chen Berufsausbildung nicht gewachsen. Daher bietet die Aufnahme einer außerbet- rieblichen Berufsausbildung im kooperativen/integrativen Modell mit entsprechenden individuellen Unterstützungs- und Betreuungsmöglichkeiten derzeit die einzige Chan- ce zur Erreichung eines Berufsabschlusses.“
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+triebli- chen Berufsausbildung nicht gewachsen. Daher bietet die Aufnahme einer außerbet- rieblichen Berufsausbildung im kooperativen/integrativen Modell mit entsprechenden individuellen Unterstützungs- und Betreuungsmöglichkeiten derzeit die einzige Chan- ce zur Erreichung eines Berufsabschlusses.“
+
+„Herr/Frau ... strebt die Erlangung eines Berufsabschlusses an. Allerdings ist die für das Berufsbild der/des ... erforderliche Ausbildungsreife derzeit noch nicht gegeben. Zur Behebung der vorhandenen Einschränkungen macht es Sinn, eine betriebliche Einstiegsqualifizierung auf Grundlage des § 54a SGB III von einer Dauer von X Mo- naten im Zeitraum von X bis X durchzuführen. Die Einstiegsqualifizierung dient der Vermittlung und Vertiefung von Grundlagen für den Erwerb beruflicher Handlungsfä- higkeit. Eine Verdrängung von regulären Ausbildungsplätzen erfolgt nicht. Ziel ist der nahtlose Übergang in eine betriebliche Ausbildung zum/zur ... im Betrieb.“
+
+Arbeitsgelegenheiten (§ 16d SGB II)
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+fizierung dient der Vermittlung und Vertiefung von Grundlagen für den Erwerb beruflicher Handlungsfä- higkeit. Eine Verdrängung von regulären Ausbildungsplätzen erfolgt nicht. Ziel ist der nahtlose Übergang in eine betriebliche Ausbildung zum/zur ... im Betrieb.“
+
+Arbeitsgelegenheiten (§ 16d SGB II)
+
+„Der/die eLb gehört zum Personenkreis der Langzeitleistungsbezieher / Langzeitar- beitslosen und ist unter Berücksichtigung der vorliegenden Vermittlungshemmnisse, hier: fehlender Schul-/Berufsabschluss, Entwöhnung vom Arbeitsmarkt und damit verbundener fehlender Tagesstrukturierung, bestehender Arbeitslosigkeit seit X Mo- naten/Jahren, labilen Persönlichkeit, derzeit auf dem ersten Arbeitsmarkt nicht integ- rierbar. Zur Wiedererlangung der grundsätzlichen Beschäftigungsfähigkeit ist im ers- ten Schritt die Zuweisung in eine auf 6 Monaten zeitlich begrenzte Arbeitsgelegenheit aus arbeitsmarktlicher Sicht notwendig, um so den Zugang zum Arbeitsmarkt aufzu- bauen. Mit anderen vorrangigen Leistungen zur Eingliederung in Arbeit kann eine Ar- beitsmarktintegration derzeit und perspektivisch nicht erreicht werden. Die Förder- höchstdauer von Arbeitsgelegenheiten von 24 Monaten innerhalb der 5-jährigen Rahmenfrist wird mit dem Zuweisungszeitraum nicht erreicht bzw. nicht überschritten. Die weiteren Förderungsvoraussetzungen sind erfüllt.“
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+beitsmarktintegration derzeit und perspektivisch nicht erreicht werden. Die Förder- höchstdauer von Arbeitsgelegenheiten von 24 Monaten innerhalb der 5-jährigen Rahmenfrist wird mit dem Zuweisungszeitraum nicht erreicht bzw. nicht überschritten. Die weiteren Förderungsvoraussetzungen sind erfüllt.“
+
+„Zur Vorbereitung und Unterstützung einer mittelfristigen Chance einer Arbeitsmarkt- integration ist zunächst die Zuweisung in eine Arbeitsgelegenheit auf Grundlage des § 16d SGB II aus arbeitsmarktlicher Sicht notwendig. Aufgrund der gegebenen Fall- konstellation mit vorliegenden umfassenden Vermittlungshemmnissen, hier: keinerlei verwertbare berufliche Kenntnisse und Fertigkeiten, fehlende Tagesstrukturierung sowie Defizite in der Persönlichkeit welche eine Aufnahme in Betriebsstrukturen der- zeit ausschließen, stellt die Zuweisung in eine Arbeitsgelegenheit das alleinige Un- terstützungsinstrument dar. Ziel ist es, zunächst die Beschäftigungsfähigkeit auszu- bauen, um in der Folge den Einstieg in den Arbeitsmarkt bzw. eine höherwertige in- tegrationsunterstützende Maßnahme zu erreichen. Mit dem Zuweisungszeitraum von 6 Monaten ab .... wird die maximal mögliche Förderhöchstdauer von 24 Monaten in- nerhalb der 5-jährigen Rahmenfrist nicht erreicht bzw. nicht überschritten.“
+
+
+
+Chunk #14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+lge den Einstieg in den Arbeitsmarkt bzw. eine höherwertige in- tegrationsunterstützende Maßnahme zu erreichen. Mit dem Zuweisungszeitraum von 6 Monaten ab .... wird die maximal mögliche Förderhöchstdauer von 24 Monaten in- nerhalb der 5-jährigen Rahmenfrist nicht erreicht bzw. nicht überschritten.“
+
+„Zur Erhaltung der Beschäftigungsfähigkeit ist die Zuweisung in eine Arbeitsgelegen- heit aus arbeitsmarktlicher Sicht notwendig. Frau/Herr ... blickt auf insgesamt X Mo- nate/Jahre bestehender Arbeitslosigkeit mit kurzen Unterbrechungen durch die Teil- nahme an arbeitsmarktpolitischen Maßnahmen zurück. Bisherige Qualifizierungs- und Integrationsversuche scheiterten aus unterschiedlichen Gründen, welche in der Mehrzahl auf Defizite in der Person zurückzuführen sind. Um ein weiteres Abdriften der grundsätzlichen Beschäftigungsfähigkeit zu vermeiden, ist die Teilnahme an einer Arbeitsgelegenheit erforderlich. Mit dem Einsatz vorrangiger Arbeitsmarktinstrumente, auch kommunaler Eingliederungsleistungen, kann derzeit keine Aufnahme einer Er- werbstätigkeit erreicht werden. Zunächst steht eine Teilhabe am Beschäftigungspro- zess im Vordergrund. Die Förderhöchstdauer von Arbeitsgelegenheiten von 24 Mo- naten innerhalb der 5-jährigen Rahmenfrist wird mit dem Zuweisungszeitraum von 6 Monaten ab ... nicht erreicht bzw. nicht überschritten.“
+
+Vermittlungsbudget (§ 44 SGB III)
+
+
+
+Chunk #15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nächst steht eine Teilhabe am Beschäftigungspro- zess im Vordergrund. Die Förderhöchstdauer von Arbeitsgelegenheiten von 24 Mo- naten innerhalb der 5-jährigen Rahmenfrist wird mit dem Zuweisungszeitraum von 6 Monaten ab ... nicht erreicht bzw. nicht überschritten.“
+
+Vermittlungsbudget (§ 44 SGB III)
+
+„Im Rahmen der EGV vom X wurde eine Forcierung der Eigenbemühungen durch ak- tive Arbeitgeberansprache gegen Bewerbungskostenerstattung vereinbart. Herr/Frau ... hat in den vergangen zwei Monaten insgesamt 8 formvollendete schriftliche Be- werbungen bei verschiedenen Unternehmen im TPB platziert. Ein Nachweis wurde erbracht. Im Rahmen der pauschalen Bewerbungskostenerstattung sind diese Be- werbungen mit jeweils 5,- Euro aus dem Vermittlungsbudget nach § 44 SGB III zu erstatten. Es ergibt sich ein Erstattungsbetrag von 40,- Euro, der Förderhöchstbetrag wird im Kalenderjahr nicht erreicht.“
+
+
+
+Chunk #16
+------------------------------------------------------------------------------------------------------------------------------------------------------
+. Ein Nachweis wurde erbracht. Im Rahmen der pauschalen Bewerbungskostenerstattung sind diese Be- werbungen mit jeweils 5,- Euro aus dem Vermittlungsbudget nach § 44 SGB III zu erstatten. Es ergibt sich ein Erstattungsbetrag von 40,- Euro, der Förderhöchstbetrag wird im Kalenderjahr nicht erreicht.“
+
+• „Herrn/Frau ... wurde durch Firma X ein konkretes Arbeitsplatzangebot für die Tätig- keit als X zum X unterbreitet. Eine schriftliche Bestätigung / ein Arbeitsvertrag liegt vor. Aufgrund der Arbeitszeiten (Wechselschicht) ist die Erreichung des Arbeitsortes im abgelegenen Industriegebiet mit dem ÖPNV absolut nicht möglich, Mitfahrgele- genheiten ergeben sich ebenfalls nicht. Aus diesem Grunde ist zur Sicherstellung der Aufnahme der sozialversicherungspflichtigen Beschäftigung die regionale Mobilität durch Erwerb eines kostengünstigen PKW herzustellen. Aufgrund der Dauer der Ar- beitslosigkeit sind Eigenmittel nur beschränkt vorhanden. Daher ist die Gewährung eines Zuschusses auf Grundlage des § 44 SGB III zum Erwerb eines PKW i.H.v. 1800,- Euro unter Berücksichtigung einer möglichen Eigenbeteiligung von 700,- Euro notwendig. Es wird vereinbart, dass kurzfristig 3 Vergleichsangebote von KFZ- Betrieben eingeholt werden.“
+
+Förderung der beruflichen Weiterbildung (§§ 81 ff. SGB III)
+
+
+
+Chunk #17
+------------------------------------------------------------------------------------------------------------------------------------------------------
+lage des § 44 SGB III zum Erwerb eines PKW i.H.v. 1800,- Euro unter Berücksichtigung einer möglichen Eigenbeteiligung von 700,- Euro notwendig. Es wird vereinbart, dass kurzfristig 3 Vergleichsangebote von KFZ- Betrieben eingeholt werden.“
+
+Förderung der beruflichen Weiterbildung (§§ 81 ff. SGB III)
+
+„Sämtliche Integrationsbemühungen im Ausbildungsberuf des/der X blieben bislang erfolglos. Aus den Rückspiegelungen der Arbeitgeber wird deutlich, dass die berufli- chen Kenntnisse und Fertigkeiten aufgrund der Dauer der Arbeitslosigkeit nicht mehr den aktuellen Anforderungen im Berufsbild entsprechen. Es zeigt sich, dass insbe- sondere im Bereich der/des ... aus arbeitsmarktlicher Sicht eine Anpassung der Qua- lifikationen erfolgen muss. Daher wird die Teilnahme an einer beruflichen Weiterbil- dungsmaßnahme mit den berufsfachlichen Qualifikationsmodulen X, X für die Dauer von X Monaten vereinbart. Der Qualifizierungsbedarf wird im Rahmen eines Bil- dungsgutscheins bestätigt. Die Rahmenbedingungen wurden erläutert.“
+
+
+
+Chunk #18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+en erfolgen muss. Daher wird die Teilnahme an einer beruflichen Weiterbil- dungsmaßnahme mit den berufsfachlichen Qualifikationsmodulen X, X für die Dauer von X Monaten vereinbart. Der Qualifizierungsbedarf wird im Rahmen eines Bil- dungsgutscheins bestätigt. Die Rahmenbedingungen wurden erläutert.“
+
+• „Herr/Frau ... verfügt über keinerlei beruflichen Abschluss“. Aus arbeitsmarktlicher Sicht ist die Erlangung eines Berufsabschlusses zur dauerhaften Arbeitsmarktintegra- tion notwendig. Aufgrund der Persönlichkeitsmerkmale, den bisherigen Tätigkeiten auf Helferebene als X sowie Berücksichtigung der weiteren Eignungsmerkmale, u.a. auch der gesundheitlichen Aspekte, wird daher der Zugang zur beruflichen Umschu- lung unter Berücksichtigung der maximal möglichen Förderdauer als X vereinbart. Der Qualifizierungsbedarf wird in einem Bildungsgutschein festgehalten. Die persön- lichen Förderungsvoraussetzungen des § 81 SGB III, insbesondere die Erfüllung ei- ner 3-jährigen beruflichen Tätigkeit sind erfüllt.“

@@ -1,0 +1,95 @@
+======================================================================================================================================================
+file:			D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_200_-_berufliche_rehabilitation.pdf
+chunk_size:		1500
+chunk_overlap:	350
+separators:		['\n{2,}', '(?<=[.?!])\\s*\n|\n\\s*', '[.!?]']
+n_chunks:		3
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 20  
+                                                                                                                                                  -Reha - 
+ Hinweise und Handlungsempfehlungen  
+ des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II)  
+zur Bewilligung / Gestaltung von  
+Maßnahmen zur Förderung der Teilhabe am Arbeitleben (berufliche Rehabilitation)  
+ 
+ 
+ 
+ 
+Allgemeines  
+ 
+Der HSK ist im Bereich  der Wiedereingliederung für alle Hilf eempfänger Leistungs -Träger, 
+bei denen die Agentur für Arbeit Reha -Träger nach dem SGB IX ist und die unmittelbar vor 
+dem Maßnahmebeginn Leistungen nach dem SGB II beziehen. Eine Ausnahme bilden hier 
+die Aufstocker gem . § 18a SGB II, da sie Anspruch auf Förderung von Pflichtleistungen nach 
+dem SGB III durch die Agentur für Arbeit haben. Die Reha -Leistungen zielen darauf ab, die 
+Hilfeempfänger trotz ihrer Behind erung in das Erwerbsleben einzugliedern. Als Leistungen 
+komm en grundsätzlich alle Qualifizi erungsmaßnahmen dieser arbeitsmarktlichen 
+Rahmenkonzeption i nfrage. Darüber hinaus können besondere Maßnahmen nach dem SGB 
+III gefördert werden wie die Qualifizierung oder Umschulung in besonderen Einrichtungen für 
+Rehabilita nden (Berufsförderungswerke, etc.)  
+ 
+ 
+Verfahrensregelung  
+ 
+Da der Hochsauerlandkreis kein Reha -Träger nach dem SGB IX ist, erfolgt die Reha -
+Antragstellung in der Regel bei der Agentur für Arbeit. Die Agentur für Arbeit leitet ggfs. den
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+III gefördert werden wie die Qualifizierung oder Umschulung in besonderen Einrichtungen für 
+Rehabilita nden (Berufsförderungswerke, etc.)  
+ 
+ 
+Verfahrensregelung  
+ 
+Da der Hochsauerlandkreis kein Reha -Träger nach dem SGB IX ist, erfolgt die Reha -
+Antragstellung in der Regel bei der Agentur für Arbeit. Die Agentur für Arbeit leitet ggfs. den 
+Reha -Antrag weiter, so llte ein andere Reha -Träger (Deutsche Rentenversicherung/ 
+Unfallversicherung, etc.) zuständig sein.   
+ 
+Falls das Fallmanagement einen Reha -Bedarf bei SGB II -Beziehern erkennt, sind die 
+Unterlagen (med. Gutachten, Atteste und Beratungsvermerke) mit der Schwe igepflicht -
+entbindung („Schweigepflichtentbindung_Rehaprüfung_AA“) an den HSK zu leiten.  Hier wird 
+geprüft ob eine Reha fall vorliegen könnte und ggfs. die Unterlagen an die Agentur für Arbeit 
+zwecks Reha -Antragstellung weiter geleitet.  
+ 
+Sollte der Hochsaue rlandkreis Leistungs -Träger im Bereich der Wiedereingliederung sein, 
+erhält er von der Agentur für Arbeit einen Eingliederungsvorschlag für den betreffenden 
+Rehabilitanden. Der Hochsauerlandkreis hat dann drei Wochen Zeit dem Vorschlag 
+zuzustimmen bzw. abz ulehnen. Die Bewilligung und Auszahlung der Leistungen erfolgt 
+zentral im FD 42 des Hochsauerlandkreises.  
+ 
+Zahlbarmachung  
+ 
+Die Zahlbarmachung aller Reha -Leistungen erfolgt durch den HSK über eine 
+personenbezogen Buchung in „FMG2 “. Dabei sind folgende Hilfe artenschlüssel  zu 
+verwenden:
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+zuzustimmen bzw. abz ulehnen. Die Bewilligung und Auszahlung der Leistungen erfolgt 
+zentral im FD 42 des Hochsauerlandkreises.  
+ 
+Zahlbarmachung  
+ 
+Die Zahlbarmachung aller Reha -Leistungen erfolgt durch den HSK über eine 
+personenbezogen Buchung in „FMG2 “. Dabei sind folgende Hilfe artenschlüssel  zu 
+verwenden:  
+ 
+ - Reha -Pflichtmaßnahmen  (Lehrgangskosten) :   HAS 20156  
+ - Reha -Pflichtmaßnahmen (Fahrt kosten) :    HAS 20157  
+ - Reha -Ermessensmaßnahmen  (Lehrgangskosten) :  HAS 20158  
+ - Reha -Ermessensmaßnahmen (Fahrt kosten) :   HAS 20159  
+ 
+ 
+ 
+ (Stand: 30.06.2019 )

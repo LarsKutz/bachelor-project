@@ -1,0 +1,204 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_150_-_freie_foerderung.pdf
+chunk_size:			2000
+loading_strategy:	hi_res
+chunking_strategy:	By_Title
+mode:				Naive
+n_chunks:			11
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anlage 15 - Freie Förderung-
+
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung von Leistungen zur „Freien Förderung“ gem. § 16f Sozialgesetzbuch Zweites Buch (SGB II)
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Allgemeines
+
+Mit dem Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt sind den Verantwortlichen vor Ort noch flexiblere Handlungsmöglichkeiten für die individuelle Unterstützung von erwerbsfähigen Leistungsberechtigten bei deren Eingliederung in Arbeit eröffnet worden. Mit der Stärkung der dezentralen Entscheidungskompetenz geht eine im Rahmen der Ausübung des Ermessens als auch der erhöhte Verantwortung Falldokumentation einher.
+
+Durch die Regelungen des § 16f SGB II können dem Grunde nach die gesetzlich geregelten freie Leistungen zur Eingliederungsleistungen, die sog. Basisinstrumente durch Eingliederung in Arbeit erweitert werden. Allerdings stellt die Wahrnehmung der Fördermöglichkeit des § 16f SGB II die Träger der Grundsicherung vor hohe Heraus- forderungen. Besondere Bedeutung kommt in diesem Zusammenhang dem in § 16f (2) S. 3 SGB II formulierten Aufstockungs- und Umgehungsverbot zu. Weil Inhalt und Reichweite der freien Eingliederungsleistungen weitgehend frei definiert werden können, müssen die Grenzen des vorrangigen Rechts und die Bezüge zu anderen Leistungssystemen intensiv geprüft und mit der Förderentscheidung dokumentiert werden. Im Hinblick auf die zu berücksichtigenden Fördergrenzen und die damit verbundene Notwendigkeit der Abgrenzung insbesondere zu den Basisinstrumenten ist bei der Konzeption einer „Freien Förderung“ der Überblick über das gesamte gesetzlich geregelte Leistungsspektrum erforderlich. Dabei sind vier Ebenen der Abgrenzung von Bedeutung:
+
+Zuständigkeit der Länder und Kommunen (z.B. kulturelle Angebote, allgemeine schulische Bildung, kommunale Eingliederungsleistungen)
+
+Zuständigkeit anderer Sozialleistungsträger (z.B. Arbeitslosen-, Kranken- oder Rentenversicherung, Kinder- und Jugendhilfe)
+
+Abgrenzung zu den Basisinstrumenten (z.B. Vorrang der Fördermöglichkeiten aus dem Vermittlungsbudget nach § 44 SGB III bzw. Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 SGB III)
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Abgrenzung zu höherrangigen und zwingenden Rechts (z.B. EU-Recht) bzw. dessen Einhaltung
+
+Daneben 44 Bundeshaushaltsordnung (BHO) und die einschlägigen Verwaltungsvorschriften der BHO (VV-BHO) zu beachten. Aus Sicht des Hochsauerlandkreises wird die starke ordnungspolitische Ausrichtung in der Abgrenzungsfrage bei der Umsetzung des § 16f SGB II als besonders problematisch eingeschätzt. Eine Leistung nach dem SGB II, insbesondere nach § 16f SGB II, soll bereits dann nicht gewährt werden können, wenn ein anderer Leistungsträger dem Grunde nach für eine entsprechende Aufgabe, unabhängig der tatsächlichen Leistungserbringung, zuständig ist. Ebenso dürfen spezifische Regelungen zu Fördervoraussetzungen, Zielgruppen, Förderhöhe/-dauer einzelner Basisinstrumente nicht durch gleichgelagerte Leistungen der freien Förderung unterlaufen werden. Eine Änderung des gesetzlich vorgesehenen Beschaffungsweges eines Basisinstrumentes ist ebenfalls nicht zulässig. Angesichts der aufgezeigten Grenzen sowie der systembedingten bestehenden Rechtsunsicherheiten und dem damit verbundenen Rückforderungsrisiko für
+
+Anlage 15 - Freie Förderung-
+
+zugelassene kommunale Träger (Optionskommunen) wird von Projektförderungen im Rahmen des § 16f SGB II vollständig abgesehen. Stattdessen wird sich die Freie Förderung in der Umsetzung im Jobcenter Hochsauerlandkreis auf spezielle Einzelfallförderungen begrenzen.
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 16f SGB II Freie Förderung
+
+(1) Die Agentur für Arbeit kann die Möglichkeiten der gesetzlich geregelten Eingliederungsleistungen durch freie Leistungen zur Eingliederung in Arbeit erweitern. Die freien Leistungen müssen den Zielen und Grundsätzen dieses Buches entsprechen.
+
+(2) Die Ziele der Leistungen sind vor Förderbeginn zu beschreiben. Eine Kombination oder Modularisierung von Inhalten ist zulässig. Die Leistungen der freien Förderung dürfen gesetzliche Leistungen nicht umgehen oder aufstocken. Ausgenommen hiervon sind Leistungen für
+
+1. Langzeitarbeitslose und 2. erwerbsfähige Leistungsberechtigte, die das 25. Lebensjahr noch nicht vollendet haben schwerwiegenden
+
+und Vermittlungshemmnissen besonders erschwert ist, deren berufliche Eingliederung auf Grund von
+
+bei denen in angemessener Zeit von in der Regel sechs Monaten nicht mit Aussicht auf Erfolg auf einzelne Gesetzesgrundlagen dieses Buches oder des Dritten Buches zurückgegriffen werden kann. Bei Leistungen an Arbeitgeber ist darauf zu achten, Wettbewerbsverfälschungen zu vermeiden. Projektförderungen im Sinne von Zuwendungen sind nach Maßgabe der §§ 23 und 44 der Bundeshaushaltsordnung zulässig. Bei längerfristig angelegten Förderungen ist der Erfolg regelmäßig zu überprüfen und zu dokumentieren.
+
+Auszug § 16g Abs. 2 SGB II Förderung bei Wegfall der Hilfebedürftigkeit
+
+… (2) zur nachhaltigen Eingliederung in Arbeit können Leistungen nach dem Ersten Abschnitt des Dritten Kapitels, nach § 44 oder 45 Absatz 1 Satz 1 Nummer 5 des Dritten Buches oder nach § 16a oder 16f bis zu sechs Monate nach Beschäftigungsaufnahme auch erbracht werden, wenn die Hilfebedürftigkeit der oder des Erwerbsfähigen aufgrund des zu berücksichtigenden Einkommens entfallen ist. Während der Förderdauer nach Satz 1 gilt § 15 entsprechend. …
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Gestaltungsmöglichkeiten
+
+Die „flexiblen“ Möglichkeiten der freien Förderung auszuschöpfen, kann grundsätzlich auf zwei Arten erfolgen:
+
+Es können freie Eingliederungsleistungen entwickelt werden, die auf eine andere Weise der Aktivierung, Stabilisierung, beruflichen Eingliederung oder Betreuung dienen (sogenannte „Andere Leistungen nach § 16f Abs. 1 SGB II)
+
+Für die Personengruppen des § 16f Abs. 2 S.4 (Langzeitarbeitslose und eLb U 25 mit können darüber hinaus auch schwerwiegenden Vermittlungshemmnissen) Basisinstrumente modifiziert werden (sogenannte „Modifizierte Leistungen nach § 16f Abs. 2 SGB II)
+
+Anlage 15 - Freie Förderung-
+
+Eine freie Förderung ist denkbar, wenn
+
+in der gleichen Weise mit einem unveränderten Basisinstrument oder der bloßen Kombination von unveränderten Basisinstrumenten gefördert werden können. Das heißt: Kann der identifizierte Förderbedarf mit einem unveränderten Basisinstrument, des Vermittlungsbudgets (§44 SGB III) oder den Maßnahmen zur Aktivierung und beruflichen Eingliederung (§45 SGB III) gedeckt werden, ist ein Rückgriff auf die Freie Förderung nicht möglich.
+
+Diese Leistungen nicht in der Zuständigkeit eines Dritten liegen. Das heißt: Gibt es für die Leistungserbringung eine andere gesetzlich geregelte Zuständigkeit von Bundesländern, Kommunen oder anderen Sozialleistungsträgern, ist die Freie Förderung ausgeschlossen. Dies betrifft z.B. kommunale Eingliederungsleistungen nach oder Berufsorientierungsmaßnahmen nach dem SGB III, die Sprachförderung des BAMF, Leistungen der Kinder- und Jugendhilfe nach dem SGB VIII oder der Kranken- und Leistungs-/ auskömmlicher Rentenversicherung. Die Förderpauschalen ist in diesem Zusammenhang ebenso nicht möglich.
+
+die Grenzen höherrangigen und zwingenden Rechts (z.B. EU-Recht) eingehalten werden.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anforderungen
+
+II sind geben, wenn Aktivierungs-, Andere Leistungen nach § 16f Abs. 1 SGB Stabilisierungs- oder Betreuungs- sowie Eingliederungsstrategien genutzt werden, die über die Basisinstrumente hinausgehen, um eine besondere Qualität der Leistung zu generieren, die sich positiv auf die Aktivierung und den angestrebten Eingliederungserfolg auswirken soll. Dabei können auch Elemente verschiedener Basisinstrumente einfließen.
+
+Diese besondere Qualität und die besonderen Wirkungserwartungen müssen in einem Konzept begründet und die Wirkung im Förderverlauf beschrieben werden.
+
+Eine Aufstockung / Umgehung der im SGB II / SGB III geregelten Eingliederungsleistung ist ausgeschlossen. zu dürfen Förderungsvoraussetzungen, einzelner Basisinstrumente nicht durch gleichgerichtete „Andere Leistungen“ unterlaufen werden. Eine Änderung des gesetzlich vorgesehenen Beschaffungsweges eines Basisinstrumentes ist ebenfalls nicht zulässig.
+
+Bei der Erbringung „Modifizierter Leistungen“ ist Voraussetzung, dass eine individuelle Prognoseentscheidung zum Ergebnis kommt, dass ein Eingliederungserfolg mit den Basisinstrumenten nach angemessener Zeit (i.d.R. 6 Monate) nicht erreicht werden kann, bzw. eine Beendigung oder Verringerung der Hilfebedürftigkeit durch Eingliederung in Arbeit nicht zu erwarten ist. In diesem Zusammenhang stellt die Kombination unveränderter Basisinstrumente keine „Modifizierte Leistung“ dar.
+
+Wie bereits unter dem Gliederungspunkt „Allgemeines“ dargestellt, ist die Erbringung von Leistungen der Freien Förderung an sehr enge Voraussetzungen geknüpft. Ein restriktionsfreier Auslegungsspielraum ist nicht gegeben. Daher beschränkt sich die Erbringung von Leistungen der Freien Förderung im Jobcenter Hochsauerlandkreis in Abstimmung mit dem Begleitgremium des Arbeitsmarktpolitischen Beirates auf Einzelfallförderungen, von Projektgestaltungen wird abgesehen.
+
+Anlage 15 - Freie Förderung-
+
+Fördervoraussetzungen
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Förderungsfähiger Personenkreis
+
+Grundsätzlich stehen die Leistungen der Freien Förderung allen erwerbsfähigen Leistungsberechtigten (§§ 7 ff. SGB II) nach dem SGB II zur Verfügung. Ausgenommen sind Personen, die neben den Leistungen zur Sicherung des Lebensunterhalts auch Arbeitslosengeld I-Aufstocker). Eingliederungsleistungen werden für diese Personengruppe ausschließlich durch die Agenturen für Arbeit erbracht. Rechtlich möglich ist der Einsatz der Freien Förderung ebenso sind (Erwerbsaufstocker). Da diese bereits in den Arbeitsmarkt integriert sind, ist in jedem Einzelfall zu prüfen, ob der Einsatz der Freien Förderung sinnvoll und bezogen auf die Verringerung oder Beendigung der Hilfebedürftigkeit zielführend, sparsam und wirtschaftlich ist.
+
+Leistungen der Freien Förderung können nach § 16g Abs. 2 SGB II zur nachhaltigen Eingliederung in Arbeit bis zu sechs Monate nach Beschäftigungsaufnahme erbracht werden, auch wenn die Hilfebedürftigkeit aufgrund des zu berücksichtigenden Einkommens entfallen ist.
+
+Mit Inkrafttreten des Teilhabestärkungsgesetz können Leistungen der Freien Förderung ab dem 01.01.2022 auch an Rehabilitandinnen und Rehabilitanden erbracht werden.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Ziele und Grundsätze
+
+Leistungen der Freien Förderung müssen den Zielen und Grundsätzen des SGB II entsprechen. Hierzu gehören, dass die freien Leistungen auf die Überwindung, Verringerung oder Vermeidung von Hilfebedürftigkeit durch Eingliederung in Arbeit ausgerichtet sein müssen und dem Grundsatz von Fordern und Fördern entsprechen. Die Zahlung von Motivationsprämien für die Teilnahme an einer Maßnahme ist beispielsweise ausgeschlossen. Darüber hinaus ist § 16f SGB II hinsichtlich seiner Rechtssystematik den Eingliederungsleistungen zuzuordnen. Die Gewährung von Leistungen zur Sicherung des Lebensunterhalts (z.B. Übergangshilfen bis zur ersten Gehaltszahlung) einschließlich Leistungen für Unterkunft und Heizung (z.B. Mietkaution) aus Eingliederungsmitteln ist daher ausgeschlossen.
+
+Leistungen können nur erbracht werden, wenn sie für die Eingliederung des betreffenden erwerbsfähigen Hilfebedürftigen in sozialversicherungspflichtige Arbeit erforderlich sind und die Umstände des konkreten Einzelfalles berücksichtigen (§§ 3 (1) und 14 SGB II).
+
+Verhältnis zu anderen Leistungen
+
+Wie bereits im 2. Absatz dargestellt, dürfen Leistungen der Freien Förderung nicht erbracht werden, wenn die Förderung dem Grunde nach von anderen Leistungsträgern zu finanzieren ist bzw. für die ein anderer Leistungsträger oder die Länder zuständig sind. Dies bedeutet, dass z.B. auch im Rahmen der freien Förderung eine Förderung von kommunalen Leistungen (z.B. § 16a SGB II), von berufsvorbereitenden Bildungs- maßnahmen, von Maßnahmen der gesundheitsbezogenen Prävention oder von Integrationskursen unzulässig ist.
+
+[|
+
+Personen- kreis pflicht
+
+Anlage 15 - Freie Förderung-
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Konkrete Einzelfall-Förderhilfen im Rahmen der Freien Förderung
+
+Die Umsetzung des Förderungsinstrumentes der Freien Förderung beschränkt sich im Jobcenter Hochsauerlandkreis auf notwendige Einzelfallentscheidungen unter Beachtung der engen Förderungsvoraussetzungen.
+
+Denkbar wären beispielsweise folgende Förderkonstellationen /-anlässe:
+
+Förderung der Anschaffung eines KFZ / Förderung eines Führerscheines für einen eLb, der den Status eines Langzeitarbeitslosen (§ 18 SGB III) erfüllt, dessen Arbeitsaufnahme im Rahmen eines Arbeitsverhältnisses auf Grundlage der Vorschrift des. § 16e SGB II –Eingliederung von Langzeitarbeitslosen- begründet ist und die Erreichbarkeit des Arbeitsplatzes ansonsten nicht möglich ist, soweit ein besonderes arbeitsmarktliches Interesse an der Beschäftigungsaufnahme besteht.
+
+Förderung der Reparatur / Ersatzbeschaffung eines KFZ zur Sicherung eines bestehenden Arbeitsverhältnisses bei zwingend vorliegendem aufstockenden SGB II- Leistungsbezug (sog. Erwerbs-Aufstocker) und fehlender alternativer Erreichbarkeit des Arbeitsplatzes (Vorrang § 16g Abs. 2 SGB II i.V.m. § 44 SGB II – Leistungen aus dem Vermittlungsbudget beachten).
+
+Negativ-Abrenzung; folgende Förderkonstellationen/-anlässe sind ausgeschlossen:
+
+Förderung von Nachhilfe für Schüler (Zuständigkeit der Länder ist hier gegeben bzw. Bildung und Teilhabe)
+
+Förderung der „Berufsorientierung“ für Eltern mit Migrationshintergrund (Bezug zum erwerbsfähigen Hilfebedürftigen für dessen Eingliederung fehlt)
+
+Förderung von Schülerpraktika (Förderauschluss wg. Zuständigkeit der Länder bzw. genereller Leistungsausschluss nach § 16f SGB II)
+
+Förderung zur Eingliederung eines erwerbsfähigen Hilfebedürftigen im außer- europäischen Ausland
+
+Gewährung von „Motivationsprämien“ für die Mitwirkung an seiner Eingliederung in Arbeit
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Art und Umfang der Leistung
+
+Leistungen der Freien Förderung können als Zuschuss, als Darlehen oder als Kombination beider gewährt werden. Ebenso ist eine Pauschalierung unter Zugrundelegung einer genauen Kalkulation zulässig.
+
+Die Gewährung in Darlehensform entbindet nicht von der Prüfung der Notwendigkeit und Angemessenheit, der Verhältnismäßigkeit und der Dauer der Förderung und darf nicht als „erzieherische Maßnahme“ gegenüber dem erwerbsfähigen Hilfebedürftigen eingesetzt werden. Eine Förderdauer ist gesetzlich nicht vorgegeben. Sie richtet sich insbesondere nach dem Zweck und den Erfordernissen im konkreten Einzelfall.
+
+Adressat der Freien Förderung ist immer der erwerbsfähige Hilfebedürftige. Dies bedeutet jedoch nicht, dass die Leistung unmittelbar an ihn erbracht werden muss. Vielmehr können die Leistungen auch mittelbar dem erwerbsfähigen Hilfebedürftigen zugutekommen, indem sie an Dritte erbracht werden (ggf. Abtretungserklärung notwendig). Die Leistungsgewährung erfolgt aufgrund ihres Charakters über ein Antrags- und Bewilligungsverfahren (§ 37 SGB II).
+
+Förderkon- stellationen
+
+Negativ- Beispiele
+
+Anlage 15 - Freie Förderung-
+
+Verfahrensregelungen
+
+Die Freie Förderung nach dem SGB II stellt eine Ermessensleistung dar. Die Ermessensentscheidung ist im Hinblick auf die rechtlichen Förderungsvoraussetzungen und die Erforderlichkeit der Leistungen nachvollziehbar zu begründen und zu dokumentieren (Vermerk in FMG2 / Aktenvorgang). Die Ziele der Förderung sind vor Förderbeginn zu beschreiben und ebenfalls zu dokumentieren (§ 16f (2) S. 1 SGB II). Insbesondere ist eine Abgrenzung zu den Regel-/Basisinstrumenten zu dokumentieren.
+
+Die der Leistungsgewährung (Antrag, Förderentscheidung, Bewilligung/Ablehnung, zahlungsbegründende Unterlagen) sind im aktiven Bereich in DOXiS abzulegen.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Zahlbarmachung / technische Umsetzung
+
+Die EDV-technische/statistische Darstellung im Programm FMG2 der Gewährung von Leistungen der Freien Förderung erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung „Freie Förderung“ im Projekt „400 Maßnahmen“. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Nach der Zuweisung sind ggf. über den BaEL-Assistenten (abhängig von Fördergestaltung und Einfluss auf Asu-/Alo-Status) bestehende Alo-Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund ist im Einzelfall anzupassen.
+
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Förderung entstehenden Zahlungsverpflichtungen sind entsprechend der Ausgestaltung (Einmalzahlung / laufende Zahlungen) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20521 mit dem Status „geplant“ zu hinterlegen. Bei Aufhebung der Förderzusage sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren.
+
+Verfügbare Vordrucke in FMG2: 15 Antrag Freie Förderung 15 Entscheidung Freie Förderung (Bewilligungsverfügung) 15 Bewilligung Freie Förderung
+
+(Stand: 01.01.2022)
+
+umfassende Dokumen- tationspflicht

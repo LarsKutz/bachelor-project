@@ -1,0 +1,472 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_050_-_vermittlungsgutschein_priv_arbeitsverm.pdf
+chunk_size:			1000
+loading_strategy:	hi_res
+chunking_strategy:	By_Title
+mode:				Naive
+n_chunks:			40
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+VGS-
+
+Anlage 5
+
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Bewilligung von vermittlungsunterstützenden Leistungen für Maßnahmen zur Aktivierung und beruflichen Eingliederung (MAbE) gem. § 16 (1) S. 2 Nr. 2 SGB II i.V.m. § 45 (1) S. 1 Nr. 3 SGB III
+
+- Maßnahmen bei einer privaten Arbeitsvermittlung -
+
+Allgemeines
+
+Förderintention des § 45 SGB III ist die Verbesserung der Eingliederungsaussichten in den Arbeitsmarkt von Menschen, die arbeitslos sind, von Arbeitslosigkeit bedroht sind oder die eine Ausbildungsstelle suchen. In der Umsetzung von Maßnahmen der Aktivierung und inhaltliche Vorgaben verzichtet, beruflichen Eingliederung hat der Gesetzgeber auf stattdessen wurden die Maßnahmeziele in den Vordergrund gestellt, um so auf den individuellen Bedarf ausgerichtete Unterstützungsangebote unterbreiten zu können.
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Mit dem Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt ist der bisherige Vermittlungsgutschein für Arbeitsuchende (§ 421g SGB III) in dem neuen Aktivierungs- und Vermittlungsgutschein (AVGS-priv.AV) aufgegangen. Neben den bisher aus § 46 SGB III bekannten Möglichkeiten, Träger mit der Durchführung von Maßnahmen zur Aktivierung und beruflichen Eingliederung (MAbE) zu beauftragen oder Maßnahmen (Praktika) bei einem Arbeitgeber zu fördern, eröffnet § 45 (1) S. 1 Nr. 3 SGB III nunmehr die Möglichkeit erwerbsfähigen Leistungsberechtigten für die Teilnahme an einer MAbE einen Aktivierungs- und Vermittlungsgutschein auszustellen. Dieser kann auch für die Einschaltung einer privaten Arbeitsvermittlung eingesetzt werden, Wartezeiten der Arbeitslosigkeit sind im Rechtskreis des SGB II nicht gefordert und hängen im Rechtskreis des SGB III ausschließlich mit der Begründung eines Rechtsanspruches auf Ausstellung eines AVGS- priv.AV (§ 45 Abs. 7) zusammen.
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Mit Aushändigung des AVGS-priv.AV verpflichtet sich der Träger der Grundsicherung für (Jobcenter) den Vergütungsanspruch eines vom Arbeitsuchenden Arbeitsuchende eingeschalteten privaten Vermittlers, der den in eine sozialversicherungspflichtige Beschäftigung mit einer Arbeitszeit von mind. 15 Stunden wöchentlich vermittelt hat, nach Maßgabe der folgenden Bestimmungen zu erfüllen. Die Ausstellung des AVGS-priv.AV ist nach § 16 (1) SGB II eine „Ermessensentscheidung“ und als Vermittlungsunterstützung zu betrachten, ein Rechtsanspruch wird im § 45 Abs. 7 S.1 SGB III bei Erfüllung der Förderungsvoraussetzungen für den Personenkreis des SGB III definiert.
+
+Gesetzliche Grundlage
+
+§ 45 SGB III
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Maßnahmen zur Aktivierung und beruflichen Eingliederung
+
+(1) Ausbildungsuchende, von Arbeitslosigkeit bedrohte Arbeitsuchende und Arbeitslose können bei Teilnahme an Maßnahmen gefördert werden, die ihre berufliche Eingliederung durch
+
+1. Heranführung an den Ausbildungs- und Arbeitsmarkt sowie Feststellung, Verringerung oder Beseitigung von Vermittlungshemmnissen,
+
+2. (weggefallen) 3. Vermittlung in eine versicherungspflichtige Beschäftigung,
+
+Aktivierungs- u. Vermittlungs- gutschein
+
+Entfall Wartezeit- regelung
+
+Gesetzes- text
+
+VGS-
+
+Anlage 5
+
+4. Heranführung an eine selbständige Tätigkeit oder 5. Stabilisierung einer Beschäftigungsaufnahme
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+unterstützen (Maßnahmen zur Aktivierung und beruflichen Eingliederung). Für die Aktivierung von Arbeitslosen, deren berufliche Eingliederung auf Grund von schwerwiegenden Vermittlungshemmnissen, insbesondere auf Grund der Dauer ihrer Arbeitslosigkeit, besonders erschwert ist, sollen Maßnahmen gefördert werden, die nach inhaltlicher Ausgestaltung und Dauer den erhöhten Stabilisierungs- und Unterstützungsbe- darf der Arbeitslosen berücksichtigen. Versicherungspflichtige Beschäftigungen mit einer Arbeitszeit von mindestens 15 Stunden wöchentlich in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Euro- päischen Wirtschaftsraum sind den versicherungspflichtigen Beschäftigungen nach Satz 1 Nummer 3 gleichgestellt. Die Förderung umfasst die Übernahme der angemessenen Kosten für die Teilnahme, soweit dies für die berufliche Eingliederung notwendig ist. Die Förderung kann auf die Weiterleistung von Arbeitslosengeld beschränkt werden.
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) Die Dauer der Einzel- oder Gruppenmaßnahmen muss deren Zweck und Inhalt entsprechen. Soweit Maßnahmen oder Teile von Maßnahmen nach Absatz 1 bei oder von einem Arbeitgeber durchgeführt werden, dürfen diese jeweils die Dauer von sechs Wochen nicht überschreiten. Die Vermittlung von beruflichen Kenntnissen in Maßnahmen zur Aktivierung und beruflichen Eingliederung darf die Dauer von acht Wochen nicht überschreiten. Maßnahmen des Dritten Abschnitts sind ausgeschlossen.
+
+(3) Die Agentur für Arbeit kann unter Anwendung des Vergaberechts Träger mit der Durchführung von Maßnahmen nach Absatz 1 beauftragen.
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+für Arbeit kann der oder dem Berechtigten das Vorliegen der (4) Die Agentur Voraussetzungen für eine Förderung nach Absatz 1 bescheinigen und Maßnahmeziel und - inhalt festlegen (Aktivierungs- und Vermittlungsgutschein). Der Aktivierungs- und Vermitt- lungsgutschein kann zeitlich befristet sowie regional beschränkt werden. Der Aktivierungs- und Vermittlungsgutschein berechtigt zur Auswahl
+
+1. eines Trägers, der eine dem Maßnahmeziel und -inhalt entsprechende und nach § 179 zugelassene Maßnahme anbietet, 2. eines Trägers, der eine ausschließlich erfolgsbezogen vergütete Arbeitsvermittlung in versicherungspflichtige Beschäftigung anbietet, oder 3. eines Arbeitgebers, der eine dem Maßnahmeziel und -inhalt entsprechende betriebliche Maßnahme von einer Dauer bis zu sechs Wochen anbietet.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Der ausgewählte Träger nach Satz 3 Nummer 1 und der ausgewählte Arbeitgeber nach Satz 3 Nummer 3 haben der Agentur für Arbeit den Aktivierungs- und Vermittlungsgutschein vor Beginn der Maßnahme vorzulegen. Der ausgewählte Träger nach Satz 3 Nummer 2 hat der Agentur für Arbeit den Aktivierungs- und Vermittlungsgutschein nach erstmaligem Vorliegen der Auszahlungsvoraussetzungen vorzulegen.
+
+(5) Die Agentur für Arbeit soll die Entscheidung über die Ausgabe eines Aktivierungs- und Vermittlungsgutscheins nach Absatz 4 von der Eignung und den persönlichen Verhältnissen der Förderberechtigten oder der örtlichen Verfügbarkeit von Arbeitsmarktdienstleistungen abhängig machen.
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(6) Die Vergütung richtet sich nach Art und Umfang der Maßnahme und kann aufwands- oder erfolgsbezogen gestaltet sein; eine Pauschalierung ist zulässig. § 83 Absatz 2 gilt entsprechend. Bei einer erfolgreichen Arbeitsvermittlung in versicherungspflichtige Be- schäftigung durch einen Träger nach Absatz 4 Satz 3 Nummer 2 beträgt die Vergütung 2 000 Euro. Bei Langzeitarbeitslosen und behinderten Menschen nach § 2 Absatz 1 des Neunten Buches kann die Vergütung auf eine Höhe von bis zu 2 500 Euro festgelegt werden. Die Vergütung nach den Sätzen 3 und 4 wird in Höhe von 1 000 Euro nach einer sechswöchigen und der Restbetrag nach einer sechsmonatigen Dauer des Beschäftigungsverhältnisses gezahlt. Eine erfolgsbezogene Vergütung für die Arbeitsvermittlung in versicherungspflichtige Beschäftigung ist ausgeschlossen, wenn das Beschäftigungsverhältnis
+
+VGS-
+
+Anlage 5
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. von vornherein auf eine Dauer von weniger als drei Monaten begrenzt ist oder 2. bei einem früheren Arbeitgeber begründet wird, bei dem die Arbeitnehmerin oder der Arbeitnehmer während der letzten vier Jahre vor Aufnahme der Beschäftigung mehr als drei Monate lang versicherungspflichtig beschäftigt war; dies gilt nicht, wenn es sich um die befristete Beschäftigung besonders betroffener schwerbehinderter Menschen handelt.
+
+(7) Arbeitslose, die Anspruch auf Arbeitslosengeld haben, dessen Dauer nicht allein auf § 147 Absatz 3 beruht, und nach einer Arbeitslosigkeit von sechs Wochen innerhalb einer Frist von drei Monaten noch nicht vermittelt sind, haben Anspruch auf einen Aktivierungs- und Vermittlungsgutschein nach Absatz 4 Satz 3 Nummer 2. In die Frist werden Zeiten nicht eingerechnet, in denen die oder der Arbeitslose an Maßnahmen zur Aktivierung und beruflichen Eingliederung sowie an Maßnahmen der beruflichen Weiterbildung teilgenommen hat.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(8) Abweichend von Absatz 2 Satz 2 und Absatz 4 Satz 3 Nummer 3 darf bei Langzeitarbeitslosen oder Arbeitslosen, deren berufliche Eingliederung auf Grund von schwerwiegenden Vermittlungshemmnissen besonders erschwert ist, die Teilnahme an Maßnahmen oder Teilen von Maßnahmen, die bei oder von einem Arbeitgeber durchgeführt werden, jeweils die Dauer von zwölf Wochen nicht überschreiten.
+
+(9) Die Absätze 1 bis 8 gelten entsprechend für die in § 39a genannten Personen.
+
+§ 176 SGB III Grundsatz
+
+(1) Träger bedürfen der Zulassung durch eine fachkundige Stelle, um Maßnahmen der Arbeitsförderung selbst durchzuführen oder durchführen zu lassen. ...
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 178 SGB III Trägerzulassung
+
+Ein Träger ist von einer fachkundigen Stelle zuzulassen, wenn
+
+1. er die erforderliche Leistungsfähigkeit und Zuverlässigkeit besitzt, 2. er in der Lage ist, durch eigene Bemühungen die berufliche Eingliederung von
+
+Teilnehmenden in den Arbeitsmarkt zu unterstützen,
+
+3. Leitung, Lehr- und Fachkräfte über Aus- und Fortbildung sowie Berufserfahrung verfügen, die eine erforderliche Durchführung einer Maßnahme erwarten lassen,
+
+4. er ein System zur Sicherung der Qualität anwendet und 5. seine vertraglichen Vereinbarungen mit den Teilnehmenden angemessene
+
+Bedingungen insbesondere über Rücktritts- und Kündigungsrechte enthalten.
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+§ 443 SGB III Gesetz zur Verbesserung der Eingliederungschancen am Arbeitsmarkt (Übergangsregelung bis 31.12.2012)
+
+... (3)Für Träger ist eine Zulassung nach § 176 bis einschließlich 31.12.2012 nicht erforderlich. Dies gilt weder für Träger, die Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 Absatz 4 Satz 3 Nummer 1 durchführen, ... Ein Anspruch auf Vergütung für die Arbeitsvermittlung in eine versicherungspflichtige Beschäftigung nach § 45 Absatz 4 Satz 3 Nummer 2 besteht für bis einschließlich 31. Dezember 2012 erfolgte Vermittlungen nur, wenn der Träger zum Zeitpunkt der Vermittlung die Arbeitsvermittlung als Gegenstand seines Gewerbes angezeigt hat.
+
+Trägerzu- lassung
+
+VGS-
+
+Anlage 5
+
+
+
+Chunk #14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Auszug § 2 SGB IX Behinderung
+
+(1) Menschen sind behindert, wenn ihre körperliche Funktion, geistige Fähigkeit oder seelische Gesundheit mit hoher Wahrscheinlichkeit länger als sechs Monate von dem für das Lebensalter typischen Zustand abweichen und daher ihre Teilhabe am Leben in der Gesellschaft beeinträchtigt ist. Sie sind von Behinderung bedroht, wenn die Beeinträchtigung zu erwarten ist.
+
+Förderfähiger Personenkreis
+
+Zum förderfähigen Personenkreis gehören von Arbeitslosigkeit bedrohte Arbeitsuchende und Arbeitslose. Die Vermittlung in Berufsausbildung ist ausgeschlossen, da § 45 Abs. 4 Nr. 2 SGB III nur die Vergütung der Arbeitsvermittlung ermöglicht. Damit werden erwerbsfähige Leistungsberechtigte, die ausschließlich die Aufnahme einer Ausbildung anstreben, von dieser Förderleistung nicht erfasst. Nicht von Arbeitslosigkeit bedroht sind Arbeitsuchende, die in einem unbefristeten Beschäftigungsverhältnis stehen und aus persönlichen Gründen einen neuen Arbeitsplatz suchen.
+
+
+
+Chunk #15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Maßgebliche Voraussetzung für die aktivierenden Leistungen in der Grundsicherung für Arbeitsuchende ist die Hilfebedürftigkeit. Der personelle Anwendungsbereich ergibt sich somit aus den Regelungen der §§ 7 ff. SGB II. Dies ermöglicht daher auch die Ausstellung eines AVGS-priv.AV für Personen, die neben dem Anspruch auf Leistungen zur Sicherung des Lebensunterhalts noch Arbeitslosengeld nachdem SGB III (Ergänzer) erhalten, allerdings sollte hier ein Verweis auf den Leistungsanspruch bei der Agentur für Arbeit erfolgen. Rechtlich möglich ist der Einsatz eines AVGS-priv.AV ebenso für Personen, die trotz Einkommen weiterhin hilfebedüftig sind (Erwerbsaufstocker). Da diese bereits in den Arbeitsmarkt integriert sind, muss jedoch in jedem Einzelfall besonders intensiv geprüft werden, ob die Ausgabe eines Gutscheins sinnvoll und zielführend III- Leistungsaufstocker (Ergänzer) behalten ihren Rechtsanspruch auf Ausstellung eines AVGS- priv.AV für die Einschaltung eines privaten Vermittlers
+
+
+
+Chunk #16
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nach § 45 Abs. 7 SGB III gegenüber der Agentur für Arbeit. Daher sollte dieser Anspruch vorrangig genutzt werden.
+
+
+
+Chunk #17
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anspruchsvoraussetzungen für die Ausstellung eines AVGS zur Einschaltung eines privaten Arbeitsvermittlers
+
+Beim AVGS-priv.AV handelt es sich im Rechtskreis SGB II um eine reine Ermessensleistung (§ 16 Abs. 1 SGB II). Die Integrationsfachkraft prüft, ob diese Leistung zur Eingliederung der/des eLb erforderlich ist. Die Ausstellung eines AVGS-priv.AV darf nicht allein aufgrund knapper Haushaltsmittel versagt werden. Die Erfüllung einer Wartezeit der Arbeitslosigkeit ist nicht erforderlich. Die in § 45 Abs. 7 SGB III dargestellten Fristen stehen ausschließlich mit der Geltendmachung eines Rechtsanspruches auf Ausstellung eines AVGS-priv.AV für Leistungsempfänger nach dem SGB III (Alg I) im Zusammenhang.
+
+Die Ausstellung eines AVGS-priv.AV zur Einschaltung eines privaten Arbeitsvermittlers ist möglich, wenn die folgenden Voraussetzungen zusammenhängend erfüllt sind:
+
+
+
+Chunk #18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Der eLb gehört zum förderfähigen Personenkreis (grds. Leistungsberechtigter) Der AVGS zur Einschaltung eines privaten Arbeitsvermittlers muss zur Eingliederung der/des eLb notwendig sein. Das heißt, die Förderleistung muss die Chance auf die sozialversicherungspflichtige Beschäftigung deutlich Eingliederung insbesondere an den verbessern. Damit orientiert sich die Notwendigkeit Feststellungen aus dem individuellen Kundenprofiling und den daraus ermittelten Handlungsbedarfen, welche in der Eingliederungsvereinbarung im Regelfall festgehalten wurden/werden. Die Feststellung ist in FMG2 zu dokumentieren.
+
+Förderungs- fähiger Personenkreis
+
+
+
+Chunk #19
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Anspruchs- voraussetzung -Ermessens- entscheidung
+
+VGS-
+
+Anlage 5
+
+Bei Ausgabe eines AVGS zur Einschaltung eines privaten Arbeitsvermittlers für SGB III- Aufstocker ist darauf zu achten, dass diese ggf. einen Rechtsanspruch auf die Ausstellung eines AVGS-priv.AV gegenüber der Agentur für Arbeit haben (§ 45 Abs. 7 SGB III).
+
+Vorrangige Leistungsverpflichtungen anderer Sozialleistungsträger (z.B. im laufenden Reha- Verfahren) sind zu beachten.
+
+
+
+Chunk #20
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Förderleistung kann nicht zum Einsatz kommen, wenn sich die/der eLb in einer Maßnahme befindet, die auch die Vermittlung in eine versicherungspflichtige Beschäftigung zum Inhalt bzw. zum Ziel hat. In diesem Fall ist die Ausstellung eines AVGS-priv.AV zur Einschaltung eines privaten Arbeitsvermittlers nicht mehr notwendig. Für TeilnehmerInnen an Maßnahmen der beruflichen Weiterbildung kann der zugelassene Maßnahmeträger keine Vermittlungsvergütung erhalten, weil Vermittlungsbemühungen zu den Trägerpflichten zählen (Umkehrschluss aus § 178 Nr. 2 SGB III).
+
+
+
+Chunk #21
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die zeitgleiche Ausgabe mehrerer AVGS mit unterschiedlichen Maßnahmezielen sollte nur erfolgen, wenn dies die individuelle Integrationsstrategie zielorientiert unterstützt. Dabei ist es grundsätzlich zielführend, wenn vor der Entscheidung über weitere Förderleistungen geprüft wird, ob das Förderziel der bereits absolvierten Maßnahme erreicht ist, ob darauf aufbauend noch die Notwendigkeit für eine weitere Maßnahme besteht und welche Maßnahme dabei in Betracht kommt. Die zeitgleiche Ausgabe mehrerer AVGS mit gleichen Maßnahmezielen ist ausgeschlossen.
+
+Ausgestaltung des AVGS zur Einschaltung eines privaten Arbeitsvermittlers
+
+
+
+Chunk #22
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Gültigkeitsdauer
+
+Die Regelung des § 45 Abs. 4 Satz 2 SGB III ermöglicht u.a. eine zeitliche Befristung des AVGS zur Einschaltung eines privaten Arbeitsvermittlers. Da gesetzlich keine konkrete Gültigkeitsdauer vorgegeben ist, wird diese grundsätzlich durch das Jobcenter festgelegt. Die Gültigkeitsdauer ist auf dem AVGS-priv.AV zu vermerken.
+
+Die Gültigkeit erlischt
+
+mit Aufnahme einer versicherungspflichtigen Beschäftigung, mit Ablauf der im AVGS-priv.AV angegebenen Frist oder mit Wegfall der Hilfebedürftigkeit (§ 9 SGB II). Der Wegfall der Hilfebedürftigkeit muss
+
+der/dem eLb bekannt gegeben werden (§ 37 SGB X).
+
+Mit Wegfall der Gültigkeit des AVGS-priv.AV entfällt die Bindung des Jobcenters an die Zusicherung.
+
+
+
+Chunk #23
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Für eine effektive Integrationsstrategie wird empfohlen, die Gültigkeitsdauer des AVGS zur Einschaltung eines privaten Arbeitsvermittlers auf max. drei Monate zu begrenzen. Ist diese Frist abgelaufen, die/der eLb jedoch weiterhin hilfebedürftig, kann ein erneuter AVGS-priv.AV ausgehändigt werden, sofern dies für die weitere Integrationsstrategie sinnvoll ist. Bei der Antragstellung / Ausgabe des AVGS-priv. AV ist darauf zu achten, dass das Ende der Befristung nicht über den Alg II-Anspruch hinausgeht.
+
+Höhe der Vergütung
+
+Die Höhe der Vergütung einer erfolgreichen Vermittlung in eine sozialversicherungspflichtige Beschäftigung ist bei Ausstellung des AVGS-pri.AV festzulegen. Sie beträgt 2.000,- Euro (§ 45 Abs. 6 Satz 2 SGB III). Bei Langzeitarbeitslosen i.S.d. § 18 SGB III und bei behinderten
+
+vorrangiger Rechts- anspruch bei „Ergänzern“
+
+Gültigkeits- dauer
+
+
+
+Chunk #24
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Vergütung
+
+VGS-
+
+Anlage 5
+
+Menschen nach § 2 Abs. 1 SGB IX kann der AVGS-priv.AV bis zu einer Höhe von 2.500,- Euro ausgestellt werden. Die Zugehörigkeit zum entsprechenden Personenkreis ist in FMG2 darzulegen.
+
+Eine parallele Gewährung eines Eingliederungszuschusses zum Minderleistungsausgleich an den einstellenden Arbeitgeber ist im Gutscheinverfahren unschädlich.
+
+
+
+Chunk #25
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Regionale Beschränkung
+
+Die Vorschrift des §45 Abs. 4 S. 2 SGB III läßt zu, den Gültigkeitsbereich des AVGS-priv.AV für die Auswahl des privaten Arbeitsvermittler als auch auf den für den Leistungsberechtigten in Frage kommenden Arbeitsmarkt regional zu beschränken. Da gesetzlich kein konkreter regionaler Gültigkeitsbereich vorgegeben ist, kann dieser individuell durch das Jobcenter festgelegt werden. Eine Beschränkung ist auf dem AVGS-priv.AV zu vermerken. Die Beschränkung sollte sich an der strategischen Ausrichtung des Integrationsprozesses orientieren. Hier macht es z.B. Sinn Mobilitätsaspekte, regionale Arbeitsmarktstrukturen, den erreichbaren Arbeitsmarkt etc. zu berücksichtigen. Die regionale Beschränkung kann sich dabei auf den erreichbaren Arbeitsmarkt als auch auf eine regionale Beschränkung der Angebote privater Arbeitsvermittler beziehen.
+
+regionale Beschränkung
+
+Eingliederungsvereinbarung
+
+
+
+Chunk #26
+------------------------------------------------------------------------------------------------------------------------------------------------------
+EGV
+
+Die Ausgabe eines AVGS-priv.AV ist Teil der Integrationsstrategie. Sie ist in die Eingliederungsvereinbarung aufzunehmen und regelmäßig zu aktualisieren. Die Nichteinhaltung von Vereinbarungen ohne wichtigen Grund ist sanktionsbegründend.
+
+Verfahrensregelungen
+
+Der AVGS-priv.AV berechtigt die/den eLb zur Auswahl eines nach den §§ 176 ff. SGB III In der zugelassenen Trägers. Ggf. sind regionale Einschränkungen zu beachten. Übergangsphase bis zum 31.12.2012 war eine Gewerbeanmeldung der Trägerzulassung gleichgestellt (§ 443 Abs. 3 SGB III). Seit 01.01.2013 ist eine Trägerzulassung nach § 176 SGB III zwingend erforderlich, maßgebend ist der Zeitpunkt der Vermittlung.
+
+In der Wahl des privaten Arbeitsvermittlers ist die/der eLb frei. Das Jobcenter hat sich auch wettbewerbsrechtlichen Gründen und der Neutralitätspflicht entsprechend zurückzuhalten.
+
+
+
+Chunk #27
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Finanzielle Abwicklung des AVGS-priv.AV
+
+Die in Aussicht gestellte Vergütung kann nur für eine erfolgreiche Vermittlung gezahlt werden. Eine erfolgreiche Vermittlung liegt vor, wenn folgende Punkte kumulativ erfüllt sind:
+
+erfolgreiche Vermittlung
+
+Die Vermittlung wurde während der Gültigkeitsdauer des AVGS-priv. AV getätigt, das vermittelte Beschäftigungsverhältnis ist versicherungspflichtig, der Arbeitsvertrag wurde während der Gültigkeitsdauer des AVGS-priv.AV
+
+geschlossen und
+
+das Beschäftigungsverhältnis wurde innerhalb der Gültigkeitsdauer des AVGS- priv.AV begonnen.
+
+VGS-
+
+Anlage 5
+
+Das von der privaten Arbeitsvermittlung vermittelte Beschäftigungsverhältnis muss versicherungspflichtig sein. Dabei bestimmt sich die Versicherungspflicht nach den Vorschriften der §§ 24 und 25 SGB III. Maßgeblich ist die Versicherungspflicht zur Arbeitslosenversicherung.
+
+
+
+Chunk #28
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Als Nachweis der Versicherungspflicht einer Beschäftigung in EU-/EWR-Staaten genügt die Vorlage einer Bescheinigung des ausländischen Arbeitgebers in deutscher Sprache, aus der hervorgeht, dass er ein versicherungspflichtiges, mind. 15 Stunden wöchentlich umfassendes Beschäftigungsverhältnis mit der/dem eLb nach dem Recht des Staates eingegangen ist, in der er seinen Geschäftssitz hat.
+
+Bei Zweifeln an der Richtigkeit der vorgelegten Bescheinigung sollte die Vorlage weiterer (z.B. Bescheinigung des zuständigen Sozialversicherungsträgers) unter Nachweise Beachtung der §§ 20, 21 SGB X verlangt werden.
+
+Das Arbeitsverhältnis muss durch die Tätigkeit des Trägers (Dritten), d.h. des privaten Arbeitsvermittlers zustande gekommen sein. Dies ist dann der Fall, wenn alle folgenden Punkte erfüllt werden:
+
+
+
+Chunk #29
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die private Arbeitsvermittlung ist nicht als sog. Nachweismakler tätig geworden, d.h. sie hat nicht lediglich Hinweise gegeben, die zum Abschluss des Arbeitsvertrages zwischen der/dem eLb und dem Arbeitgeber geführt haben (z.B. Ausgabe von Arbeitgeberadressen, Hinweis aus Stellenangebote in Medien).
+
+Die private Arbeitsvermittlung hat nicht lediglich die Selbstsuche der/des eLb nach einer Beschäftigung unterstützt (z.B. Bewerbercoaching)
+
+Der Kontakt der/des eLb zum Arbeitgeber hinsichtlich der aktuell zu besetzenden Stelle war noch nicht hergestellt. Die Kontaktaufnahme gilt jedoch bereits als erfolgt, wenn die/der eLb z.B. vom Jobcenter bereits einen Vermittlungsvorschlag für diese Stelle bekommen hat oder der Kontakt zum Arbeitgeber durch sie/ihn selbst hergestellt wurde (Selbstsuche).
+
+
+
+Chunk #30
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die private Arbeitsvermittlung hat den Kontakt zwischen der/dem eLb und dem ist nicht der Fall, wenn zwei private Arbeitgeber direkt hergestellt. Dies dahingehend Arbeitsvermittlungen zusammenarbeiten, einen die Vermittlungsvertrag mit der/dem eLb abschließt, jedoch der Kontakt zum Arbeitgeber durch die andere private Arbeitsvermittlung hergestellt wird.
+
+Die private Arbeitsvermittlung hat durch ihre Tätigkeit aktiv den Abschluss eines Arbeitsvertrages sowie der Beschäftigungsaufnahme herbeigeführt (entspricht dem sog. Vermittlungsmakler des BGB). Der Arbeitsvertrag muss während der Gültigkeitsdauer des AVGS-priv.AV geschlossen und die Beschäftigung während der Gültigkeitsdauer des AVGS-priv.AV aufgenommen werden. Eine konkrete, schriftliche Einstellungszusage des Arbeitgebers steht dem Arbeitsvertrag gleich. Aus dem Arbeitsvertrag die wesentlichen Vertragsbedingungen, insbesondere Umfang, Dauer, Höhe des Arbeitsentgelts und Beschäftigungsbeginn hervorgehen.
+
+
+
+Chunk #31
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die private Arbeitsvermittlung ist als unabhängiger Makler zwischen Arbeitgeber und der/dem eLb vermittlerisch tätig. Diese Unabhängigkeit liegt nicht vor, wenn die private Arbeitsvermittlung mit dem Arbeitgeber derart wirtschaftlich (z.B. als Personalberater des AG) oder persönlich (z.B. Ehefrau des AG) verflochten ist, dass eine selbständige Entscheidungsbefugnis auf einer der beiden Seiten fehlt (sog. Verflechtung). Dies ist z.B. der Fall, wenn
+
+Die private Arbeitsvermittlung an dem Unternehmen des Arbeitgebers oder auch in einem umgekehrt das Unternehmen an der privaten Arbeitsvermittlung wirtschaftlich erheblichen Maße beteiligt ist,
+
+VGS-
+
+Anlage 5
+
+Eine hinter der privaten Arbeitsvermittlung und dem Arbeitgeber stehender weiterer Dritter beide Firmen „beherrscht“,
+
+gleichzeitig privaten Geschäftsführer/in des Arbeitgebers ist, es sich also um ein und dieselbe natürliche oder juristische Person handelt,
+
+
+
+Chunk #32
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die für die Einstellung der/des eLb beim Arbeitgeber verantwortliche Person (z.B. Personalverantwortlicher, Einstellungsbefugter) mit der privaten Arbeitsvermittlung identisch ist oder
+
+Die ein/e Beschäftigte/r Arbeitsvermittlung, auch gleichzeitig beim Arbeitgeber beschäftigt ist. private Arbeitsvermittlung, bzw. der privaten
+
+Die Vermittlung durch die private Arbeitsvermittlung eines Zeitarbeitsunternehmens zu einem anderen Zeitarbeitsunternehmen (Konkurrenten) ist zulässig, wenn weder eine rechtliche Identität noch eine enge wirtschaftliche bzw. personelle Verflechtung beider Unternehmen vorliegt.
+
+Bei der Beurteilung der gemeinsamen Identität und Verflechtung sind die gleichen Maßstäbe anzulegen wie bei der Beurteilung der Unabhängigkeit der privaten Arbeitsvermittlung.
+
+Die Vermittlung durch ein Tochterunternehmen des Arbeitgebers ist nicht möglich. Bei Auffälligkeiten zu den vorgenannten Punkten ist die/der eLb zu befragen bzw. sind weitere Recherchen anzustellen.
+
+
+
+Chunk #33
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Auszahlungsverfahren
+
+Die Auszahlung der Vermittlungsvergütung erfordert nach § 37 SGB II einen Antrag.
+
+Dem Antrag auf Auszahlung der ersten Rate sind beizufügen:
+
+Aktivierungs- und Vermittlungsgutschein (AVGS-priv.AV) im Original Nachweis der Trägerzulassung. Ob eine gültige Zulassung vorliegt, ist bei jeder
+
+e Nachweis der Trägerzulassung. Ob eine gültige Zulassung vorliegt, ist bei jeder Entscheidung über die Zahlung der Vermittlungsvergütung zu prüfen
+
+Entscheidung über die Zahlung der Vermittlungsvergütung zu prüfen (Hinweis: bis zum 31.12.2012 konnte ersatzweise eine Gewerbeanmeldung als Nachweis ausreichend sein)
+
+Vermittlungs- und Beschäftigungsbestätigung des Arbeitsgebers im Original
+
+Dem Antrag auf Auszahlung der zweiten Rate Beschäftigungsbestätigung des Arbeitgebers im Original beizufügen. ist die weitere Vermittlungs- und
+
+
+
+Chunk #34
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Vergütung wird in Höhe von 1.000 € nach sechswöchiger, der Restbetrag (1.000 bzw. 1.500 €) nach einer sechsmonatigen Dauer des sozialversicherungspflichtigen Beschäftigungsverhältnisses gezahlt. Die Leistung wird unmittelbar an den Vermittler gezahlt. Die Zuständigkeit liegt bei dem für den Wohnort des eLb zuständigen Jobcenter.
+
+Mit dem „Auszahlungsantrag“ hat der private Arbeitsvermittler die Vermittlungs- und Beschäftigungsbestätigung (siehe Kreisvordruck in FMG2 -05_Vermittlungsbestätigung-); den (privater Arbeitsvermittler – Arbeitnehmer) sowie eine Kopie der Trägerzulassung vorzulegen. Der schriftliche Vermittlungsvertrag muss vor der Vermittlung geschlossen worden sein.
+
+Die für die Auszahlung der Vermittlungsvergütung erforderliche Beschäftigungsdauer richtet sich jeweils nach § 26 SGB X i.V.m. §§ 187 Abs. 2, 188 Abs. 2 BGB. Ausschlaggebend für den Beginn der Frist ist der Tag der tatsächlichen Arbeitsaufnahme.
+
+
+
+Chunk #35
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Vermittlungsvergütung wird an den privaten Arbeitsvermittler in zwei Raten gewährt. Für die erste Rate muss eine mindestens sechswöchige ununterbrochene Dauer des
+
+Zahlungs- modalität
+
+vorzulegende Unterlagen
+
+VGS-
+
+Anlage 5
+
+Beschäftigungsverhältnisses nachgewiesen werden, Beschäftigungsverhältnis mind. sechs Monate bestanden haben (§ 45 Abs. 6 S. 4 SGB III).
+
+Während des Bezuges von Krankengeld besteht kein versicherungspflichtiges Beschäftigungsverhältnisses. Somit können Zeiten des Krankengeldbezuges nicht in die Berechnung der sechsmonatigen Frist einbezogen werden. Die private Arbeitsvermittlung hat das Vorliegen der jeweils geforderten Beschäftigungsdauern beim Antrag auf Auszahlung der Vermittlungsvergütung nachzuweisen.
+
+Die Gewährung der Vermittlungsvergütung ist nach § 45 Abs. 6 Nr. 2 SGB III aus- geschlossen, wenn das Beschäftigungsverhältnis
+
+
+
+Chunk #36
+------------------------------------------------------------------------------------------------------------------------------------------------------
+von vornherein auf eine Dauer von weniger als drei Monaten begrenzt ist oder bei einem früheren Arbeitgeber begründet wird, bei dem der eLb während der letzten vier Jahre vor Aufnahme der Beschäftigung bereits mehr als drei Monate lang versicherungspflichtig beschäftigt war (Ausnahme: befristete Beschäftigung besonders betroffener schwerbehinderter Menschen - § 72 SGB IX).
+
+Verweigert der Arbeitgeber die Bestätigung zur Beschäftigungsdauer, kann im Ausnahmefall eine entsprechende schriftliche Erklärung des eLb genügen. Zusätzlich ist noch der Arbeitsvertrag im Original sowie die letzte Gehaltsabrechnung vorzulegen.
+
+
+
+Chunk #37
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Zahlbarmachung / technische Umsetzung
+
+Die EDV-technische/statistische Darstellung im Programm FMG2 der Aushändigung eines Aktivierungs- und Vermittlungsgutscheins Inanspruchnahme eines privaten Arbeitsvermittlers erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung / dem Namen „Aktivierungsmaßnahme / Vermittlungsgutschein“ im Projekt „400 Maßnahmen“. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen.
+
+
+
+Chunk #38
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Als „Eintritt/Austritt-Datum“ ist der Zeitraum der Gültigkeit des AVGS-priv.AV bei Ausgabe einzutragen. Da die statistische Meldepflicht nur für ausgezahlte Vermittlungsgutscheine besteht ist hier zunächst mit der Ausgabe der Status „nicht angetreten“ zu wählen. Der „Vermittlungsgutschein“ ist eine Zusicherung nach § 34 SGB X. Demzufolge sind zur Sicherstellung einer auskömmlichen Haushaltsplanung bereits bei Ausgabe des Gutscheins mögliche Zahlungsverpflichtungen in voller Höhe für die Zukunft darzustellen. Hierzu sind aus der Maßnahmezuweisung über die Registerkarte „Kosten“ Zahlungsverpflichtungen entsprechend der Beträge nach § 45 Abs. 6 SGB III für die Zukunft mit dem Status „vorgemerkt“ darzustellen (HAS 20110). Bei fehlendem Vermittlungserfolg ist diese Buchung nach Ablauf der Gültigkeitsfrist des Gutscheins zu stornieren. Zur Überwachung des Vermittlungserfolgs, als auch der Zahlungsverpflichtung der 2. Rate, empfiehlt sich die Setzung eines jeweiligen Wiedervorlagetermins. Bei
+
+
+
+Chunk #39
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Einlösung des Vermittlungsgutscheins ist auf der Maßnahmezuweisung der Status in „läuft“ zu ändern, damit die statistische Meldung sichergestellt ist. Parallel ist das „Eintritt-Datum“ auf den ersten Zahlungstermin, das „Austritt-Datum“ mit Berücksichtigung der möglichen zweiten Zahlungsrate auf einen 6 Monate später liegenden Termin abzuändern. Bezüglich der technischen Abwicklung der Kostenerstattung wird auf die separaten Hinweise verwiesen. Ggf. nicht mehr zum Tragen kommende Zahlbeträge (z.B. wegen Arbeitsplatzverlust) sind zu stornieren.
+
+
+
+Chunk #40
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Hinweis: Da mit der Einlösung des Vermittlungsgutscheines die Aufnahme einer sozialversicherungspflichtigen Beschäftigung einhergeht, ist die Beschäftigungs- aufnahme parallel EDV-technisch abzuwickeln.
+
+VGS-
+
+Anlage 5
+
+Sonderregelung für Alg I – Aufstocker
+
+Alg I-Aufstocker behalten einen Rechtsanspruch auf den Vermittlungsgutschein nach dem SGB III (s. § 22 (4) SGB III i.V.m. § 45 (7) SGB III).
+
+(Stand: 01.08.2021)
+
+Aufstocker

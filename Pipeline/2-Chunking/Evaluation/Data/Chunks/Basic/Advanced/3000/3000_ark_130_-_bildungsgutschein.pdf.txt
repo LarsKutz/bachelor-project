@@ -1,0 +1,980 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_130_-_bildungsgutschein.pdf
+max_characters:		4000
+aimed_chunk_size:	3000
+overlap:			600
+loading_strategy:	hi_res
+chunking_strategy:	Basic
+mode:				Advanced
+n_chunks:			31
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+BG-
+
+Anlage 13
+
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Förderung der beruflichen Weiterbildung „Bildungsgutschein “ gem. § 16 (1) S. 2 Nr. 4 SGB II i.V.m. §§ 81 – 87a SGB III, § 131a SGB III
+
+Allgemeines
+
+Leistungen der beruflichen Weiterbildung sind grundsätzlich Ermessensleistungen. Sie können von den Jobcentern erbracht werden, wenn sie erforderlich sind, um Hilfebedürftigkeit zu vermeiden, zu beenden, zu verkürzen oder zu vermindern. Dabei sind die gesetzlichen Vorschriften und die Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten (§ 3 (1) S.4 SGB II). Auf die Leistungen nach §§ 81 – 87a SGB III besteht grundsätzlich kein Rechtsanspruch, Ausnahme hierzu stellt der Anspruch bei abschlussorientierter Weiterbildung für Ungelernte dar. Auf der anderen Seite stellt der digitale und demografische Wandel neue Herausforderungen in der Arbeitsmarktpolitik, womit die Qualifizierung von Arbeitnehmerinnen und Arbeitnehmern eine wertvolle Bedeutung bekommt. Letztendlich trägt die Investition in Weiterbildung und Qualifizierung zum Schutz gegen Arbeitslosigkeit bei. Daneben wird mit Einführung des Bürgergeldgesetzes die Qualifizierungsoffensive auch für Arbeitsuchende gestärkt. Mit Wegfall des Vermittlungsvorrangs (§ 3 (1) SGB II) soll die Erlangung eines Berufsabschlusses für erwerbsfähige Leistungsberechtigte, die über keinen (verwertbaren) Berufsabschluss verfügen, stärker in den Fokus genommen werden.
+
+Maßnahmen der beruflichen Weiterbildung werden über das Instrument des Bildungsgutscheins zugänglich. Der Bildungsgutschein für Leistungsberechtigte nach dem SGB II stellt die Notwendigkeit einer Weiterbildung aus einem vorhergegangenen Profiling bzw. der fest. Beim vorhergegangenen Potentialanalyse dem Grunde nach Bildungsgutschein handelt es sich um eine Zusicherung, mit dem das Vorliegen der Voraussetzungen für die Förderung einer beruflichen Weiterbildung festgestellt wird, der/die erwerbsfähige Leistungsberechtigte wird befähigt eigenverantwortlich eine/-n geeignete-/n, anerkannte/-n Bildungsträger/-maßnahme im vereinbarten Rahmen zu wählen. Hierdurch werden die Entscheidungs- und Wahlrechte sowie die Handlungskompetenz des / der Leistungsberechtigten deutlich gestärkt. Das Bildungsgutscheinverfahren hat den Zweck, mehr Wettbewerb und Transparenz auf dem Weiterbildungsmarkt zu erreichen. Allerdings bedarf es bei der Orientierung der Leistungsberechtigten auf dem Bildungsmarkt und bei der Auswahl geeigneter Bildungsmaßnahmen häufig der Unterstützung des SGB II-Trägers.
+
+Hilfesuchende können mit dem Bildungsgutschein im Regelfall frei unter den zugelassenen Bildungsträgern und -maßnahmen (Zertifikat/Anerkennung nach AZWV bzw. AZAV) wählen. Im Rahmen der Zulassung bzw. Anerkennung der entsprechenden Bildungsmaßnahme wurde die Durchführung der Maßnahme neben Qualitätsaspekten u.a. nach dem Grundsatz der Sparsamkeit und Wirtschaftlichkeit geprüft, so dass die im Zulassungsverfahren bzw. im Maßnahmebogen festgelegten Lehrgangskosten und Zahlungsbedingungen übernommen werden können.
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Auswahl geeigneter Bildungsmaßnahmen häufig der Unterstützung des SGB II-Trägers.
+
+Hilfesuchende können mit dem Bildungsgutschein im Regelfall frei unter den zugelassenen Bildungsträgern und -maßnahmen (Zertifikat/Anerkennung nach AZWV bzw. AZAV) wählen. Im Rahmen der Zulassung bzw. Anerkennung der entsprechenden Bildungsmaßnahme wurde die Durchführung der Maßnahme neben Qualitätsaspekten u.a. nach dem Grundsatz der Sparsamkeit und Wirtschaftlichkeit geprüft, so dass die im Zulassungsverfahren bzw. im Maßnahmebogen festgelegten Lehrgangskosten und Zahlungsbedingungen übernommen werden können.
+
+Der Bildungsgutschein eröffnet den Jobcentern die Möglichkeit regionale wie auch bundesweite Qualifizierungsmaßnahmen individuell zu nutzen. Hierdurch wird eine vollkommene Abdeckung der berufsfachlichen Sparten sichergestellt und „Wartezeiten“ hinsichtlich erforderlicher Teilnehmerzahlen verkürzt. Recherchemöglichkeiten nach zugelassenen Maßnahmen bestehen für Leistungsberechtigte, wie auch Fallmanager in der Weiterbildungsdatenbank KURSNET der Bundesagentur für Arbeit. (Hilfe www.arbeitsagentur.de )
+
+- 1 -
+
+Zugang ausschließl. für zertifiz./ anerkannte Maßnahmen/ Träger
+
+BG-
+
+Anlage 13
+
+Die Sperrwirkung des § 22 Abs. 4 SGB III, greift seit 1.1.2017 nicht mehr bei Aufstockenden (Personen, die Arbeitslosengeld I bzw. Teilarbeitslosengeld beziehen und aufstockende II erhalten). Unabhängig von deren Eigenschaft als Leistungen nach dem SGB für Arbeit Bildungsgutscheine erwerbsfähige Hilfebedürftige können die Agenturen aushändigen und einlösen. Das Beratungs- und Vermittlungsangebot nach dem ersten Abschnitt des Dritten Kapitels des SGB III werden nicht an oder für erwerbsfähige Leistungsberechtigte erbracht, die einen Anspruch auf Arbeitslosengeld I oder Teilarbeitslosengeld haben (§ 5 Abs. 4 SGB II). Damit besteht ein Leistungsausschuss für den Personenkreis der Aufstocker von Arbeitslosengeld I im Rechtssystem des SGB II.
+
+Berufliche Qualifizierung tragfähiger Motivation des Leistungsberechtigten. Hierfür stehen andere Maßnahmen (z.B. AGH, Testverfahren, ggf. Aktivierungsmaßnahmen) zur Verfügung.
+
+§ 81 SGB III Grundsatz
+
+(1) Arbeitnehmerinnen und Arbeitnehmer können bei beruflicher Weiterbildung durch Übernahme der Weiterbildungskosten gefördert werden, wenn
+
+1. die Weiterbildung notwendig ist, um sie bei Arbeitslosigkeit beruflich einzugliedern oder eine ihnen drohende Arbeitslosigkeit abzuwenden, 2. die Agentur für Arbeit sie vor Beginn der Teilnahme beraten hat und 3. die Maßnahme und der Träger der Maßnahme für die Förderung zugelassen sind.
+
+Als Weiterbildung gilt die Zeit vom ersten Tag bis zum letzten Tag der Maßnahme mit Unterrichtsveranstaltungen, es sei denn, die Maßnahme ist vorzeitig beendet worden.
+
+(1a) Anerkannt wird die Notwendigkeit der Weiterbildung bei arbeitslosen Arbeitnehmerinnen und Arbeitnehmern auch, wenn durch den Erwerb erweiterter beruflicher Kompetenzen die individuelle Beschäftigungsfähigkeit verbessert wird und sie nach Lage und Entwicklung des Arbeitsmarktes zweckmäßig ist.
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Arbeit sie vor Beginn der Teilnahme beraten hat und 3. die Maßnahme und der Träger der Maßnahme für die Förderung zugelassen sind.
+
+Als Weiterbildung gilt die Zeit vom ersten Tag bis zum letzten Tag der Maßnahme mit Unterrichtsveranstaltungen, es sei denn, die Maßnahme ist vorzeitig beendet worden.
+
+(1a) Anerkannt wird die Notwendigkeit der Weiterbildung bei arbeitslosen Arbeitnehmerinnen und Arbeitnehmern auch, wenn durch den Erwerb erweiterter beruflicher Kompetenzen die individuelle Beschäftigungsfähigkeit verbessert wird und sie nach Lage und Entwicklung des Arbeitsmarktes zweckmäßig ist.
+
+(2) Der nachträgliche Erwerb eines Berufsabschlusses durch Arbeitnehmerinnen und Arbeitnehmer wird durch Übernahme der Weiterbildungskosten gefördert, wenn die Arbeitnehmerinnen und Arbeitnehmer
+
+1. nicht über einen Berufsabschluss verfügen, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, oder aufgrund einer mehr als vier Jahre ausgeübten Beschäftigung in an- oder ungelernter Tätigkeit eine ihrem Berufsabschluss entsprechende Beschäftigung voraussichtlich nicht mehr ausüben können, 2. für den angestrebten Beruf geeignet sind, 3. voraussichtlich erfolgreich an der Maßnahme teilnehmen werden und 4. mit dem angestrebten Beruf ihre Beschäftigungschancen verbessern.
+
+Arbeitnehmerinnen und Arbeitnehmer ohne Berufsabschluss, die noch nicht drei Jahre beruflich tätig gewesen sind, werden nur gefördert, wenn eine Berufsausbildung oder eine berufsvorbereitende Bildungsmaßnahme aus in ihrer Person liegenden Gründen nicht möglich oder nicht zumutbar ist oder die Weiterbildung in einem Engpassberuf angestrebt wird. Zeiten der Arbeitslosigkeit, der Kindererziehung und der Pflege pflegebedürftiger Personen mit mindestens Pflegegrad 2 stehen Zeiten einer Beschäftigung nach Satz 1 Nummer 1 gleich. Absatz 1 Satz 1 Nummer 2 und 3 und Satz 2 gelten entsprechend.
+
+- 2 -
+
+Aufstocker Alg I
+
+BG-
+
+Anlage 13
+
+(3) Arbeitnehmerinnen und Arbeitnehmer werden durch Übernahme der Weiterbildungskosten zum nachträglichen Erwerb des Hauptschulabschlusses oder eines gleichwertigen Schulabschlusses gefördert, wenn
+
+1. sie die Voraussetzungen für die Förderung der beruflichen Weiterbildung nach Absatz 1 erfüllen und 2. zu erwarten ist, dass sie an der Maßnahme erfolgreich teilnehmen werden.
+
+Absatz 2 Satz 2 gilt entsprechend. Die Leistung wird nur erbracht, soweit sie nicht für den gleichen Zweck durch Dritte erbracht wird. Die Agentur für Arbeit hat darauf hinzuwirken, dass sich die für die allgemeine Schulbildung zuständigen Länder an den Kosten der Maßnahme beteiligen. Leistungen Dritter zur Aufstockung der Leistung bleiben anrechnungsfrei.
+
+(3a) Arbeitnehmerinnen und Arbeitnehmer können zum Erwerb von Grundkompetenzen durch die Übernahme der Weiterbildungskosten gefördert werden, wenn
+
+1. die in Absatz 1 genannten Voraussetzungen für die Förderung der beruflichen Weiterbildung erfüllt sind und 2. der Erwerb der Grundkompetenzen die Grundlage schafft für eine erfolgreiche berufliche Weiterbildung oder allgemein die Beschäftigungsfähigkeit verbessert.
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+rken, dass sich die für die allgemeine Schulbildung zuständigen Länder an den Kosten der Maßnahme beteiligen. Leistungen Dritter zur Aufstockung der Leistung bleiben anrechnungsfrei.
+
+(3a) Arbeitnehmerinnen und Arbeitnehmer können zum Erwerb von Grundkompetenzen durch die Übernahme der Weiterbildungskosten gefördert werden, wenn
+
+1. die in Absatz 1 genannten Voraussetzungen für die Förderung der beruflichen Weiterbildung erfüllt sind und 2. der Erwerb der Grundkompetenzen die Grundlage schafft für eine erfolgreiche berufliche Weiterbildung oder allgemein die Beschäftigungsfähigkeit verbessert.
+
+(4) Der Arbeitnehmerin oder dem Arbeitnehmer wird das Vorliegen der Voraussetzungen für eine Förderung bescheinigt (Bildungsgutschein). Der Bildungsgutschein kann zeitlich befristet sowie regional und auf bestimmte Bildungsziele beschränkt werden. Der von der Arbeitnehmerin oder vom Arbeitnehmer ausgewählte Träger hat der Agentur für Arbeit den Bildungsgutschein vor Beginn der Maßnahme vorzulegen. Die Agentur für Arbeit kann auf die Ausstellung eines Bildungsgutscheins bei beschäftigten Arbeitnehmerinnen und Arbeitnehmern verzichten, wenn
+
+1. der Arbeitgeber und die Arbeitnehmerin oder der Arbeitnehmer damit einverstanden sind oder 2. die Arbeitnehmerin oder der Arbeitnehmer oder die Betriebsvertretung das Einverständnis zu der Qualifizierung nach § 82 Absatz 6 Satz 1 Nummer 2 erklärt haben.
+
+(5) aufgehoben
+
+Die Förderung beruflicher Weiterbildung Beschäftigter (ehem. § 235c SGB II) ist im § 82 SGB III aufgegangen. In der Umsetzung des SGB II hat diese Vorschrift ggf. im Einzelfall für den Personenkreis der „Einkommens-Aufstocker“ eine Relevanz. Die Förderung richtet sich an geringqualifizierte Beschäftigte (§ 81 Absatz 2 SGB III) oder Beschäftigte in kleineren und mittleren Unternehmen (§§ 82 SGB ihrem Einkommen aus einer versicherungspflichtigen Erwerbstätigkeit Leistungen der Grundsicherung erhalten. Als Förderinstrumente kommen der Arbeitsentgeltzuschuss (AEZ) nach § 82 Absatz 3 SGB III und die Übernahme der Weiterbildungskosten für gering qualifizierte Beschäftigte (WK) nach §§ 81 Absatz 2 SGB III sowie für sonstige Beschäftigte nach § 82 SGB III in Betracht.
+
+- 3 -
+
+FbW- Förderung Beschäftigter
+
+BG-
+
+Anlage 13
+
+§ 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer
+
+(1) Arbeitnehmerinnen und Arbeitnehmer können abweichend von § 81 bei beruflicher Weiterbildung im Rahmen eines bestehenden Arbeitsverhältnisses durch volle oder teilweise Übernahme der Weiterbildungskosten gefördert werden, wenn 1. Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden, die über ausschließlich arbeitsplatzbezogene kurzfristige Anpassungsfortbildungen hinausgehen, 2. der Erwerb des Berufsabschlusses, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, in der Regel mindestens vier Jahre zurückliegt, 3. die Arbeitnehmerin oder der Arbeitnehmer in den letzten vier Jahren vor Antragsstellung nicht an einer nach dieser Vorschrift geförderten beruflichen Weiterbildung teilgenommen hat, 4. die Maßnahme außerhalb des Betriebes oder von einem zugelassenen Träger im Betrieb, dem sie angehören, durchgeführt wird und mehr als 120 Stunden dauert und 5. die Maßnahme und der Träger der Maßnahme für die Förderung zugelassen sind.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+usses, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, in der Regel mindestens vier Jahre zurückliegt, 3. die Arbeitnehmerin oder der Arbeitnehmer in den letzten vier Jahren vor Antragsstellung nicht an einer nach dieser Vorschrift geförderten beruflichen Weiterbildung teilgenommen hat, 4. die Maßnahme außerhalb des Betriebes oder von einem zugelassenen Träger im Betrieb, dem sie angehören, durchgeführt wird und mehr als 120 Stunden dauert und 5. die Maßnahme und der Träger der Maßnahme für die Förderung zugelassen sind.
+
+Die Förderung soll darauf gerichtet sein, Arbeitnehmerinnen und Arbeitnehmern, die berufliche Tätigkeiten ausüben, die durch Technologien ersetzt werden können oder in sonstiger Weise vom Strukturwandel betroffen sind, eine Anpassung und Fortentwicklung ihrer beruflichen Kompetenzen zu ermöglichen, um den genannten Herausforderungen besser begegnen zu können. Gleiches gilt für Arbeitnehmerinnen und Arbeitnehmer, die eine Weiterbildung in einem Engpassberuf anstreben. Die Sätze 2 und 3 gelten nicht, wenn die Arbeitnehmerinnen und Arbeitnehmer einem Betrieb mit weniger als 250 Beschäftigten angehören und soweit sie nach dem 31. Dezember 2020 mit der Teilnahme beginnen, das 45. Lebensjahr vollendet haben oder schwerbehindert im Sinne des § 2 Absatz 2 des Neunten Buches sind. Ausgeschlossen von der Förderung ist die Teilnahme an Maßnahmen, zu deren Durchführung der Arbeitgeber auf Grund bundes- oder landesrechtlicher Regelungen verpflichtet ist.
+
+(2) Nach Absatz 1 soll nur gefördert werden, wenn sich der Arbeitgeber in angemessenem Umfang an den Lehrgangskosten beteiligt. Angemessen ist die Beteiligung, wenn der Betrieb, dem die Arbeitnehmerin oder der Arbeitnehmer angehört,
+
+1. mindestens zehn und weniger als 250 Beschäftigte hat und der Arbeitgeber mindestens 50 Prozent, 2. 250 Beschäftigte und weniger als 2 500 Beschäftigte hat und der Arbeitgeber mindestens 75 Prozent, 3. 2 500 Beschäftigte oder mehr hat und der Arbeitgeber mindestens 85 Prozent,
+
+der Lehrgangskosten trägt. Abweichend von Satz 1 soll in Betrieben mit weniger als zehn Beschäftigten von einer Kostenbeteiligung des Arbeitgebers abgesehen werden. Bei Betrieben mit weniger als 250 Beschäftigten kann von einer Kostenbeteiligung des Arbeitgebers abgesehen werden, wenn die Arbeitnehmerin oder der Arbeitnehmer
+
+1. bei Beginn der Teilnahme das 45. Lebensjahr vollendet hat oder 2. schwerbehindert im Sinne des § 2 Absatz 2 des Neunten Buches ist.
+
+(3) Für die berufliche Weiterbildung von Arbeitnehmerinnen und Arbeitnehmern können Arbeitgeber durch Zuschüsse zum Arbeitsentgelt gefördert werden, soweit die Weiterbildung im Rahmen eines bestehenden Arbeitsverhältnisses durchgeführt wird. Die Zuschüsse können für Arbeitnehmerinnen und Arbeitnehmer, bei denen die Voraussetzungen fehlenden Berufsabschlusses nach § 81 Absatz 2 erfüllt sind, bis zur Höhe des Betrags erbracht
+
+- 4 -
+
+BG-
+
+Anlage 13
+
+werden, der sich als anteiliges Arbeitsentgelt für weiterbildungsbedingte Zeiten ohne Arbeitsleistung errechnet. Dieses umfasst auch den darauf entfallenden pauschalen Arbeitgeberanteil am Gesamtsozialversicherungsbeitrag. Im Übrigen können bei Vorliegen der Voraussetzungen nach Absatz 1 Zuschüsse für Arbeitnehmerinnen und Arbeitnehmer in Betrieben mit
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+itsverhältnisses durchgeführt wird. Die Zuschüsse können für Arbeitnehmerinnen und Arbeitnehmer, bei denen die Voraussetzungen fehlenden Berufsabschlusses nach § 81 Absatz 2 erfüllt sind, bis zur Höhe des Betrags erbracht
+
+- 4 -
+
+BG-
+
+Anlage 13
+
+werden, der sich als anteiliges Arbeitsentgelt für weiterbildungsbedingte Zeiten ohne Arbeitsleistung errechnet. Dieses umfasst auch den darauf entfallenden pauschalen Arbeitgeberanteil am Gesamtsozialversicherungsbeitrag. Im Übrigen können bei Vorliegen der Voraussetzungen nach Absatz 1 Zuschüsse für Arbeitnehmerinnen und Arbeitnehmer in Betrieben mit
+
+1. weniger als zehn Beschäftigten in Höhe von bis zu 75 Prozent, 2. mindestens zehn und weniger als 250 Beschäftigten in Höhe von bis zu 50 Prozent, 3. 250 Beschäftigten oder mehr in Höhe von bis zu 25 Prozent
+
+des berücksichtigungsfähigen Arbeitsentgelts nach den Sätzen 2 und 3 erbracht werden.
+
+(4) Bei Vorliegen einer Betriebsvereinbarung über die berufliche Weiterbildung oder eines Tarifvertrages, der betriebsbezogene berufliche Weiterbildung vorsieht, verringert sich die Mindestbeteiligung des Arbeitgebers an den Lehrgangskosten nach Absatz 2 unabhängig von der Betriebsgröße um fünf Prozentpunkte. Die Zuschüsse zum Arbeitsentgelt nach Absatz 3 Satz 4 können bei Vorliegen der Voraussetzungen nach Satz 1 um fünf Prozentpunkte erhöht werden.
+
+(5) Die Beteiligung des Arbeitgebers an den Lehrgangskosten nach Absatz 2 verringert sich um jeweils 10 Prozentpunkte, wenn die beruflichen Kompetenzen von mindestens 20 Prozent, im Fall des Absatzes 2 Satz 2 Nummer 1 10 Prozent, der Beschäftigten eines Betriebes den betrieblichen Anforderungen voraussichtlich nicht oder teilweise nicht mehr entsprechen. Die Zuschüsse zum Arbeitsentgelt nach Absatz 3 Satz 4 können bei Vorliegen der Voraussetzungen nach Satz 1 um 10 Prozentpunkte erhöht werden.
+
+(6) Der Antrag auf Förderung nach Absatz 1 kann auch vom Arbeitgeber gestellt und die Förderleistung an diesen erbracht werden, wenn
+
+1. der Antrag mehrere Arbeitnehmerinnen und Arbeitnehmer betrifft, bei denen Vergleichbarkeit hinsichtlich Qualifikation, Bildungsziel und Weiterbildungsbedarf besteht, und
+
+2. diese Arbeitnehmerinnen oder Arbeitnehmer oder die Betriebsvertretung Einverständnis hierzu erklärt haben.
+
+Bei der Ermessensentscheidung über die Höhe der Förderleistungen nach den Absätzen 1 bis 5 kann die Agentur für Arbeit die individuellen und betrieblichen Belange pauschaliert für alle betroffenen Arbeitnehmerinnen und Arbeitnehmer einheitlich und maßnahmebezogen berücksichtigen und die Leistungen als Gesamtleistung bewilligen. Der Arbeitgeber hat der Agentur für Arbeit die Weiterleitung der Leistungen für Kosten, die den Arbeitnehmerinnen und Arbeitnehmern sowie dem Träger der Maßnahme unmittelbar entstehen, spätestens drei Monate nach Ende der Maßnahme nachzuweisen. § 83 Absatz 2 bleibt unberührt.
+
+(7) § 81 Absatz 4 findet Anwendung. Der Bildungsgutschein kann in Förderhöhe und Förderumfang beschränkt werden. Bei der Feststellung der Zahl der Beschäftigten sind zu berücksichtigen,
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nen Arbeitnehmerinnen und Arbeitnehmer einheitlich und maßnahmebezogen berücksichtigen und die Leistungen als Gesamtleistung bewilligen. Der Arbeitgeber hat der Agentur für Arbeit die Weiterleitung der Leistungen für Kosten, die den Arbeitnehmerinnen und Arbeitnehmern sowie dem Träger der Maßnahme unmittelbar entstehen, spätestens drei Monate nach Ende der Maßnahme nachzuweisen. § 83 Absatz 2 bleibt unberührt.
+
+(7) § 81 Absatz 4 findet Anwendung. Der Bildungsgutschein kann in Förderhöhe und Förderumfang beschränkt werden. Bei der Feststellung der Zahl der Beschäftigten sind zu berücksichtigen,
+
+1. Teilzeitbeschäftigte mit einer regelmäßigen wöchentlichen Arbeitszeit von
+
+a) nicht mehr als zehn Stunden mit 0,25, b) nicht mehr als 20 Stunden mit 0,50 und c) nicht mehr als 30 Stunden mit 0,75 und
+
+- 5 -
+
+BG-
+
+Anlage 13
+
+2. im Rahmen der Bestimmung der Betriebsgröße nach den Absätzen 1 bis 3 sämtliche Beschäftigte des Unternehmens, dem der Betrieb angehört, und falls das Unternehmen einem Konzern angehört, die Zahl der Beschäftigten des Konzerns.
+
+(8) Bei der Ausübung des Ermessens hat die Agentur für Arbeit die unterschiedlichen Betriebsgrößen angemessen zu berücksichtigen.
+
+(9) Die Förderung von Arbeitnehmerinnen und Arbeitnehmern in Maßnahmen, die während des Bezugs von Kurzarbeitergeld beginnen, ist bis zum 31. Juli 2023 ausgeschlossen.
+
+§ 131a SGB III – Sonderregelungen zur beruflichen Weiterbildung
+
+(1) aufgehoben
+
+(2) Abweichend von § 81 Absatz 4 kann die Agentur für Arbeit unter Anwendung des Vergaberechts Träger mit der Durchführung von folgenden Maßnahmen beauftragen, wenn die Maßnahmen vor Ablauf des 31. Dezember 2026 beginnen:
+
+1. Maßnahmen, die zum Erwerb von Grundkompetenzen nach § 81 Absatz 3a führen, 2. Maßnahmen, die zum Erwerb von Grundkompetenzen nach § 81 Absatz 3a und zum Erwerb eines Abschlusses in einem Ausbildungsberuf führen, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, oder
+
+3. Maßnahmen, die eine Weiterbildung in einem Betrieb, die auf den Erwerb eines Berufsabschlusses im Sinne des § 81 Absatz 2 Nummer 1 gerichtet ist, begleitend unterstützen.
+
+Für Maßnahmen nach Nummer 2 gilt § 180 Absatz 4 entsprechend. § 176 Absatz 2 Satz 2 findet keine Anwendung.
+
+(3) aufgehoben
+
+§ 444a SGB III - Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung … (2) Der Anspruch auf Zahlung einer Weiterbildungsprämie nach § 131a Absatz 3 SGB III gilt für Arbeitnehmerinnen und Arbeitnehmer, die an einer nach § 81 SGB III geförderten beruflichen Weiterbildung teilnehmen, die nach dem 31. Juli 2016 beginnt.
+
+§ 131b SGB III - Weiterbildungsförderung in der Altenpflege (ausgelaufen)
+
+Abweichend von § 180 Absatz 4 Satz 1 SGB III ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung in der Altenpflege, die in der Zeit vom 1. April 2013 bis zum 31. Dezember 2019 beginnt, auch dann angemessen, wenn sie nach dem Altenpflegegesetz nicht um mindestens ein Drittel verkürzt werden kann. Insoweit ist § 180 Absatz 4 Satz 2 nicht anzuwenden.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+t für Arbeitnehmerinnen und Arbeitnehmer, die an einer nach § 81 SGB III geförderten beruflichen Weiterbildung teilnehmen, die nach dem 31. Juli 2016 beginnt.
+
+§ 131b SGB III - Weiterbildungsförderung in der Altenpflege (ausgelaufen)
+
+Abweichend von § 180 Absatz 4 Satz 1 SGB III ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung in der Altenpflege, die in der Zeit vom 1. April 2013 bis zum 31. Dezember 2019 beginnt, auch dann angemessen, wenn sie nach dem Altenpflegegesetz nicht um mindestens ein Drittel verkürzt werden kann. Insoweit ist § 180 Absatz 4 Satz 2 nicht anzuwenden.
+
+- 6 -
+
+BG-
+
+Anlage 13
+
+Fachliche Hinweise:
+
+Die Förderung der beruflichen Weiterbildung setzt voraus, dass die Grundsicherungsstelle den erwerbsfähigen Leistungsberechtigten vor der Teilnahme an der Bildungsmaßnahme beraten hat (§ 81 Abs. 1 S. 1 Nr. 2 SGB III). Die Gründe, warum eine Förderung der beruflichen Weiterbildung für erforderlich gehalten wird, um Hilfebedürftigkeit zu überwinden, sind im FMG.job zu dokumentieren; der Kooperationsplan ist zu aktualisieren bzw. fortzuschreiben. Dabei sollte die Initiative zum Einsatz von FbW von der Beratungsfachkraft ausgehen.
+
+Alle individuellen Leistungsvoraussetzungen müssen vor dem ersten Teilnahmetag erfüllt sein. Arbeitslosigkeit allein begründet nicht die Notwendigkeit der beruflichen Weiterbildung. Es müssen Qualifikationsdefizite vorliegen, die durch die Teilnahme an der Weiterbildung abgebaut werden und die mit Blick auf die zu erwartenden Beschäftigungsmöglichkeiten zu einer beruflichen Integration in den ersten Arbeitsmarkt führen. Nach dem Leistungs- grundsatz des SGB II steht vorrangig die Beseitigung der Hilfebedürftigkeit, in erster Linie durch Aufnahme einer zumutbaren Beschäftigung, im Vordergrund. Mit Einführung des Bürgergeldgesetzes wurde die Qualifizierungsoffensive in der Umsetzung der Grundsicherung für Arbeitsuchende gestärkt. So ist der Vermittlungsvorrang bei Personen ohne Berufsabschluss nicht nur gegenüber abschlussorientierter, sondern auch anderer beruflicher Weiterbildung entfallen. Die Beurteilung der Förderung einer beruflichen Weiterbildung orientiert sich an der arbeitsmarktlichen Notwendigkeit und Zweckmäßigkeit, eine realistische Eingliederungsperspektive muss bei Betrachtung des Gesamtsachverhaltes gegeben sein. Beurteilungskriterien können der bisherige Berufsverlauf, das Alter, die regionale Mobilität, das Angebot und die Nachfrage im Zielberuf, Eignungskriterien, Motivation, Leistungsfähigkeit etc. sein. In Zweifelsfällen kann die Ausgabe eines Bildungsgutscheins auch vom Vorliegen einer konkreten Einstellungszusage eines Arbeitgebers abhängig gemacht werden.
+
+Die Neuregelung des § 81 Abs. 1a SGB III erweitert die Möglichkeit der Förderung beruflicher Weiterbildung über den nach § 81 Absatz 1 Satz 1 SGB III geltenden Grundsatz hinaus. Hierbei geht es nicht nur um zwingende qualifikatorische Anpassungen, sondern darüber hinaus um zusätzliche oder ergänzende berufliche Qualifikationen, die zu einer Kompetenzerweiterung und Verbesserung der Beschäftigungsmöglichkeiten führen. Auch solche Qualifikationen müssen sich am Bedarf des Arbeitsmarktes orientieren.
+
+
+
+Chunk #9
+------------------------------------------------------------------------------------------------------------------------------------------------------
+uch vom Vorliegen einer konkreten Einstellungszusage eines Arbeitgebers abhängig gemacht werden.
+
+Die Neuregelung des § 81 Abs. 1a SGB III erweitert die Möglichkeit der Förderung beruflicher Weiterbildung über den nach § 81 Absatz 1 Satz 1 SGB III geltenden Grundsatz hinaus. Hierbei geht es nicht nur um zwingende qualifikatorische Anpassungen, sondern darüber hinaus um zusätzliche oder ergänzende berufliche Qualifikationen, die zu einer Kompetenzerweiterung und Verbesserung der Beschäftigungsmöglichkeiten führen. Auch solche Qualifikationen müssen sich am Bedarf des Arbeitsmarktes orientieren.
+
+Die individuellen Förderungsvoraussetzungen sind in der Vorschrift des § 81 SGB III verschlüsselt. Zur Erleichterung der Prüfung der Voraussetzungen in der Person wurde ein Prüfbogen erstellt, welcher in FMG.job als Kreisvordruck (13 Förderungsvoraussetzungen FbW) hinterlegt ist. Dieser Bogen ist jedem Förderungsfall bereits bei Ausgabe des Bildungsgutscheins durch den zuständigen Fallmanager auszufüllen und im Leistungsfall zu hinterlegen. Die Ausgabe eines Bildungsgutscheins setzt eine positive Förderentscheidung voraus.
+
+Ein Berufsabschluss liegt vor, wenn eine Ausbildung
+
+=
+
+"=
+
+in den anerkannten Ausbildungsberufen, die in dem vom BIBB gem. Berufsbildungsgesetz geführten Verzeichnis der anerkannten Ausbildungsberufe veröffentlicht sind, in einem öffentlich-rechtlichen Dienstverhältnis an Berufsfachschulen und Fachschulen, die eine betriebliche oder überbetriebliche Erstausbildung ersetzt und mit einem allgemein anerkannten beruflichen Abschluss endet, in allen anderen schulischen Erstausbildungsgängen (z.B. an Fachschulen, Fachhochschulen, Hochschulen)
+
+mit mindestens zweijähriger Dauer erfolgreich absolviert wurde.
+
+Das Erfordernis einer dreijährigen beruflichen Tätigkeit für Arbeitnehmer ohne Berufsabschluss dient der Abgrenzung zwischen beruflicher Erstausbildung und beruflicher Weiterbildung; es besteht für diesen Personenkreis grundsätzlich ein gesetzlicher Vorrang
+
+- 7 -
+
+Arbeitslosig- keit / arbeitsmarkt- liche Not- wendigkeit
+
+anerkannter Berufs- abschluss
+
+berufliche Tätigkeit
+
+BG-
+
+Anlage 13
+
+der beruflichen Erstausbildung. Als berufliche Tätigkeit gilt, ungeachtet der Versicherungspflicht, jede mind. 15 Wochenstunden umfassende berufliche Tätigkeit, sowie Zeiten einer nicht abgeschlossenen Berufsausbildung, des Wehr- und Zivildienstes und der Tätigkeit im eigenen Haushalt, wenn in diesem neben dem Antragsteller noch mind. eine weitere Person lebt. Das Erfordernis einer dreijährigen beruflichen Tätigkeit besteht auch für Arbeitslose und von Arbeitslosigkeit bedrohte Antragstellende. § 81 Abs. 2 Nr. 2 Satz 2 ermöglicht die Förderung von Arbeitnehmern, die zwar schon beruflich tätig gewesen sind, aber diese berufliche Tätigkeit noch nicht volle drei Jahre umfasst. In der Person liegende Gründe können z.B. das Alter oder die familiären Rahmenbedingungen des Arbeitnehmers (z.B. Alleinverdiener mit Familie) sein. Darüber hinaus kann von der dreijährigen beruflichen Tätigkeit abgesehen werden, wenn die angestrebte Weiterbildung zu einem Abschluss in einem Engpassberuf führt. Informationen zu Engpassberufen sind dem Internetauftritt der Statistik entnehmen (https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Fachkraeftebedarf/ Engpassanalyse-Nav.html).
+
+
+
+Chunk #10
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ind, aber diese berufliche Tätigkeit noch nicht volle drei Jahre umfasst. In der Person liegende Gründe können z.B. das Alter oder die familiären Rahmenbedingungen des Arbeitnehmers (z.B. Alleinverdiener mit Familie) sein. Darüber hinaus kann von der dreijährigen beruflichen Tätigkeit abgesehen werden, wenn die angestrebte Weiterbildung zu einem Abschluss in einem Engpassberuf führt. Informationen zu Engpassberufen sind dem Internetauftritt der Statistik entnehmen (https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Fachkraeftebedarf/ Engpassanalyse-Nav.html).
+
+Eine Förderung wegen fehlendem Berufsabschluss ist vor allem dann auch sinnvoll, wenn durch die Teilnahme eine Teilqualifikation erworben wird. Indiz für eine zertifizierte Teilqualifikation sind externe Zertifizierungen (z.B. durch Kammern als zuständige prüfende Stelle), die inhaltliche Ausrichtung an Ausbildungsordnungen oder die Anrechnungs- möglichkeit im Hinblick auf den späteren Erwerb eines Berufsabschlusses.
+
+Die Voraussetzungen für die Eigenschaft des wieder Ungelernten regelt § 81 Abs. 2 Nr. 1 SGB III kumulativ (Berufsabschluss vorhanden, mehr als 4 Jahre ausgeübte Beschäftigung in an- und ungelernter Beschäftigung, dem vorhandenen Berufsabschluss entsprechende Beschäftigung kann nicht mehr ausgeübt werden). Bei der Beurteilung der Berufsentfremdung sind nur Zeiten einer ausgeübten Beschäftigung zu berücksichtigen. Die vierjährige Dauer wird somit nicht automatisch durch Zeitablauf erreicht. Unterbrechungen sind unschädlich. Die Beschäftigung muss zwingend in an- oder ungelernter Tätigkeit erfolgt sein. § 81 Abs. 2 S. 3 stellt Zeiten der Arbeitslosigkeit, der Kindesbetreuung und der Pflege von Angehörigen (mind. Pflegegrad 2) einer Beschäftigung außerhalb des Ausbildungsberufes gleich.
+
+Leistungsschwächere, geringqualifizierte Arbeitnehmerinnen und Arbeitnehmer, die noch nicht über einen Berufsabschluss verfügen, können zur Vorbereitung auf eine abschlussbezogene berufliche Weiterbildung Förderleistungen zum Erwerb notwendiger Grundkompetenzen in den Bereichen Lesen, Schreiben, Mathematik und Informations- und Kommunikationstechnologien erhalten. Das Ziel der Erlangung eines Berufsabschlusses muss im Kooperationsplan festgelegt sein, mit dem Zwischenziel des Erwerbs der dafür erforderlichen Grundkompetenzen.
+
+*************** *************** ***************
+
+Hintergrundwissen:
+
+Im Rahmen des Gesetzes zur Neuausrichtung der arbeitsmarktpolitischen Instrumente wurde ab 01.01.2009 ein Rechtsanspruch auf den nachträglichen Erwerb des Hauptschulabschlusses oder eines gleichwertigen Schulabschlusses im Rahmen von von Maßnahmen der Arbeitnehmerinnen allgemeinen Fördervoraussetzungen des § 81 (1) SGB III erfüllt werden, d.h. die Notwendigkeit der beruflichen Weiterbildung ist gegeben, und eine erfolgreiche Teilnahme an der Maßnahme kann erwartet werden. Die Vorbereitung auf das Nachholen des Hauptschulabschlusses soll nicht beruflichen sonder Weiterbildungsmaßnahmen auf der Grundlage der §§ 178 und 179 SGB III erfolgen.
+
+
+
+Chunk #11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+arbeitsmarktpolitischen Instrumente wurde ab 01.01.2009 ein Rechtsanspruch auf den nachträglichen Erwerb des Hauptschulabschlusses oder eines gleichwertigen Schulabschlusses im Rahmen von von Maßnahmen der Arbeitnehmerinnen allgemeinen Fördervoraussetzungen des § 81 (1) SGB III erfüllt werden, d.h. die Notwendigkeit der beruflichen Weiterbildung ist gegeben, und eine erfolgreiche Teilnahme an der Maßnahme kann erwartet werden. Die Vorbereitung auf das Nachholen des Hauptschulabschlusses soll nicht beruflichen sonder Weiterbildungsmaßnahmen auf der Grundlage der §§ 178 und 179 SGB III erfolgen.
+
+- 8 -
+
+Wieder- ungelernte
+
+Förderung v. Grundkom- petenzen
+
+Maßnahmen zur Vorbe- reitung auf den nachträg- lichen Erwerb des Haupt- schulab- schlusses
+
+BG-
+
+Anlage 13
+
+Integratives Lernen mit Fachtheorie und Fachpraxis ist erfolgversprechender und lässt höhere Integrationschancen erwarten. Berufliche Weiterbildungsmaßnahmen, die auf den nachträglichen Erwerb des Hauptschulabschlusses vorbereiten, bedürfen der Anerkennung durch eine fachkundige Stelle (FKS) gem. AZWV bzw. AZAV. Der berufliche Qualifizierungs- anteil derartiger Maßnahmen muss mindestens einen Anteil von 50% ausmachen.
+
+Die Inhalte der berufsfachlichen Qualifizierung derartiger Maßnahmen sollen sich an den Erfordernissen des regionalen Arbeitsmarktes orientieren. Die Inhalte des schulischen Maßnahmeteils müssen sich an den jeweiligen Prüfungsordnungen für Nichtschüler der einzelnen Bundesländer orientieren. Die Fächer Deutsch, Mathematik und Englisch sowie ein naturwissenschaftliches und ein gesellschaftspolitisches Fach sind obligatorisch.
+
+Bei Maßnahmen, die neben einer berufsfachlichen Qualifikation auch auf den Erwerb des Hauptschulabschlusses vorbereiten, kann erfahrungsgemäß eine Förderdauer von 6 Monaten ausreichen. In diesem Zusammenhang ist zu beachten, dass laut der Verordnung über die Externenprüfung zum Erwerb der Abschlüsse der Sekundarstufe I Prüfungen nur einmal jährlich stattfinden (§ 3 PO-Externe-S I).
+
+Der Bildungsgutschein ist eine Zusicherung i.S. des § 34 SGB X und somit eine Zusage, einen bestimmten Verwaltungsakt (Bewilligung) später zu erlassen. Damit wird das Vorliegen der Voraussetzungen für die Dauer der Gültigkeit des Bildungsgutscheines bescheinigt. Der Bildungsgutschein wird – wie ein Verwaltungsakt mit der Bekanntgabe – durch Aus- händigung wirksam, d.h. der Empfänger hat einen Rechtsanspruch auf das Zugesagte. Wird die Zusicherung im Bildungsgutschein eingeschränkt oder ist diese mit bestimmten Bedingungen versehen, so müssen auch diese Voraussetzungen erfüllt sein.
+
+Charakter BG
+
+Der Bildungsgutschein hat eine Gültigkeitsdauer von längstens 3 Monaten. Der Inhaber des Bildungsgutscheines muss innerhalb der Gültigkeitsdauer mit der Maßnahme beginnen, sonst verfällt der Bildungsgutschein. Der Bildungsgutschein gilt grundsätzlich für den Tagespendelbereich (vgl. § 140 (4) SGB III – Pendelzeiten bei VZ-Maßnahme mit mind. 6 Std. tgl. bis maximal 2,5 Std.). Für Maßnahmeziele, die im TPB nicht erwartet werden, ist eine auswärtige Teilnahme in Betracht zu ziehen. Ebenso ist das Bildungsziel konkret zu definieren. Damit wird verhindert, dass Leistungsberechtigte Bildungsmaßnahmen auswählen, die nach ihrer Vorbildung oder Berufserfahrung nicht geeignet sind (Prüfung der arbeitsmarktlichen Notwendigkeit und Zweckmäßigkeit).
+
+
+
+Chunk #12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+it der Maßnahme beginnen, sonst verfällt der Bildungsgutschein. Der Bildungsgutschein gilt grundsätzlich für den Tagespendelbereich (vgl. § 140 (4) SGB III – Pendelzeiten bei VZ-Maßnahme mit mind. 6 Std. tgl. bis maximal 2,5 Std.). Für Maßnahmeziele, die im TPB nicht erwartet werden, ist eine auswärtige Teilnahme in Betracht zu ziehen. Ebenso ist das Bildungsziel konkret zu definieren. Damit wird verhindert, dass Leistungsberechtigte Bildungsmaßnahmen auswählen, die nach ihrer Vorbildung oder Berufserfahrung nicht geeignet sind (Prüfung der arbeitsmarktlichen Notwendigkeit und Zweckmäßigkeit).
+
+Gültigkeit BG - zeitlich - regional - fachlich
+
+Um den Charakter des Gutscheinverfahrens nicht entgegenzuwirken ist mit Aushändigung des Bildungsgutscheins noch kein verbindlicher, auf das beabsichtigte Maßnahmeziel bestimmter Kooperationsplan zu schließen. Vielmehr sollte sich die inhaltliche Gestaltung des Kooperationsplans auf die Mitwirkung zur eigenverantwortlichen Recherche und Kontaktaufnahme zu einem mit dem vereinbarten Maßnahmeinhalt konformen Bildungsangebot/-träger beschränken (§ 31 (1) Nr. 1 SGB II). Erst bei Rücklauf des Bildungsgutscheins und Beantragung der Übernahme der Weiterbildungskosten ist der Kooperationsplan mit Aufnahme der Teilnahmebedingungen zu konkretisieren (§ 31 (1) Nr. 3 SGB II).
+
+Die Aushändigung des Bildungsgutscheins ist mit Begründung der Notwendigkeit der Förderung in FMG.job zu dokumentieren (Kunde - Dokumentation). Der Prüfbogen „Förderungsvoraussetzungen FbW“ ist in der Förderakte/E-Akte zu hinterlegen.
+
+Doku- mentation FMG.job
+
+Mit der Einlösung des Bildungsgutscheins gilt die zugesicherte Leistung als erbracht. Spätere Änderungen in den Verhältnissen des Leistungsberechtigten (z.B. Wegfall der Hilfebedürftigkeit) haben damit keinen Einfluss auf die getroffene Entscheidung. Da es sich nicht um einen Verwaltungsakt mit Dauerwirkung handelt, lassen sich bei einem Umzug in
+
+Einmalige Leistung - Wegfall der Hilfebedüftig- keit - Umzug
+
+- 9 -
+
+BG-
+
+Anlage 13
+
+den Bezirk eines anderen Grundsicherungsträger keine Gründe, die eine rechtliche Aufhebung der Entscheidung nach den §§ 44ff. SGB X rechtfertigen können, herleiten.
+
+Demzufolge verbleibt damit die einmal bewilligte FbW beim ursprünglich zuständigen Grundsicherungsträger, auch wenn der Kunde Leistungen zum Lebensunterhalt nach einem Umzug von einem anderen Grundsicherungsträger erhält.
+
+Förderumfang / Förderhöhe
+
+Grundsätzlich werden bei Teilnahme an einer beruflichen Weiterbildungsmaßnahme die individuellen Anspruchsvoraussetzungen Leistungen zum Lebensunterhalt, sofern die weiterhin anfallenden Weiterbildungskosten übernommen.
+
+§ 83 SGB III Weiterbildungskosten
+
+(1) Weiterbildungskosten sind die durch die Weiterbildung unmittelbar entstehenden 1. 2. 3. 4. (2) Leistungen können unmittelbar an den Träger der Maßnahme ausgezahlt werden, soweit Kosten bei dem Träger unmittelbar entstehen. Soweit ein Bescheid über die Bewilligung von unmittelbar an den Träger erbrachten Leistungen aufgehoben worden ist, sind diese Leistungen ausschließlich von dem Träger zu erstatten.
+
+
+
+Chunk #13
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ldungsmaßnahme die individuellen Anspruchsvoraussetzungen Leistungen zum Lebensunterhalt, sofern die weiterhin anfallenden Weiterbildungskosten übernommen.
+
+§ 83 SGB III Weiterbildungskosten
+
+(1) Weiterbildungskosten sind die durch die Weiterbildung unmittelbar entstehenden 1. 2. 3. 4. (2) Leistungen können unmittelbar an den Träger der Maßnahme ausgezahlt werden, soweit Kosten bei dem Träger unmittelbar entstehen. Soweit ein Bescheid über die Bewilligung von unmittelbar an den Träger erbrachten Leistungen aufgehoben worden ist, sind diese Leistungen ausschließlich von dem Träger zu erstatten.
+
+Lehrgangskosten und Kosten für die Eignungsfeststellung, Fahrkosten, Kosten für auswärtige Unterbringung und Verpflegung, Kosten für die Betreuung von Kindern.
+
+§ 84 SGB III Lehrgangskosten
+
+(1) Lehrgangskosten sind Lehrgangsgebühren einschließlich
+
+1. der Kosten für erforderliche Lernmittel, notwendige sozialpädagogische Begleitung, Arbeitskleidung und Prüfungsstücke, 2. der Prüfungsgebühren für gesetzlich geregelte oder allgemein anerkannte Zwischen- und Abschlussprüfungen sowie 3. der Kosten für eine notwendige Eignungsfeststellung.
+
+(2) Lehrgangskosten können auch für die Zeit vom Ausscheiden einer Teilnehmerin oder eines Teilnehmers bis zum planmäßigen Ende der Maßnahme übernommen werden, wenn
+
+1. die Teilnehmerin oder der Teilnehmer wegen Arbeitsaufnahme vorzeitig ausgeschieden ist, 2. das Arbeitsverhältnis durch Vermittlung des Trägers der Maßnahme zustande gekommen ist und 3. eine Nachbesetzung des frei gewordenen Platzes in der Maßnahme nicht möglich ist.
+
+§ 85 SGB III Fahrkosten
+
+Für Übernahme und Höhe der Fahrkosten gilt § 63 Absatz 1 und 3 entsprechend.
+
+- 10 -
+
+BG-
+
+Anlage 13
+
+§ 63 Fahrkosten
+
+(1) Als Bedarf für Fahrkosten werden folgende Kosten der oder des Auszubildenden zugrunde gelegt:
+
+1. Kosten für Fahrten zwischen Unterkunft, Ausbildungsstätte und Berufsschule (Pendelfahrten),
+
+2. bei einer erforderlichen auswärtigen Unterbringung Kosten für die An- und Abreise und für eine monatliche Familienheimfahrt oder anstelle der Familienheimfahrt für eine monatliche Fahrt einer oder eines Angehörigen zum Aufenthaltsort der oder des Auszubildenden. Eine auswärtige Unterbringung Familienwohnort aus nicht in angemessener Zeit erreicht werden kann.
+
+(2) ... (3) Die Fahrkosten werden in Höhe des Betrags zugrunde gelegt, der bei Benutzung des zweckmäßigsten regelmäßig verkehrenden öffentlichen Verkehrsmittels in der niedrigsten Klasse zu zahlen ist; bei Benutzung sonstiger Verkehrsmittel wird für Fahrkosten die Höhe der Wegstreckenentschädigung nach § 5 Absatz 1 des Bundesreisekostengesetzes (BRKG) zugrunde gelegt. Bei nicht geringfügigen Fahrpreiserhöhungen hat auf Antrag eine Anpassung zu erfolgen, wenn der Bewilligungszeitraum noch mindestens zwei weitere Monate andauert. Kosten für Pendelfahrten werden nur bis zur Höhe des Betrags zugrunde gelegt, der nach § 86 SGB III insgesamt erbracht werden kann.
+
+Nach § 5 (1) BRKG wird als Auslagenersatz bei Benutzung eines Kraftfahrzeuges oder eines anderen motorbetriebenen Fahrzeuges eine Wegstreckenentschädigung gewährt, und zwar in Höhe von 0,20 Euro je Kilometer zurückgelegter Strecke, höchstens jedoch 130 Euro je Einzelfahrt (insgesamt für Hin- und Rückfahrt). Für die Wegstreckenentschädigung kommt es nicht darauf an, wem das Fahrzeug gehört. Sind dem Antragsteller Kosten für Mitfahrt entstanden, erhält er ebenfalls 0,20 Euro je Kilometer, höchstens jedoch 130 Euro je Einzelfahrt. Dem Antragsteller steht es frei, das Beförderungsmittel selbst zu wählen.
+
+
+
+Chunk #14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+5 (1) BRKG wird als Auslagenersatz bei Benutzung eines Kraftfahrzeuges oder eines anderen motorbetriebenen Fahrzeuges eine Wegstreckenentschädigung gewährt, und zwar in Höhe von 0,20 Euro je Kilometer zurückgelegter Strecke, höchstens jedoch 130 Euro je Einzelfahrt (insgesamt für Hin- und Rückfahrt). Für die Wegstreckenentschädigung kommt es nicht darauf an, wem das Fahrzeug gehört. Sind dem Antragsteller Kosten für Mitfahrt entstanden, erhält er ebenfalls 0,20 Euro je Kilometer, höchstens jedoch 130 Euro je Einzelfahrt. Dem Antragsteller steht es frei, das Beförderungsmittel selbst zu wählen.
+
+Der Höchstbetrag von 130 Euro gilt jeweils für die − Familienheimfahrt einschließlich der Fahrt eines Angehörigen zum Teilnehmer (auf Gesamtfahrstrecke für Hin- und Rückfahrt), − Anreise, − Rückreise (d.h. für die Anreise und die Rückreise wird jeweils der Höchstbetrag angesetzt) und − tägliche Pendelfahrt (darüber hinaus gilt der kalendermonatliche Höchstbetrag für Pendelfahrkosten nach § 86 SGB III.
+
+Grundlage der Fahrkostenerstattung für die Teilnahme an Weiterbildungsmaßnahmen nach §§ 81, 82 und 85 SGB III ist § 63 Abs. 1 und 3 SGB III. Daher können Kosten für Pendelfahrten monatlich nur bis zur Höhe des Betrages übernommen werden, der bei auswärtiger Unterbringung für Unterkunft und Verpflegung zu leisten wäre (max. 588,- Euro monatlich).
+
+Fehltage wirken sich nicht auf die Höhe der Fahrkosten aus. Dies gilt auch bei Begrenzung der Fahrkosten durch den Höchstbetrag (§ 85 SGB III i.V.m. § 63 Abs. 3 S. 3 SGB III). Dagegen sind Fahrkosten zurückzufordern für Zeiten nach einem Maßnahmeabbruch.
+
+Die Angaben zur Nutzung des entsprechenden Beförderungsmittels haben sich an den tatsächlichen Gegebenheiten zu orientieren, Falschangaben in diesem Zusammenhang zu unrechtmäßig gewährten Erstattungsbeträgen. Wegstrecken-
+
+- 11 -
+
+grds. Kosten ÖPNV / ansonsten BRKG
+
+Höchstgrenze -588 €/mtl.-
+
+Regelung BRKG
+
+Fahrkosten- erstattung bei Fehltagen
+
+BG-
+
+Anlage 13
+
+entfernungen von bis zu 2 Kilometern sollten grundsätzlich ohne die Nutzung des ÖPNV bzw. eines motorbetriebenen Fahrzeuges überbrückt werden.
+
+Die Einführung des MobiTickets (Sozialticket) im Hochsauerlandkreis ab 01.01.2017 ist bei der Zugrundelegung der Kostenerstattung für das zweckmäßigste regelmäßig verkehrende öffentliche Verkehrsmittel in der niedrigsten Klasse zu berücksichtigen. Aufgrund der Ausgestaltung der Rahmenbedingungen zum Erwerb des MobiTickets kann es im Einzelfall kostengünstiger sein, auf das bisherige Erstattungsverfahren zum Erwerb einer Wochen- oder Monatskarte zurückzugreifen. Insbesondere in folgenden Fallgestaltungen
+
+Fahrkostenerstattung für einen anteiligen Monat (MobiTickets ist beantragt, Verfügbarkeit erst ab Folgemonat),
+
+Maßnahmebeendigung vor Ablauf der Gültigkeit des MobiTickets,
+
+kann die Erstattung einer Wochen- bzw. Monatskarte im Einzelfall günstiger sein. Bei derartigen Fallgestaltungen ist über eine Vergleichsberechnung die kostengünstigste Abrechnungsvariante zu berücksichtigen und darzustellen.
+
+
+
+Chunk #15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+s MobiTickets kann es im Einzelfall kostengünstiger sein, auf das bisherige Erstattungsverfahren zum Erwerb einer Wochen- oder Monatskarte zurückzugreifen. Insbesondere in folgenden Fallgestaltungen
+
+Fahrkostenerstattung für einen anteiligen Monat (MobiTickets ist beantragt, Verfügbarkeit erst ab Folgemonat),
+
+Maßnahmebeendigung vor Ablauf der Gültigkeit des MobiTickets,
+
+kann die Erstattung einer Wochen- bzw. Monatskarte im Einzelfall günstiger sein. Bei derartigen Fallgestaltungen ist über eine Vergleichsberechnung die kostengünstigste Abrechnungsvariante zu berücksichtigen und darzustellen.
+
+Beispiel:
+
+Maßnahmebesuch vom 06.02.2023 – 31.03.2023 (8 Wochen) im Stadtgebiet (Preisstufe 0M); Verfügbarkeit MobiTicket aufgrund des formellen Antragsverfahrens frühestens ab 01.03.2023.
+
+Vergleichsberechnung:
+
+Kostenaufwand MobiTicket: 3 x 27,- Euro = 81,- Euro zzgl. der anteiligen Kosten für 3 Wochentickets / 1 4er Ticket (à 18,90 Euro / 8,00 Euro) (bzw. 1 Monatsticket (56,20 Euro)) für anteilige Maßnahmetage im Februar = Gesamtkosten i.H.v. 145,70 Euro (bzw. 137,20 Euro).
+
+Kostenaufwand Monatskarte: 2x Monatsticket (56,20) = Gesamtkosten i.H.v. 112,40 Euro.
+
+Dieses Beispiel zeigt, dass die Berücksichtigung von Monatskarten ohne Einbindung des MobiTickets die kostengünstigste Erstattungsweise darstellt.
+
+Ein Gültigkeitszeitraum des MobiTicket über das Maßnahmeende hinaus ist für die Kostenübernahme unschädlich, sofern der Erwerb des MobiTickets in der Gesamtrechnung für die Maßnahmeteilnahme kostengünstiger ist. Mit Einführung des Deutschland-Tickets zum 01.05.2023 wird dessen Nutzung insbesondere für die Bewältigung überregionaler Fahrwege überwiegend die kostengünstigste Alternative darstellen.
+
+§ 86 SGB III Kosten für auswärtige Unterbringung und Verpflegung
+
+Ist eine auswärtige Unterbringung erforderlich, so kann
+
+1. für die Unterbringung je Tag ein Betrag in Höhe von 60 Euro gezahlt werden, je Kalendermonat jedoch höchstens 420 Euro, und
+
+2. für die Verpflegung je Tag ein Betrag in Höhe von 24 Euro gezahlt werden, je Kalendermonat jedoch höchstens 168 Euro.
+
+Erfordert die Teilnahme an einer Bildungsmaßnahme neben einer bereits in Anspruch genommenen auswärtigen Unterkunft eine weitere Unterkunft an einem anderen Ort (z.B. bei Ableistung eines Praktikums) und kann das Mietverhältnis für die erste auswärtige Unterkunft ist die Gewährung einer zweiten für diese Dauer nicht gekündigt werde, Unterkunftspauschale zulässig. Ein Nachweis der Miethöhe/ Verpflegungskosten Erstattungsbeträge nicht erforderlich.
+
+- 12 -
+
+Mobi- Ticket
+
+auswärtige Unter- bringung
+
+BG-
+
+Anlage 13
+
+§ 87 SGB III Kinderbetreuungskosten
+
+Kosten für die Betreuung der aufsichtsbedürftigen Kinder der Arbeitnehmerin oder des Arbeitnehmers können in Höhe von 160 Euro monatlich je Kind übernommen werden.
+
+Entstehen dem erwerbsfähigen Leistungsberechtigten während der Teilnahme an einer Voll- oder Teilzeitmaßnahme Kinderbetreuungskosten, können diese regelmäßig in Höhe von 160,- € übernommen werden. Dabei ist unerheblich, ob die Kosten bereits vor der Maßnahme angefallen sind. Als Kinderbetreuungskosten gelten u.a. Kindergarten-/ Hortgebühren, Kosten für eine Tagesmutter, Mehraufwendungen für die Betreuung bei Nachbarn und Verwandten. Die Kinderbetreuungskosten können auch übernommen werden, wenn der Bildungsträger selbst geeignete Kinderbetreuungsmöglichkeiten anbietet. Verpflegungskosten sind keine Kinderbetreuungskosten.
+
+
+
+Chunk #16
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Leistungsberechtigten während der Teilnahme an einer Voll- oder Teilzeitmaßnahme Kinderbetreuungskosten, können diese regelmäßig in Höhe von 160,- € übernommen werden. Dabei ist unerheblich, ob die Kosten bereits vor der Maßnahme angefallen sind. Als Kinderbetreuungskosten gelten u.a. Kindergarten-/ Hortgebühren, Kosten für eine Tagesmutter, Mehraufwendungen für die Betreuung bei Nachbarn und Verwandten. Die Kinderbetreuungskosten können auch übernommen werden, wenn der Bildungsträger selbst geeignete Kinderbetreuungsmöglichkeiten anbietet. Verpflegungskosten sind keine Kinderbetreuungskosten.
+
+Kinderbetreuungskosten für aufsichtsbedürftige Kinder können in der Regel nur bis zur Vollendung ihres 15. Lebensjahres übernommen werden. Bei Teilmonaten werden für jeden Kalendertag 1/30 der Monatspauschale von 160,- € erstattet. Bei Betreuungseinrichtungen ist auch für Teilmonate der volle Monatsbetrag zu zahlen. Kinderbetreuungskosten werden je Kind nur einmal gewährt. Es genügt grundsätzlich die Glaubhaftmachung der Kosten. Nachweise sind nur zu fordern, wenn die Angaben offensichtlich als unrichtig zu erkennen sind oder ein begründeter Verdacht besteht, dass unzutreffende Angaben gemacht wurden.
+
+Bei Beschäftigung einer Betreuungsperson im Haushalt des erwerbsfähigen Leistungsberechtigten sind die Bestimmungen über einen "Minijob" zu beachten. Wenn ein Arbeitnehmer in einem privaten Haushalt Tätigkeiten übernimmt, die üblicherweise von Familienmitgliedern durchgeführt werden, handelt es sich evtl. um eine "haushaltsnahe Dienstleistung". Hier ist im Regelfall eine Meldung an die Bundesknappschaft als Minijob- Zentrale erforderlich. https://www.minijob-zentrale.de/DE/minijob-anmelden/haushaltshilfe- (Detailinfos anmelden/haushaltshilfe-anmelden_node.html).
+
+Doppelfinanzierungen sind zu vermeiden. Daher ist eine Kostenübernahme in Fällen der Tagespflege nach SGB VIII durch das Jugendamt im Einzelfall zu prüfen. Dabei ist die Zuständigkeit nach dem SGB VIII auch bei Teilnahme an einer Maßnahme weiterhin gegeben, soweit das Jugendamt bereits vor Maßnahmeteilnahme die Pflege der Kinder aus erzieherischen Gründen übernommen hat. Treten die Hilfen des Jugendamtes allein wegen der Maßnahmeteilnahme ein, sind Kinderbetreuungskosten nach dem SGB II bzw. SGB III in der dort vorgesehenen Höhe zu erbringen.
+
+§ 87a SGB III Weiterbildungsprämie und Weiterbildungsgeld
+
+(1) Arbeitnehmerinnen und Arbeitnehmer erhalten folgende Prämien, wenn sie an einer nach § 81 geförderten beruflichen Weiterbildung teilnehmen, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist:
+
+1. nach Bestehen einer in den genannten Vorschriften geregelten Zwischenprüfung oder des ersten Teils einer gestreckten Abschlussprüfung eine Prämie von 1 000 Euro und 2. nach Bestehen einer in den genannten Vorschriften geregelten Abschlussprüfung eine Prämie von 1 500 Euro.
+
+- 13 -
+
+Kinder- betreuung
+
+
+
+Chunk #17
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Arbeitnehmer erhalten folgende Prämien, wenn sie an einer nach § 81 geförderten beruflichen Weiterbildung teilnehmen, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist:
+
+1. nach Bestehen einer in den genannten Vorschriften geregelten Zwischenprüfung oder des ersten Teils einer gestreckten Abschlussprüfung eine Prämie von 1 000 Euro und 2. nach Bestehen einer in den genannten Vorschriften geregelten Abschlussprüfung eine Prämie von 1 500 Euro.
+
+- 13 -
+
+Kinder- betreuung
+
+BG-
+
+Anlage 13
+
+(2) Arbeitslose Arbeitnehmerinnen und Arbeitnehmer erhalten bei Teilnahme an einer Weiterbildung nach Absatz 1 zusätzlich einen monatlichen Zuschuss in Höhe von 150 Euro (Weiterbildungsgeld).
+
+Mit dem Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung (AWStG) wurde die Gewährung einer Weiterbildungsprämie eingeführt. Teilnehmerinnen und Teilnehmer an einer geförderten, abschlussbezogenen Weiterbildung (Umschulung) in einem Ausbildungsberuf, für den eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist, erhalten seitdem zur Stärkung ihrer Motivation und ihres Durchhaltevermögens beim Bestehen einer durch Ausbildungsverordnung vorgeschriebenen Zwischenprüfung eine Prämie von 1.000,- Euro und beim Bestehen der Abschlussprüfung eine Prämie von 1.500,- Euro. Voraussetzung war bislang, dass die Maßnahme vor Ablauf des 31.12.2023 begonnen hat. Daneben regelt § 444a (2) SGB III, dass der Anspruch auf Zahlung einer Weiterbildungsprämie nach § 131a (3) nur für geförderte berufliche Weiterbildungsmaßnahmen gilt, die nach dem 31. Juli 2016 begonnen haben.
+
+Weiterbildungsprämie (§ 87a Abs. 1 SGB III)
+
+Mit der Einführung des Bürgergeldgesetzes werden die bestehenden Weiterbildungsprämien für den Abschluss von Zwischen- und Abschlussprüfungen, welche durch Gesetz oder Verordnung geregelt sind, entfristet. Die Regelung des § 131a (3) SGB III wurde in § 87a (1) SGB III überführt. Ebenso erfolgt eine Ergänzung indem der erste Teil einer gestreckten Abschlussprüfung der Zwischenprüfung gleichgestellt wird. Bei einer gestreckten Abschlussprüfung findet keine Zwischenprüfung statt, sondern eine Abschlussprüfung, die sich aus zwei bewerteten Teilen zusammensetzt. Teil 1 und 2 werden zeitlich voneinander getrennt geprüft. Eine Übersicht der Berufe mit gestreckter Abschlussprüfung kann dem Prüferportal des Bundesinstituts für Berufliche Bildung (BiBB) entnommen werden (https://www.prueferportal.org/de/prueferportal_78777.php).
+
+Für trägerinterne Leistungsprüfungen finden die Prämienregelungen keine Anwendung. Weiterbildungsprämien werden als fixe Beträge über 1.000,- Euro bzw. 1.500,- Euro gewährt. Eventuell anfallende Prüfungsgebühren sind nicht von den Prämien in Abzug zu bringen. Die Nachweispflicht für das Bestehen der prämierbaren Prüfungen liegt bei der erwerbsfähigen leistungsberechtigten Person. Erst bei Eingang des Nachweises einer bestandenen Zwischen-/Abschlussprüfung (Abschlusszeugnis oder ähnliches Dokument) erfolgt die Zahlbarmachung über das Fachverfahren FMG.job.
+
+
+
+Chunk #18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+rtal.org/de/prueferportal_78777.php).
+
+Für trägerinterne Leistungsprüfungen finden die Prämienregelungen keine Anwendung. Weiterbildungsprämien werden als fixe Beträge über 1.000,- Euro bzw. 1.500,- Euro gewährt. Eventuell anfallende Prüfungsgebühren sind nicht von den Prämien in Abzug zu bringen. Die Nachweispflicht für das Bestehen der prämierbaren Prüfungen liegt bei der erwerbsfähigen leistungsberechtigten Person. Erst bei Eingang des Nachweises einer bestandenen Zwischen-/Abschlussprüfung (Abschlusszeugnis oder ähnliches Dokument) erfolgt die Zahlbarmachung über das Fachverfahren FMG.job.
+
+Die Weiterbildungsprämie ist vom Grundsatz der Ermessensentscheidung ausgenommen, auf die Leistung besteht bei Vorliegen der gesetzlichen Voraussetzungen ein Rechtsanspruch. Eine ausdrückliche formelle Antragstellung ist nicht erforderlich.
+
+Eine Prämienzahlung setzt voraus, dass
+
+die Prüfung im Zusammenhang mit der Teilnahme an einer nach § 81 SGB III geförderten Weiterbildung bestanden und dies nachgewiesen wurde,
+
+die geförderte Maßnahme zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mind. zwei Jahren festgelegt ist und
+
+die ausbildungsrechtlichen Vorschriften eine entsprechende Prüfung vorsehen.
+
+- 14 -
+
+Weiter- bildungs- prämie
+
+BG-
+
+Anlage 13
+
+Prämiert werden
+
+nach bundes- oder landesrechtlichen Vorschriften vorgesehene bestandene
+
+Zwischen- und Abschlussprüfungen bei Umschulungen, Besuch
+
+bestandene Externenprüfungen (nach eines entsprechenden Vorbereitungslehrgangs oder von Teilqualifikationen),
+
+der erste Teil einer gestreckten Abschlussprüfung.
+
+Soweit die Ausbildungsordnung bei gestreckten Abschlussprüfungen (gAP) kein Nichtbestehen des ersten Teils und somit auch keinen Abbruch der Ausbildung vorsieht, kann der bzw. die Teilnehmende bei einem negativen Zwischenergebnis (z. B. Note 6) die Ausbildung trotzdem fortführen und auch erfolgreich abschließen. Aufgrund der möglichen Relevanz des ersten Teils der gAP für die Abschlussprüfung (§ 5 Absatz 2 Nr. 2a BBiG) wird die Prämie für die Zwischenprüfung nur ausgezahlt, wenn eine ausreichende Leistung erbracht wurde. Wird ein Ausbildungsabschluss gem. § 5 Absatz 2a BBiG trotz nicht bestandener Abschlussprüfung aufgrund mindestens ausreichender Prüfungsleistungen im ersten Teil der gAP erworben, ist sowohl die Prämie für die Zwischenprüfung als auch die Prämie für die Abschlussprüfung zu gewähren.
+
+Weiterbildungsgeld (§ 87a Abs. 2 SGB III)
+
+Mit der Gewährung eines Weiterbildungsgeldes sollen zusätzliche Anreize geschaffen werden, um Arbeitnehmerinnen und Arbeitnehmer auf dem Weg zu einer abgeschlossenen Berufsausbildung zu unterstützen und ihnen damit den Zugang zum Fachkräftearbeitsmarkt und zum Arbeitsmarkt besonders nachgefragter Berufe zu öffnen. Teilnehmerinnen und Teilnehmer an einer berufsabschlussbezogenen Weiterbildung sollen daher während der Teilnahme über die bestehende Prämienregelung hinaus zusätzlich einen monatlichen Zuschuss erhalten. Der Zuschuss soll nicht nur Anreizwirkung beinhalten, sondern auch einen Beitrag dazu leisten, um Mehraufwendungen durch die Teilnahme an einer mehrjährigen berufsabschlussbezogenen Weiterbildung zu decken (z.B. Aufwendungen für digitale Angebote, Beschaffung zusätzlicher Fachliteratur und Arbeitsmaterialien). Die Regelung sieht deshalb einen monatlichen Zuschuss von 150,- Euro für arbeitslose Arbeitnehmerinnen und Arbeitnehmer vor, die an einer geförderten berufsabschluss- bezogenen Weiterbildung nach § 81 SGB III teilnehmen.
+
+
+
+Chunk #19
+------------------------------------------------------------------------------------------------------------------------------------------------------
+mienregelung hinaus zusätzlich einen monatlichen Zuschuss erhalten. Der Zuschuss soll nicht nur Anreizwirkung beinhalten, sondern auch einen Beitrag dazu leisten, um Mehraufwendungen durch die Teilnahme an einer mehrjährigen berufsabschlussbezogenen Weiterbildung zu decken (z.B. Aufwendungen für digitale Angebote, Beschaffung zusätzlicher Fachliteratur und Arbeitsmaterialien). Die Regelung sieht deshalb einen monatlichen Zuschuss von 150,- Euro für arbeitslose Arbeitnehmerinnen und Arbeitnehmer vor, die an einer geförderten berufsabschluss- bezogenen Weiterbildung nach § 81 SGB III teilnehmen.
+
+Zwingende Voraussetzung für die Gewährung eines Weiterbildungsgeldes ist die Teilnahme an einer nach § 81 SGB III geförderten beruflichen Weiterbildung, die zu einem Abschluss in einem Ausbildungsberuf führt, für den nach bundes- oder landesrechtlichen Vorschriften eine Ausbildungsdauer von mindestens zwei Jahren festgelegt ist. Es handelt sich hier im Regelfall um geförderte berufliche Umschulungen. Informationen dazu, welche Berufe in einer zweijährigen Ausbildung erlernt werden können, sind bei planet-beruf.de oder im BERUFENET der Bundesagentur für Arbeit abrufbar.
+
+Der Anspruch auf Gewährung eines Weiterbildungsgeldes besteht bei Teilnahme einer geförderten beruflichen Weiterbildung frühestens ab 01.07.2023. Die gesetzliche Regelung des § 87a Abs. 2 SGB III umfasst damit Neufälle, welche ab Juli 2023 in eine förderfähige Weiterbildung eintreten und Bestandsfälle, welche vor dem 01.07.2023 eine förderfähige Weiterbildung aufgenommen haben und bei Inkrafttreten des § 87a Abs. 2 SGB II noch andauert. Das Weiterbildungsgeld wird nachträglich im Folgemonat für die Teilnahme an einer förderfähigen Weiterbildungsmaßnahme gezahlt. Bei Teilmonaten zu Beginn und Ende der Maßnahme werden für jeden Kalendertag 1/30 der Monatspauschale von 150,- Euro gewährt. Sofern eine Weiterbildungsmaßnahme, für die ein Weiterbildungsgeld gezahlt wird,
+
+- 15 -
+
+Weiter- bildungs- geld
+
+BG-
+
+Anlage 13
+
+abgebrochen wird, besteht kein Anspruch auf Weiterzahlung des Weiterbildungsgeldes. Dies gilt auch, wenn die erwerbsfähige leistungsberechtigte Person den Abbruch der Maßnahme nicht zu vertreten hat. Die Zahlung des Weiterbildungsgeldes endet mit dem individuellen Teilnahmeende. Soweit eine Maßnahmeteilnahme vor dem geplanten Ende abgebrochen wird, gilt als Teilnahmeende der letzte Anwesenheitstag (persönlich oder virtuell) in der zugrundeliegenden Maßnahme. Die vorzeitige Beendigung der Maßnahmeteilnahme führt nicht zur einer Rückforderung des bis zum letzten Teilnahmetag geleisteten Weiterbildungsgeldes. Fehlzeiten während der Maßnahmeteilnahme, die nicht zu einem Maßnahmeabbruch für die Zahlung des Weiterbildungsgeldes unberücksichtigt.
+
+Das Weiterbildungsgeld wird ab dem Zeitpunkt des tatsächlichen Beginns der Teilnahme gezahlt (leistungsbegründendes Ereignis). Bei Teilnahme in Teilzeit hat der Umfang der Teilzeit keine Auswirkungen auf die Höhe des Weiterbildungsgeldes. Das Weiterbildungsgeld ist eine Pflichtleistung und erfordert keinen Antrag.
+
+
+
+Chunk #20
+------------------------------------------------------------------------------------------------------------------------------------------------------
+vorzeitige Beendigung der Maßnahmeteilnahme führt nicht zur einer Rückforderung des bis zum letzten Teilnahmetag geleisteten Weiterbildungsgeldes. Fehlzeiten während der Maßnahmeteilnahme, die nicht zu einem Maßnahmeabbruch für die Zahlung des Weiterbildungsgeldes unberücksichtigt.
+
+Das Weiterbildungsgeld wird ab dem Zeitpunkt des tatsächlichen Beginns der Teilnahme gezahlt (leistungsbegründendes Ereignis). Bei Teilnahme in Teilzeit hat der Umfang der Teilzeit keine Auswirkungen auf die Höhe des Weiterbildungsgeldes. Das Weiterbildungsgeld ist eine Pflichtleistung und erfordert keinen Antrag.
+
+§ 16j SGB II Bürgergeldbonus
+
+Erwerbsfähige Leistungsberechtigte erhalten einen Bonus in Höhe von 75 Euro für jeden Monat der Teilnahme an einer der folgenden Maßnahmen:
+
+1. Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 4 des Neunten Buches mit einer Mindestdauer von acht Wochen, für die kein Weiterbildungsgeld nach § 87a Absatz 2 des Dritten Buches gezahlt wird, 2. berufsvorbereitende Bildungsmaßnahmen nach § 51 des Dritten Buches sowie nach § 49 Absatz 3 Nummer 2 des Neunten Buches, Maßnahmen in der Vorphase der Assistierten Ausbildung nach § 75a des Dritten Buches in Verbindung mit § 16 Absatz 1 Satz 2 Nummer 3, 3. Maßnahmen zur Förderung schwer zu erreichender junger Menschen nach § 16h Absatz 1.
+
+für Mit Maßnahmeteilnahmen eingeführt, deren Bedeutung Integration besonders wichtig ist. Maßnahmen der beruflichen Weiterbildung (FbW) auf Grundlage der §§ 81 und 82 SGB III gehören im Sinne der Qualifizierungsoffensive vorrangig in diesen Maßnahmekatalog; berufliche Voraussetzung Weiterbildungsmaßnahme eine Mindestdauer von acht Wochen hat. Die Mindestdauer sichert eine zweckmäßige Abgrenzung zu den Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45 SGB III ab. Die acht Wochen Mindestdauer sind als Gesamt- Teilnahmezeitraum zu betrachten; nicht erforderlich ist, dass die Weiterbildung an 40 Tagen oder 320 Stunden stattfindet. Daher ist die Teilnahme an einer Maßnahme zur beruflichen förderbar, wenn die Weiterbildung Maßnahmedauer acht Wochen beträgt.
+
+Zu den Maßnahmen der beruflichen Weiterbildung zählen auch Weiterbildungen, die der Anerkennung eines ausländischen Berufsabschlusses dienen. Berufliche Weiterbildungen, die das Nachholen eines Berufsabschlusses vorsehen, sind von der Bonuszahlung ausgenommen. Für Teilnehmer/-innen berufsabschlussbezogener Weiterbildungen nach § 81 (2) SGB III wird ein monatliches Weiterbildungsgeld (§ 87a (2) SGB III) gewährt. Eine Doppelförderung von Weiterbildungsgeld und Bürgergeldbonus ist ausgeschlossen.
+
+- 16 -
+
+BG-
+
+Anlage 13
+
+Der Anspruch auf Gewährung eines Bürgergeldbonus besteht bei Teilnahme einer geförderten beruflichen Weiterbildung frühestens ab 01.07.2023. Die gesetzliche Regelung des § 16j Nr. 1 SGB II umfasst damit Neufälle, welche ab Juli 2023 in eine förderfähige Weiterbildung eintreten und Bestandsfälle, welche vor dem 01.07.2023 eine förderfähige Weiterbildung aufgenommen haben und bei Inkrafttreten des § 16j Nr.1 SGB II noch andauert. Der Bürgergeldbonus wird nachträglich im Folgemonat für die Teilnahme an einer förderfähigen Weiterbildungsmaßnahme gezahlt. Bei Teilmonaten zu Beginn und Ende der Maßnahme werden für jeden Kalendertag 1/30 der Monatspauschale von 75,- Euro gewährt. für die ein Bürgergeldbonus gezahlt wird, Sofern eine Weiterbildungsmaßnahme, abgebrochen wird, besteht kein Anspruch auf Weiterzahlung des Bürgergeldbonus. Dies gilt auch, wenn die erwerbsfähige leistungsberechtigte Person den Abbruch der Maßnahme nicht zu vertreten hat.
+
+
+
+Chunk #21
+------------------------------------------------------------------------------------------------------------------------------------------------------
+aufgenommen haben und bei Inkrafttreten des § 16j Nr.1 SGB II noch andauert. Der Bürgergeldbonus wird nachträglich im Folgemonat für die Teilnahme an einer förderfähigen Weiterbildungsmaßnahme gezahlt. Bei Teilmonaten zu Beginn und Ende der Maßnahme werden für jeden Kalendertag 1/30 der Monatspauschale von 75,- Euro gewährt. für die ein Bürgergeldbonus gezahlt wird, Sofern eine Weiterbildungsmaßnahme, abgebrochen wird, besteht kein Anspruch auf Weiterzahlung des Bürgergeldbonus. Dies gilt auch, wenn die erwerbsfähige leistungsberechtigte Person den Abbruch der Maßnahme nicht zu vertreten hat.
+
+Die Teilnahme an einer Maßnahme in Teilzeit hat keine Auswirkungen auf die Höhe des Bürgergeldbonus. Fehlzeiten während der Maßnahmeteilnahme, die nicht zu einem Maßnahmeabbruch führen, führen nicht zu einer Kürzung des Bürgergeldbonus.
+
+Weitergehende Detailregelungen zur Ausgestaltung des Bürgergeldbonus sind in den Hinweisen und Handlungsempfehlungen zjm
+
+Hinweise
+
+Im Regelfall werden Lehrgangskosten direkt an den Träger ausgezahlt. Die Auszahlung an den Träger begründet für ihn kein Recht darauf und macht ihn nicht zum Anspruchsinhaber. Deshalb kann der Anspruch auch nicht vom Träger an Dritte übertragen werden. Werden Lehrgangskosten an den Träger ausgezahlt, ist dies dem Leistungsberechtigten im Bewilligungsbescheid mitzuteilen.
+
+Zu den Lehrgangskosten zählen alle im Zusammenhang mit der Vorbereitung und Durchführung einer Bildungsmaßnahme und der Prüfung entstehenden notwendigen Kosten. Lehrgangskosten bei betrieblichen Einzelmaßnahmen sind auch die Kosten für eine notwendige überbetriebliche Unterweisung, Berufsschulgebühren, soweit diese anfallen, sowie Kosten für einen notwendigen Stützunterricht.
+
+Die Kosten für die Beschaffung notwendiger Arbeitskleidung können in voller Höhe getragen werden. Die Arbeitskleidung ist grundsätzlich vom Träger zu beschaffen und in den Lehrgangskosten einzukalkulieren. Lehrgangskosten sind auch während der Fehlzeiten weiterzuzahlen.
+
+Die Zahlung der Lehrgangskosten erfolgt in gleichbleibenden Monatsraten. Die Anzahl der Monatsraten entspricht der Anzahl der vollen Teilnahmemonate. Die Höhe des Monatsbetrages ermittelt sich aus der im Bildungsgutschein festgelegte max. Weiterbildungsdauer nicht überschreiten darf, und den ggf. anteiligen Lehrgangskosten. Die Monatsraten werden, soweit nichts anderes vereinbart ist, monatlich nachträglich gezahlt. Die erste Monatsrate ist fällig am Tag nach Ablauf des Monats seit Maßnahmebeginn. Die Aufnahme- und Zahlungsbedingungen und Höhe der Monatsraten werden im Regelfall durch Vorlage des Maßnahmebogens durch die Träger nachgewiesen (Anerkennungsverfahren).
+
+Im Falle eines vorzeitigen Austritts aus der Maßnahme sind noch zwei der nach dem Ausscheiden (letzter Anwesenheitstag) fälligen Monatsraten zu den entsprechenden Fälligkeitsterminen auszuzahlen. Dies gilt nicht, wenn der Maßnahmeträger den Abbruch zu vertreten hat.
+
+- 17 -
+
+Auszahlung an Träger
+
+Umfang Lehrgangsk.
+
+Monatsraten/ Fälligkeit LK
+
+
+
+Chunk #22
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die erste Monatsrate ist fällig am Tag nach Ablauf des Monats seit Maßnahmebeginn. Die Aufnahme- und Zahlungsbedingungen und Höhe der Monatsraten werden im Regelfall durch Vorlage des Maßnahmebogens durch die Träger nachgewiesen (Anerkennungsverfahren).
+
+Im Falle eines vorzeitigen Austritts aus der Maßnahme sind noch zwei der nach dem Ausscheiden (letzter Anwesenheitstag) fälligen Monatsraten zu den entsprechenden Fälligkeitsterminen auszuzahlen. Dies gilt nicht, wenn der Maßnahmeträger den Abbruch zu vertreten hat.
+
+- 17 -
+
+Auszahlung an Träger
+
+Umfang Lehrgangsk.
+
+Monatsraten/ Fälligkeit LK
+
+Abbruch und Lehr- gangskosten
+
+BG-
+
+Anlage 13
+
+Bei vorzeitigem Ausscheiden eines Teilnehmers wegen sozialversicherungspflichtiger Arbeitsaufnahme durch Vermittlung des Bildungsträgers können abweichend von der vorstehenden Regelung Lehrgangskosten bei Maßnahmen mit feststehenden Beginntermin, die nicht auf den Erwerb eines anerkannten Berufsabschlusses ausgerichtet sind, bis zum planmäßigen Maßnahmeende gezahlt werden. Dies setzt voraus, dass eine Nachbesetzung durch einen anderen Teilnehmer nicht möglich ist und der Träger den Abbruch unverzüglich zur Nachbesetzung mitgeteilt hat. Es muss sich in diesen Fällen um ein unbefristetes oder auf mind. 1 Jahr befristetes, versicherungspflichtiges Arbeitsverhältnis handeln. Der Träger hat hierzu spätestens einen Monat nach Ausscheiden eine schriftliche Erklärung vorzulegen.
+
+Die übrigen Weiterbildungskosten (Fahrkosten, Kosten für auswärtige Unterbringung und Verpflegung, Kinderbetreuungskosten) werden im Regelfall an den Teilnehmer monatlich im Voraus gezahlt. Etwaige zu Unrecht geleistete Beträge (z.B. Maßnahmeabbruch) sind zurückzufordern. Die Gewährung der Weiterbildungsprämie erfolgt bei Eingang des Nachweises bzw. Abschlussprüfung. Das Weiterbildungsgeld bzw. der Bürgergeldbonus wird monatlich nachträglich gewährt. Fehltage wirken sich nicht auf die Höhe der Fahrkosten aus. Dies gilt auch bei Begrenzung der Fahrkosten durch den Höchstbetrag (§ 85 i.V.m. § 63 Abs. 3 Satz 3 SGB III).
+
+Verfahrensregelungen
+
+Die Entscheidung und Bewilligung der Weiterbildungskosten erfolgt auf Antrag des Arbeitsuchenden in jedem Fall vor Beginn einer Bildungsmaßnahme. Sowohl Antragstellung als auch Bewilligung haben in jedem Fall schriftlich zu erfolgen. Entsprechende Vorlagen sind im Fachverfahren FMGII hinterlegt. Es handelt sich um eine Ermessensentscheidung des zuständigen Jobcenters. Im Vorfeld hat bereits ein Beratungsgespräch mit Feststellung des Qualifizierungsbedarfs (Aushändigung Bildungsgutschein) stattgefunden. Der Ablauf des Verwaltungsverfahrens im Zusammenhang der Teilnahme einer Maßnahme zur Förderung der beruflichen Weiterbildung ist in Anlage 13b der ARK (Forum SGB II) im Detail beschrieben.
+
+Qualifizierte Umschulungen zur Erlangung eines Berufsabschlusses sind im Regelfall über die Möglichkeit einer betrieblichen Einzelumschulung anzustreben (siehe auch Hinweisblatt „Berufliche Umschulung“). ist grundsätzlich die Zahlung einer „Ausbildungsvergütung“ seitens des Umschulungsbetriebes aus Motivations- und in besonders notwendigen und Nachhaltigkeitsgründen zu begründeten Fällen abgesehen (z.B. Erlangung eines Berufsabschlusses als alleinige Integrationschance, Ausbildung in Mangelberufen, Ausbildung über Bedarf) bzw. eine anteilige Beteiligung vereinbart werden. Existierende tarifvertragliche Bestimmungen (z.B. Tariflohn für Umschüler) sind allerdings einzuhalten. Die Vorschriften zur Dauer einer Maßnahme sind zu beachten.
+
+
+
+Chunk #23
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nzustreben (siehe auch Hinweisblatt „Berufliche Umschulung“). ist grundsätzlich die Zahlung einer „Ausbildungsvergütung“ seitens des Umschulungsbetriebes aus Motivations- und in besonders notwendigen und Nachhaltigkeitsgründen zu begründeten Fällen abgesehen (z.B. Erlangung eines Berufsabschlusses als alleinige Integrationschance, Ausbildung in Mangelberufen, Ausbildung über Bedarf) bzw. eine anteilige Beteiligung vereinbart werden. Existierende tarifvertragliche Bestimmungen (z.B. Tariflohn für Umschüler) sind allerdings einzuhalten. Die Vorschriften zur Dauer einer Maßnahme sind zu beachten.
+
+Im Rahmen der Erreichung des bestmöglichen Integrationserfolges hat ein beidseitiger enger Informationsaustausch mit Fallmanagement und Träger zu erfolgen. Insbesondere sind Trägerleistungen, Fortentwicklung in der Person und Anwesenheit zu verfolgen. Regelmäßige Maßnahmebesuche sind Standard und sichern die Qualität und Erfolg beruflicher Weiterbildungsmaßnahmen.
+
+- 18 -
+
+vorz. Aussch. wg. Arbeit- aufnahme
+
+Fälligkeit der sonstigen Weiterbil- dungskosten
+
+Einzel- Umschulung
+
+Zusammen- Arbeit / Info- austausch
+
+BG-
+
+Anlage 13
+
+Qualitätsmerkmale beruflicher Weiterbildungsmaßnahmen (Ausführungen zur Träger-/Maßnahmezulassung informativ)
+
+Zulassung von Trägern und Maßnahmen
+
+§ 176 Grundsatz
+
+(1) Träger bedürfen der Zulassung durch eine fachkundige Stelle, um Maßnahmen der Arbeitsförderung selbst durchzuführen oder durchführen zu lassen. Arbeitgeber, die ausschließlich betriebliche Maßnahmen oder betriebliche Teile von Maßnahmen durchführen, bedürfen keiner Zulassung.
+
+(2) Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 bedürfen der Zulassung nach § 179 durch eine fach- kundige Stelle. Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 bedürfen der Zulassung nach den §§ 179 und 180.
+
+§ 177 Fachkundige Stelle ...
+
+§ 178 Trägerzulassung
+
+Ein Träger ist von einer fachkundigen Stelle zuzulassen, wenn
+
+1. er die erforderliche Leistungsfähigkeit und Zuverlässigkeit besitzt, 2. er in der Lage ist, durch eigene Bemühungen die berufliche Eingliederung von Teilnehmenden in den Arbeitsmarkt zu unterstützen, 3. Leitung, Lehr- und Fachkräfte über Aus- und Fortbildung sowie Berufserfahrung verfügen, die eine erfolgreiche Durchführung einer Maßnahme erwarten lassen, 4. er ein System zur Sicherung der Qualität anwendet und 5. seine vertraglichen Vereinbarungen mit den Teilnehmenden angemessene Bedingungen insbesondere über Rücktritts- und Kündigungsrechte enthalten.
+
+§ 179 Maßnahmezulassung
+
+(1) Eine Maßnahme ist von der fachkundigen Stelle zuzulassen, wenn sie
+
+1. nach Gestaltung der Inhalte, der Methoden und Materialien ihrer Vermittlung sowie der Lehrorganisation eine erfolgreiche Teilnahme erwarten lässt und nach Lage und Entwicklung des Arbeitsmarktes zweckmäßig ist, 2. angemessene Teilnahmebedingungen bietet und die räumliche, personelle und technische Ausstattung die Durchführung der Maßnahme gewährleisten und 3. nach den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit geplant und durchgeführt wird, insbesondere die Kosten und die Dauer angemessen sind; die Dauer ist angemessen, wenn sie sich auf den Umfang beschränkt, der notwendig ist, um das Maßnahmeziel zu erreichen. Die Kosten einer Maßnahme nach § 45 Absatz 4 Satz 3 Nummer 1 sind angemessen, wenn sie sachgerecht ermittelt worden sind und sie die für das jeweilige Maßnahmeziel von der Bundesagentur jährlich ermittelten durchschnittlichen Kostensätzen einschließlich der von ihr beauftragten Maßnahmen nicht unverhältnismäßig übersteigen.
+
+
+
+Chunk #24
+------------------------------------------------------------------------------------------------------------------------------------------------------
+n und 3. nach den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit geplant und durchgeführt wird, insbesondere die Kosten und die Dauer angemessen sind; die Dauer ist angemessen, wenn sie sich auf den Umfang beschränkt, der notwendig ist, um das Maßnahmeziel zu erreichen. Die Kosten einer Maßnahme nach § 45 Absatz 4 Satz 3 Nummer 1 sind angemessen, wenn sie sachgerecht ermittelt worden sind und sie die für das jeweilige Maßnahmeziel von der Bundesagentur jährlich ermittelten durchschnittlichen Kostensätzen einschließlich der von ihr beauftragten Maßnahmen nicht unverhältnismäßig übersteigen.
+
+(2) Eine Maßnahme, die im Ausland durchgeführt wird, kann nur zugelassen werden, wenn die Durchführung im Ausland für das Erreichen des Maßnahmeziels besonders dienlich ist.
+
+§ 180 SGB III Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
+
+(1) Für eine Maßnahme der beruflichen Weiterbildung nach den §§ 81 und 82 gelten für die Zulassung durch die fachkundige Stelle ergänzend die Anforderungen der nachfolgenden Absätze.
+
+(2) Eine Maßnahme ist zuzulassen, wenn
+
+1. durch sie berufliche Fertigkeiten, Kenntnisse und Fähigkeiten erhalten, erweitert, der technischen Entwicklung angepasst werden oder ein beruflicher Aufstieg ermöglicht wird, 2. sie einen beruflichen Abschluss vermittelt oder die Weiterbildung in einem Betrieb, die zu einem solchen Abschluss führt, unterstützend begleitet oder 3. sie zu einer anderen beruflichen Tätigkeit befähigt und mit einem Zeugnis, das Auskunft über den Inhalt des vermittelten Lehrstoffs gibt, abschließt.
+
+- 19 -
+
+BG-
+
+Anlage 13
+
+Sofern es dem Wiedereingliederungserfolg förderlich ist, soll die Maßnahme im erforderlichen Umfang Grundkompetenzen vermitteln und betriebliche Lernphasen vorsehen.
+
+(3) Ausgeschlossen von der Zulassung ist eine Maßnahme, wenn
+
+1. überwiegend Wissen vermittelt wird, das dem von allgemeinbildenden Schulen angestrebten Bildungsziel entspricht, oder die Maßnahme auf den Erwerb eines Studienabschlusses an Hochschulen oder ähnlichen Bildungsstätten gerichtet ist oder 2. überwiegend nicht berufsbezogene Inhalte vermittelt werden.
+
+Satz 1 gilt nicht für Maßnahmen, die
+
+1. auf den nachträglichen Erwerb des Hauptschulabschlusses vorbereiten oder 2. Grundkompetenzen vermitteln, deren Erwerb die Grundlage für eine erfolgreiche berufliche Weiterbildung schafft oder allgemein die Beschäftigungsfähigkeit verbessert.
+
+(4) Die Dauer einer Vollzeitmaßnahme, die zu einem Abschluss in einem allgemein anerkannten Ausbildungsberuf führt, ist angemessen im Sinne des § 179 Absatz 1 Nummer 3, wenn sie gegenüber einer entsprechenden Berufsausbildung um mindestens ein Drittel der Ausbildungszeit verkürzt ist, es sei denn, die Maßnahme ist auf Arbeitnehmerinnen und Arbeitnehmer ausgerichtet, bei denen aufgrund ihrer Eignung oder ihrer persönlichen Verhältnisse eine erfolgreiche Teilnahme nur bei einer nicht verkürzten Dauer erwartet werden kann. Abweichend von Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung auch dann angemessen, wenn sie auf Grund bundes- oder landesrechtlichen Regelungen nicht um mindestens ein Drittel verkürzt werden kann.
+
+
+
+Chunk #25
+------------------------------------------------------------------------------------------------------------------------------------------------------
+bsatz 1 Nummer 3, wenn sie gegenüber einer entsprechenden Berufsausbildung um mindestens ein Drittel der Ausbildungszeit verkürzt ist, es sei denn, die Maßnahme ist auf Arbeitnehmerinnen und Arbeitnehmer ausgerichtet, bei denen aufgrund ihrer Eignung oder ihrer persönlichen Verhältnisse eine erfolgreiche Teilnahme nur bei einer nicht verkürzten Dauer erwartet werden kann. Abweichend von Satz 1 ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung auch dann angemessen, wenn sie auf Grund bundes- oder landesrechtlichen Regelungen nicht um mindestens ein Drittel verkürzt werden kann.
+
+(5) Zeiten einer der beruflichen Weiterbildung folgenden Beschäftigung, die der Erlangung der staatlichen Anerkennung oder der staatlichen Erlaubnis zur Ausübung des Berufes dienen, sind nicht berufliche Weiterbildung im Sinne dieses Buches.
+
+§ 181 Zulassungsverfahren ...
+
+§ 183 Qualitätsprüfung
+
+(1) Die Agentur für Arbeit kann die Durchführung einer Maßnahme nach § 176 Absatz 2 prüfen und deren Erfolg beobachten. Sie kann insbesondere
+
+1. von dem Träger der Maßnahme sowie den Teilnehmenden Auskunft über den Verlauf der Maßnahme und den Eingliederungserfolg verlangen und 2. die Einhaltung der Voraussetzungen für die Zulassung des Trägers und der Maßnahme prüfen, indem sie Einsicht in alle die Maßnahme betreffenden Unterlagen des Trägers nimmt.
+
+(2) Die Agentur für Arbeit ist berechtigt, zum Zweck nach Absatz 1 Grundstücke, Geschäfts- und Unterrichtsräume des Trägers während der Geschäfts- oder Unterrichtszeit zu betreten. Wird die Maßnahme bei einem Dritten durchgeführt, ist die Agentur für Arbeit berechtigt, die Grundstücke, Geschäfts- und Un- terrichtsräume des Dritten während dieser Zeit zu betreten. Stellt die Agentur für Arbeit bei der Prüfung der Maßnahme hinreichende Anhaltspunkte für Verstöße gegen datenschutzrechtliche Vorschriften fest, soll sie die zuständige Kontrollbehörde für den Datenschutz hiervon unterrichten.
+
+(3) Die Agentur für Arbeit kann vom Träger die Beseitigung festgestellter Mängel innerhalb einer ange- messenen Frist verlangen. Die Agentur für Arbeit kann die Geltung des Aktivierungs- und Vermittlungsgut- scheins oder des Bildungsgutscheins für einen Träger ausschließen und die Entscheidung über die Förderung aufheben, wenn
+
+1. der Träger dem Verlangen nach Satz 1 nicht nachkommt, 2. die Agentur für Arbeit schwerwiegende und kurzfristig nicht zu behebende Mängel festgestellt hat, 3. die in Absatz 1 genannten Auskünfte nicht, nicht rechtzeitig oder nicht vollständig erteilt werden oder 4. die Prüfungen oder das Betreten der Grundstücke, Geschäfts- und Unterrichtsräume durch die Agentur für Arbeit nicht geduldet werden.
+
+(4) Die Agentur für Arbeit teilt der fachkundigen Stelle und der Akkreditierungsstelle die nach den Absätzen 1 bis 3 gewonnenen Erkenntnisse mit.
+
+- 20 -
+
+BG-
+
+Anlage 13
+
+Förderdauer
+
+Die Vorschrift des § 180 Abs. 4 1. HS SGB III begrenzt die Förderung einer Vollzeitmaßnahme, die zu einem Berufsabschluss führt (berufliche Umschulung), auf maximal 2/3 der Regelausbildungszeit. Für alle aufgrund bundes- oder landesgesetzlicher Regelungen nicht verkürzbaren Weiterbildungsmaßnahmen muss die Finanzierung des letzten Drittels außerhalb der Arbeitsförderung von Beginn an abgesichert sein (Hinweis: In der Altenpflege bestand eine bis 31.12.2019 nach § 131b SGB III zeitlich befristete Ausnahmeregel, welche durch das Pflegereformgesetz nunmehr dauerhaft verankert wurde). So hat i.d.R. der Träger der praktischen Ausbildung neben einer Ausbildungsvergütung auch die Weiterbildungskosten die Finanzierungsbestätigung des Trägers nicht vor, ist der Bildungsgutschein nicht einlösbar.
+
+
+
+Chunk #26
+------------------------------------------------------------------------------------------------------------------------------------------------------
+r alle aufgrund bundes- oder landesgesetzlicher Regelungen nicht verkürzbaren Weiterbildungsmaßnahmen muss die Finanzierung des letzten Drittels außerhalb der Arbeitsförderung von Beginn an abgesichert sein (Hinweis: In der Altenpflege bestand eine bis 31.12.2019 nach § 131b SGB III zeitlich befristete Ausnahmeregel, welche durch das Pflegereformgesetz nunmehr dauerhaft verankert wurde). So hat i.d.R. der Träger der praktischen Ausbildung neben einer Ausbildungsvergütung auch die Weiterbildungskosten die Finanzierungsbestätigung des Trägers nicht vor, ist der Bildungsgutschein nicht einlösbar.
+
+Eine Eigenfinanzierung durch den Teilnehmer oder die Gewährung eines Darlehens durch die Ausbildungsstätte entspricht nicht der Intention des Gesetzgebers und ist daher nicht möglich.
+
+Der Bildungsgutschein ist in diesen Fällen entsprechend verkürzt auf max. zwei Drittel der Gesamtdauer der nicht verkürzbaren Ausbildung auszustellen. Auch wenn die fachkundige Stelle die Maßnahme anerkannt hat, ist eine Förderung nicht möglich, wenn die Finanzierung des letzten Drittels nicht sichergestellt ist.
+
+Der „Bildungsgutschein“ wird in seiner Gültigkeit auf einen Zeitraum von jeweils drei Monate befristet.
+
+Die individuelle Dauer der Qualifizierung hat sich an der arbeitsmarktlichen Notwendigkeit zu orientieren. Eine Förderdauer von Qualifizierungsgängen von mehr als 28 Monaten ist für die allgemeine Zielgruppe beruflicher Weiterbildungsförderungen nicht möglich. Abweichend von § 180 Abs. 4 1. HS SGB III ist die Dauer einer Vollzeitmaßnahme der beruflichen Weiterbildung auch dann angemessen, wenn sie nach dem Pflegeberufegesetz nicht um letzte Drittel der mind. ein Drittel verkürzt werden kann. Damit kann auch das Ausbildungsgänge in der Pflege gefördert werden (Ausfluss des Gesetzes zur Stärkung der beruflichen Aus- und Weiterbildung in der Altenpflege sowie die Regelung des § 180 Abs. 4 S. 2 SGB III).
+
+Mit Einführung des Bürgergeldgesetzes wurde die Vorschrift des § 180 (4) SGB III dahingehend erweitert, dass das Erfordernis der Verkürzung der Ausbildungszeit um mind. ein Drittel nicht greift, sofern die Maßnahme auf Arbeitnehmer ausgerichtet ist, bei denen aufgrund ihrer Eignung oder ihrer persönlichen Verhältnisse eine erfolgreiche Teilnahme nur bei einer nicht verkürzten Dauer erwartet werden kann. Die Notwendigkeit bzw. Beurteilung der grundsätzlichen Eignung der ausgedehnten Förderung ist durch eine psychologische Eignungsuntersuchung zu bescheinigen und aktenkundig zu machen.
+
+Sonderfall „Verlängerung“ bzw. Wiederholung einer Maßnahme zur Förderung der beruflichen Weiterbildung
+
+Grundsätzlich gilt, dass der Maßnahmeverlauf hinsichtlich Dauer und Umfang entsprechend der Festlegungen im Zulassungsverfahren festgelegt (siehe Maßnahmebogen) ist und damit auch vom Bildungs-/ Maßnahmeträger verbindlich einzuhalten ist, sofern der Bildungsgutschein angenommen wurde.
+
+Kann der im Rahmen des Bildungsgutscheins/Maßnahmebogen vorgesehene Zeitplan wider Erwarten nicht eingehalten werden, kann es dafür zwei Ursachen geben:
+
+
+
+Chunk #27
+------------------------------------------------------------------------------------------------------------------------------------------------------
+untersuchung zu bescheinigen und aktenkundig zu machen.
+
+Sonderfall „Verlängerung“ bzw. Wiederholung einer Maßnahme zur Förderung der beruflichen Weiterbildung
+
+Grundsätzlich gilt, dass der Maßnahmeverlauf hinsichtlich Dauer und Umfang entsprechend der Festlegungen im Zulassungsverfahren festgelegt (siehe Maßnahmebogen) ist und damit auch vom Bildungs-/ Maßnahmeträger verbindlich einzuhalten ist, sofern der Bildungsgutschein angenommen wurde.
+
+Kann der im Rahmen des Bildungsgutscheins/Maßnahmebogen vorgesehene Zeitplan wider Erwarten nicht eingehalten werden, kann es dafür zwei Ursachen geben:
+
+21 -
+
+|
+
+3-jährige Ausbildungs- gänge nach Bundes-/ Landesrecht
+
+Ausnahme: Umschulung in der Altenpflege
+
+Ausnahme: fehlende Eignung (§ 180 (4) 2. HS
+
+BG-
+
+Anlage 13
+
+e
+
+«e
+
+trägerinterne Verzögerungen und Einschränkungen im Maßnahmeverlauf (z.B. Unterricht findet nicht wie geplant statt) teilnahmebedingte Wiederholungsprüfung)
+
+Bei Anhaltspunkten ist bei Bekanntwerden sofort eine Sachverhaltsaufklärung aufzunehmen um die Defizite abzustellen.
+
+Kann die/der Teilnehmende z.B. wegen erheblichen krankheitsbedingten Ausfall das Bildungsziel trotz aller Anstrengungen des Bildungsträgers absehbar nicht mehr erreichen, ist der Abbruch der Maßnahme bzw. eine Verlängerung der Maßnahme (im Sinne einer erneuten Förderung) zu prüfen, sofern nicht grundsätzliche Zweifel an der Eignung (z.B. berufsbezogene Sprachkompetenz) und Motivation (z.B. auffällige unentschuldigte Fehlzeiten) bestehen.
+
+Insbesondere auch Führerscheinausbildungen) steht die Frage einer Wiederholungsprüfung bei Nichtbestehen im Raum. Im Regelfall kann hier eine Wiederholungsprüfung bei grundsätzlich vorliegender Eignung und Motivation nicht im regulär vorgesehenen Maßnahmezeitraum realisiert werden. In diesen Fallgestaltungen ist die Frage einer erneuten Förderung (im Sinne einer Verlängerung einer Bildungsmaßnahme) zu klären. Entscheidungskriterien können sein:
+
+Kann der Maßnahmeerfolg ggf. mit einer Verlängerung erreicht werden? Welche Qualifizierungsanteile stehen noch aus, bzw. sind mit dem Bildungsgutschein
+
+bereits in voller Höhe abgegolten?
+
+Welcher zeitliche Rahmen ist für das Erreichen des Bildungsziels tatsächlich erforderlich?
+
+Zusätzlich entstehende Kosten innerhalb der ursprünglich bewilligten Förderdauer (z.B. für eine Wiederholungsprüfung) können ohne Ausgabe eines neuen Kosten Bildungsgutscheins übernommen werden.
+
+Dagegen verlangt die Verlängerung der ursprünglichen Förderdauer für einen weiteren Maßnahmezeitraum analog des üblichen Verwaltungsverfahrens stets die Ausgabe eines neuen Bildungsgutscheins. Damit verbunden ist auch ein weiteres Antrags-/ Bewilligungsverfahren einschl. der vorgeschalteten Prüfung von Notwendigkeit und Zweckmäßigkeit der Förderung.
+
+Zahlbarmachung / technische Umsetzung
+
+Die Anforderungen an das formelle Verwaltungsverfahren sind im Zusammenhang der Teilnahme einer Maßnahme zur Förderung der beruflichen Weiterbildung einzuhalten. Hier sind insbesondere die individuelle persönliche Beratung incl. Profiling/Potentialanalyse, das Bildungsgutscheinverfahren sowie das schriftliche Antrags-/Bewilligungsverfahren zur Gewährung von Maßnamekosten (Lehrgangskosten, Fahrkosten, Kinderbetreuungskosten, Kosten für Unterkunft und Verpflegung) einschließlich des Weiterbildungsgeldes bzw. Bürgergeldbonus im Vorfeld der Aufnahme eine Qualifizierungsmaßnahme zu nennen. Im Detail wird auf die Übersicht der Anlage 13b zur ARK im Forum SGB II hingewiesen.
+
+
+
+Chunk #28
+------------------------------------------------------------------------------------------------------------------------------------------------------
+der Teilnahme einer Maßnahme zur Förderung der beruflichen Weiterbildung einzuhalten. Hier sind insbesondere die individuelle persönliche Beratung incl. Profiling/Potentialanalyse, das Bildungsgutscheinverfahren sowie das schriftliche Antrags-/Bewilligungsverfahren zur Gewährung von Maßnamekosten (Lehrgangskosten, Fahrkosten, Kinderbetreuungskosten, Kosten für Unterkunft und Verpflegung) einschließlich des Weiterbildungsgeldes bzw. Bürgergeldbonus im Vorfeld der Aufnahme eine Qualifizierungsmaßnahme zu nennen. Im Detail wird auf die Übersicht der Anlage 13b zur ARK im Forum SGB II hingewiesen.
+
+- 22 -
+
+BG-
+
+Anlage 13
+
+Die EDV-technische/statistische Darstellung im Programm FMG2 der Förderung einer beruflichen Weiterbildungsmaßnahme erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung „FbW“ im Projekt „400 Maßnahmen“. Bei der Auswahl je nach Art der Weiterbildungsmaßnahme zwischen beruflicher der Maßnahme Weiterbildung, Gruppenumschulung oder betriebliche Einzelumschulung zu unterscheiden. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG2 geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Nach der Zuweisung sind über den BaEL-Assistenten ggf. bestehende Alo- Zeiträume zu beenden (siehe auch den Workflow „Maßnahme zuweisen“). Hierzu sind im Detail die Regeln in der „Übersicht der Maßnahmen im Programm FMG2 / Darstellung der Arbeitslosigkeit“ zu beachten. Der Abmeldegrund ist im Einzelfall anzupassen.
+
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Teilnahme an der Weiterbildungsmaßnahme entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge (Grundlage u.a. Maßnahmebogen) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20150 mit dem Status „geplant“ zu hinterlegen. Die Gewährung einer Weiterbildungsprämie bei abschlussorientierten Weiterbildungsmaßnahmen auf Grundlage des § 131a (3) SGB III, deren Maßnahmebeginn nach dem 31.07.2016 und vor Ablauf des 31.12.2023 liegt bzw. ab 01.07.2023 auf Grundlage des § 87a (1) SGB III beruht, ist aufgrund der Evaluation separat über den HAS 20151 zu buchen. Die Zahlbarmachung des Weiterbildungsgeldes erfolgt über den HAS 20154.
+
+Der Bürgergeldbonus stellt zum einen eine eigene Eingliederungsleistung nach dem SGB II, zum anderen eine eigene Maßnahmeart dar, die der Datenmeldung zur BA-Statistik (§ 53 SGB II) unterliegt.
+
+Die EDV-technische/statistische Darstellung im Fachprogramm FMG.job erfolgt durch eine / ergänzende Zuweisung des betreffenden Kunden auf die Maßnahme parallele „Bürgergeldbonus …“ ist zwischen den Maßnahmearten
+
+„Bürgergeldbonus SGB II/SGBIII“ bei paralleler Förderung zu den oben genannten SGB II / SGB III-Förderungen bzw.
+
+„Bürgergeldbonus Reha Sonstige“ bei paralleler Förderung durch einen anderen Reha-Träger (nicht Bundesagentur für Arbeit) zu differenzieren.
+
+Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG.job geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Da es sich hier um eine die Hauptmaßnahme ergänzende Förderung handelt, sind die erforderlichen BaEL-Einträge bereits über die Erfassung der Hauptmaßnahme (FbW) abgebildet.
+
+
+
+Chunk #29
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ergeldbonus SGB II/SGBIII“ bei paralleler Förderung zu den oben genannten SGB II / SGB III-Förderungen bzw.
+
+„Bürgergeldbonus Reha Sonstige“ bei paralleler Förderung durch einen anderen Reha-Träger (nicht Bundesagentur für Arbeit) zu differenzieren.
+
+Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG.job geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Da es sich hier um eine die Hauptmaßnahme ergänzende Förderung handelt, sind die erforderlichen BaEL-Einträge bereits über die Erfassung der Hauptmaßnahme (FbW) abgebildet.
+
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Gewährung des Bürgergeldbonus entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge (voller bzw. anteiliger Monatsbetrag) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20155 mit dem Status „geplant“ zu hinterlegen.
+
+- 23 -
+
+BG-
+
+Anlage 13
+
+Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren. Dies gilt sowohl für die Maßnahmeart „FbW“ als auch „Bürgergeldbonus“.
+
+
+
+Chunk #30
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Zahlbarmachung von Leistungen erfolgt aus der Maßnahmezuweisung über die Registerkarte „Kosten“. Die mit der Gewährung des Bürgergeldbonus entstehenden Zahlungsverpflichtungen sind entsprechend der monatlich anfallenden Beträge (voller bzw. anteiliger Monatsbetrag) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20155 mit dem Status „geplant“ zu hinterlegen.
+
+- 23 -
+
+BG-
+
+Anlage 13
+
+Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren. Dies gilt sowohl für die Maßnahmeart „FbW“ als auch „Bürgergeldbonus“.
+Verfügbare Kreisvordrucke in FMG2: 13 Förderungsvoraussetzungen FbW (Prüfbogen) 13 Bildungsgutschein 13 Antrag Qualifizierungsmaßnahme 13 Bewilligung Qualifizierungsmaßnahme 13 Einzelumschulung Erhebungsbogen 13 Einzelumschulung Hinweise 13 Teilnehmerbeurteilung FbW
+
+
+
+Chunk #31
+------------------------------------------------------------------------------------------------------------------------------------------------------
+g) von Beginn an für die Zukunft im Programm unter Verwendung des HAS 20155 mit dem Status „geplant“ zu hinterlegen.
+
+- 23 -
+
+BG-
+
+Anlage 13
+
+Bei Maßnahmeabbruch bzw. vorzeitiger Beendigung sind nicht mehr zum Tragen kommende Zahlbeträge/Buchungen zu stornieren. Dies gilt sowohl für die Maßnahmeart „FbW“ als auch „Bürgergeldbonus“.
+Verfügbare Kreisvordrucke in FMG2: 13 Förderungsvoraussetzungen FbW (Prüfbogen) 13 Bildungsgutschein 13 Antrag Qualifizierungsmaßnahme 13 Bewilligung Qualifizierungsmaßnahme 13 Einzelumschulung Erhebungsbogen 13 Einzelumschulung Hinweise 13 Teilnehmerbeurteilung FbW
+
+Empfehlungen
+
+Aktivitäten Weiterbildungsmaßnahmen / Absolventenmanagement zur Steigerung des Integrationserfolges beruflicher
+
+Um die Wirkungen einer Bildungsmaßnahme zu unterstützen haben die Grundsicherungs- stellen gegen Ende der Maßnahme die Eingliederungsbemühungen zu verstärken. Dazu müssen u.a. das Bewerberprofil zeitnah aktualisiert werden und unverzüglich zum/nach Maßnahmeabschluss Vermittlungsbemühungen unternommen, sowie Eigenbemühungen eingefordert werden.
+
+Die maßnahmebezogene Betreuung managements und unterstützt die teilnehmerbezogene Betreuung maßgeblich.
+
+(Stand: 01.07.2023)
+
+- 24 -

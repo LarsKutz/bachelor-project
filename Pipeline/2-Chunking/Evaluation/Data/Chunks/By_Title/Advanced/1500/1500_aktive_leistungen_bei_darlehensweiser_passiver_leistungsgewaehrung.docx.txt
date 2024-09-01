@@ -1,0 +1,34 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\aktive_leistungen_bei_darlehensweiser_passiver_leistungsgewaehrung.docx
+max_characters:		2500
+aimed_chunk_size:	1500
+combine_under:		1000
+loading_strategy:	hi_res
+chunking_strategy:	By_Title
+mode:				Advanced
+n_chunks:			2
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Aktive Leistungen bei darlehensweiser passiver Leistungsgewährung
+
+Klarstellung durch das MAGS nach Rückkopplung mit dem BMAS
+
+Grundsätzlich ist die Gewährung von Eingliederungsleistungen an erwerbsfähige Hilfebedürftige, die darlehensweise Leistungen zur Sicherung des Lebensunterhalts nach § 23 Abs. 5 SGB II beziehen, zulässig.
+
+§ 23 Abs. 5 SGB II regelt unter bestimmten Voraussetzungen Darlehensleistungen bei einem Bedarf zur Sicherung des Lebensunterhalts im Einzelfall. Die Personen, die Leistungen gemäß § 23 Abs. 5 SGB II erhalten, sind gem. § 9 Abs. 4 SGB II hilfebedürftig. Damit ist die Leistungsberechtigung bei Vorliegen der übrigen Voraussetzungen nach § 7 Abs. 1 SGB II gegeben.
+
+Dementsprechend können unter Beachtung der Grundsätze von Wirtschaftlichkeit und Sparsamkeit alle im Einzelfall für die Eingliederung in Arbeit erforderlichen Leistungen erbracht werden (§ 14 Satz 3 SGB II). Die darlehensweise Gewährung von Leistungen zum Lebensunterhalt nach § 23 Abs. 5 SGB II - insbesondere die voraussichtliche Dauer bis zur Verwertung des Vermögens und damit bis zum Wegfall der Hilfebedürftigkeit- ist ggf. bei der Prüfung von Wirtschaftlichkeit und Sparsamkeit zu berücksichtigen. Dabei sollte insbesondere die notwendige Förderhöhe und Förderdauer in den Entscheidungsprozess einbezogen werden. Die Gewährung etwaiger aktiver Leistungen erfolgt ansonsten unter den im Gesetz bzw. daraus abgeleiteten Handlungvorschriften beschriebenen Voraussetzungen.
+
+Bei den Regelinstrumenten ist üblicherweise eine Gewährung im Rahmen eines Zuschusses vorgesehen.
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Die Darlehensgewährung passiver Leistungen nach § 23 Abs. 5 SGB II könnte im Zuge der Wirtschaftskrise in naher Zukunft durchaus eine höhere Bedeutung gewinnen. Für eine kurzfristige Eingliederungsunterstützung sind vor allem Leistungen im Rahmen des Vermittlungsbudgets gemäß § 16 Abs. 1 SGB II i.V.m. § 45 SGB III denkbar, sofern sie im Einzelfall für die Anbahnung oder Aufnahme einer versicherungspflichtigen Beschäftigung notwendig sind.
+
+Die darlehensweise Gewährung von Leistungen aus dem Vermittlungsbudget nach § 16 SGB II i. V. m. § 45 SGB III ist ausgeschlossen. Dies gilt unabhängig davon, auf welcher Rechtsgrundlage Leistungen zur Sicherung des Lebensunterhalts erbracht werden.

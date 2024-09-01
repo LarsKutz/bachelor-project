@@ -1,0 +1,254 @@
+======================================================================================================================================================
+file:				D:\Studium\Informatik\Module\Bachelorarbeit\Project\Data\Specific\aktive_leistungen\ark\ark_210_-_ganzheitliche_betreuung.pdf
+max_characters:		4000
+aimed_chunk_size:	3000
+overlap:			600
+loading_strategy:	hi_res
+chunking_strategy:	Basic
+mode:				Advanced
+n_chunks:			8
+======================================================================================================================================================
+
+
+
+Chunk #1
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Hinweise und Handlungsempfehlungen des HSK als Träger der Grundsicherung für Arbeitsuchende (SGB II) zur Umsetzung der Ganzheitlichen Betreuung gem. § 16k SGB II
+
+Allgemeines
+
+Bei erwerbsfähigen Leistungsberechtigten bestehen häufig vielfältige individuelle Probleme, die ihre Beschäftigungsfähigkeit grundlegend beeinträchtigen. Die ganzheitliche Betreuung (Coaching) verfolgt das Ziel eines grundlegenden Aufbaus der Beschäftigungsfähigkeit von erwerbsfähigen Leistungsberechtigten, die aufgrund von vielfältigen individuellen Problemen besondere Schwierigkeiten haben, Arbeit aufzunehmen. Das Coaching kann auch aufsuchend oder beschäftigungsbegleitend erfolgen. Für eine erfolgreiche Durchführung der ganzheitlichen Betreuung ist der Aufbau eines Vertrauensverhältnisses zum erwerbsfähigen Leistungsberechtigten von zentraler Bedeutung. Im Rahmen der ganzheitlichen Betreuung wird die jeweilige Lebenssituation insgesamt in den Blick genommen mit dem Ziel, einen grundlegenden Aufbau und Stabilisierung der Beschäftigungsfähigkeit zu erreichen. Das Coaching ermöglicht an allen Problemlagen zu arbeiten, die der Erreichung der Beschäftigungsfähigkeit im Wege stehen. Zugleich eröffnet das Coaching auch die Chance, Potentiale in der Person stärker wahrzunehmen und für den Integrationsprozess zu nutzen. Unter ganzheitlicher Betreuung werden Methoden verstanden, welche die Einschätzung und Entwicklung persönlicher Kompetenzen und Perspektiven über Anregungen zur Selbstreflexion bis hin zur Überwindung von Handlungsbedarfen umfasst.
+
+§ 16k SGB II – Ganzheitliche Betreuung
+
+(1) Zum Aufbau der Beschäftigungsfähigkeit von erwerbsfähigen Leistungsberechtigten kann die Agentur für Arbeit oder ein durch diese beauftragter Dritter eine erforderliche ganzheitliche und gegebenenfalls aufsuchende Betreuung erbringen. Die Agentur für Arbeit kann auch Rahmenverträge nutzen und einen Gutschein ausgeben. § 45 Absatz 1 Satz 4, Absatz 2 Satz 1, Absatz 4 Satz 1, 2, 3 Nummer 1, Absatz 5 und 6 Satz 1 und 2 des Dritten Buches gilt entsprechend.
+
+(2) Eine ganzheitliche Betreuung kann für junge Menschen auch zur Heranführung an eine oder zur Begleitung während einer Ausbildung erfolgen. Sofern keine an die Ausbildung unmittelbar anschließende Beschäftigungsaufnahme erfolgt, kann die ganzheitliche Betreuung bis zu zwölf Monate nach Ende der Ausbildung fortgeführt werden.
+
+(3) § 16g gilt mit der Maßgabe, dass der Zeitraum des Absatzes 2 Satz 1 um weitere drei Monate überschritten werden kann, soweit und solange dies im Einzelfall erforderlich ist.
+
+(4) § 31 Absatz 1 Satz 1 Nummer 3 findet keine Anwendung.
+
+Umsetzung
+
+Grundsätzlich kann die ganzheitliche Betreuung durch das Jobcenter selbst oder durch beauftragte Dritte im Wege eines Vergabeverfahrens oder im Gutscheinverfahren erfolgen. ist eine Aufgrund der besonderen eigenverantwortliche Durchführung durch das Jobcenter bzw. hier konkret dem Fallmanagement zielführender. Damit werden die Problemfelder einer umfassenden Fallinformation, der Schnittstellenproblematiken und die Einhaltung der Datenschutz- 1
+
+
+
+Chunk #2
+------------------------------------------------------------------------------------------------------------------------------------------------------
+berschritten werden kann, soweit und solange dies im Einzelfall erforderlich ist.
+
+(4) § 31 Absatz 1 Satz 1 Nummer 3 findet keine Anwendung.
+
+Umsetzung
+
+Grundsätzlich kann die ganzheitliche Betreuung durch das Jobcenter selbst oder durch beauftragte Dritte im Wege eines Vergabeverfahrens oder im Gutscheinverfahren erfolgen. ist eine Aufgrund der besonderen eigenverantwortliche Durchführung durch das Jobcenter bzw. hier konkret dem Fallmanagement zielführender. Damit werden die Problemfelder einer umfassenden Fallinformation, der Schnittstellenproblematiken und die Einhaltung der Datenschutz- 1
+
+bestimmungen incl. der Notwendigkeit einer Schweigepflichtsentbindung ausgeblendet. in Abstimmung mit dem Daher hat sich das Jobcenter Hochsauerlandkreis Arbeitsmarktpolitischen Beirat entschlossen, die ganzheitliche Betreuung durch eigenes Personal in unmittelbarer Anbindung an das Fallmanagement zu erbringen. Die Finanzierung der Durchführung der Betreuung durch das Personal erfolgt aus den Verwaltungskosten, Sondermittel werden nicht zur Verfügung gestellt.
+
+Zielgruppe
+
+Gefördert werden können erwerbsfähige Leistungsberechtigte, die aufgrund ihrer besonderen Problemlagen Schwierigkeiten haben, eine Arbeit oder Ausbildung aufzunehmen und in ihrer Beschäftigungsfähigkeit beeinträchtigt sind.
+
+Gefördert werden können auch junge Menschen, die eine Unterstützung zur Heranführung an eine Ausbildung und/oder zur Begleitung während einer Ausbildung benötigen, um ihre Ausbildungsfähigkeit zu entwickeln. Davon sind alle Ausbildungsformen umfasst.
+
+Gefördert werden können auch erwerbsfähige Leistungsberechtigte, für die ein Rehabilitationsträger im Sinne des SGB IX zuständig ist. Die Förderung umfasst jedoch keine spezifischen Leistungen der beruflichen Rehabilitation (Leistungen zur Teilhabe am Arbeitsleben), sondern hat bezüglich der Inanspruchnahme der Leistungen Dritter nur eine verweisende Funktion.
+
+Männer und Frauen sollen gleichberechtigt gemäß § 16k SGB II gefördert werden. Beispielsweise +soll bereits bei der Planung geprüft werden, ob spezifische Belange von Frauen und Männern berücksichtigt werden müssen, um eine gleichberechtigte Förderung zu erreichen.
+
+Kinder und Jugendliche, die die Vollzeitschulpflicht noch nicht erfüllt haben bzw. von dieser seitens der Landesbehörde nicht verbindlich freigestellt wurden, können entsprechend der aktuellen Regelungen keine Teilnehmenden einer Maßnahme sein. Kinder und Jugendliche können aber im Zuge der ganzheitlichen Betreuung als Mitglieder der Bedarfsgemeinschaft einbezogen werden.
+
+Intention / inhaltliche Gestaltung
+
+Die Interventions- und Beratungsformen der ganzheitlichen Betreuung ergeben sich aus dem individuellen Bedarf und werden daher in der Ausgestaltung nicht vorgegeben.
+
+Bei erwerbsfähigen Leistungsberechtigten bestehen häufig vielfältige individuelle Probleme, die ihre Beschäftigungsfähigkeit grundlegend beeinträchtigen. Die ganzheitliche Betreuung (Coaching) setzt sich zum Ziel, mit der betreffenden erwerbsfähigen leistungsberechtigten Person an allen Problemen zu arbeiten, die der Erreichung der Beschäftigungsfähigkeit im Wege stehen. Als Beispiele können hier folgende Problemfelder benannt werden:
+
+
+
+Chunk #3
+------------------------------------------------------------------------------------------------------------------------------------------------------
+nterventions- und Beratungsformen der ganzheitlichen Betreuung ergeben sich aus dem individuellen Bedarf und werden daher in der Ausgestaltung nicht vorgegeben.
+
+Bei erwerbsfähigen Leistungsberechtigten bestehen häufig vielfältige individuelle Probleme, die ihre Beschäftigungsfähigkeit grundlegend beeinträchtigen. Die ganzheitliche Betreuung (Coaching) setzt sich zum Ziel, mit der betreffenden erwerbsfähigen leistungsberechtigten Person an allen Problemen zu arbeiten, die der Erreichung der Beschäftigungsfähigkeit im Wege stehen. Als Beispiele können hier folgende Problemfelder benannt werden:
+
+Psychosoziale Probleme mit Beeinträchtigung der Handlungs- Kommunikationsfähigkeit und
+
+Überforderung in der Alltagsbewältigung Mangelnde soziale Einbettung Konflikte in der Familie Schwierigkeiten im sozialräumlichen Umfeld Kommunikative Probleme im Umgang mit Behörden Gesundheitliche und psychische Beeinträchtigungen Suchtprobleme
+
+2
+
+Verschuldung Schwierige Wohnverhältnisse Belastende familiäre Verpflichtungen (z.B. Pflege von Angehörigen) Schlechte Erfahrungen im Arbeitsleben uvm.
+
+Aufgabe des Coachings kann es auch sein, erwerbsfähige Leistungsberechtigte über Leistungen Dritter zu beraten und auf die Inanspruchnahme dieser Leistungen hinzuwirken. Die Coachin bzw. der Coach steht den betreffenden Leistungsberechtigten zur Seite und stärkt sie darin, ihre Lebenssituation selbst zu verbessern.
+
+Mögliche Förderinhalte können sein (nicht abschließend):
+
+Individuelle Beratung, Betreuung und Unterstützung der Teilnehmenden und ggf. deren Bedarfsgemeinschaft während des gesamten Förderzeitraums,
+
+Unterstützung in der konkreten persönlichen und familiären Situation, z. B. Aufbau von Tagesstrukturen, Stabilisierung der Bedarfsgemeinschaft, soziale Aktivierung, Verbesserung sozialer Handlungskompetenzen, Stärkung der Vereinbarkeit von Familie und Beruf,
+
+Alltagshilfen, z. B. Nutzung öffentlicher Verkehrsmittel, Umgang mit Geld, Beratung zum Erscheinungsbild, Hilfestellung bei Behördengängen und Antragstellungen,
+
+Krisenintervention bzw. Konfliktbewältigung, Unterstützung bei psychosozialen Problemen, Suchtproblematiken, Schulden, Gesundheitsproblemen, Entwicklung von Sprachkompetenzen durch Aktivierung von Netzwerken zu anderen Leistungsträgern. Dazu zählen Beratung über Leistungen Dritter und Förderung der Bereitschaft, dass Leistungen Dritter in Anspruch genommen werden, z.B. Hilfestellung bei der Inanspruchnahme kommunaler Eingliederungsleistungen nach § 16a SGB II (Schuldner- und Suchtberatung, psychosoziale Betreuung, Kinderbetreuung, Pflege), Unterstützung bei der Überwindung Analphabetismus, Hilfestellung bei der Inanspruchnahme von Sprachförderangeboten des Bundesamtes für Migration und Flüchtlinge (BAMF),
+
+individuellen Rahmenbedingungen, die der Beschäftigungsfähigkeit entgegenstehen, z. B. von Geflüchteten, Frauen/Männern, die § 10 SGB II in Anspruch nehmen,
+
+Abstimmung der ganzheitlichen Betreuung mit schon bestehenden Leistungen (z. B. bei Leistungen in Kooperation mit der Jugendhilfe oder bei Therapien),
+
+
+
+Chunk #4
+------------------------------------------------------------------------------------------------------------------------------------------------------
+gliederungsleistungen nach § 16a SGB II (Schuldner- und Suchtberatung, psychosoziale Betreuung, Kinderbetreuung, Pflege), Unterstützung bei der Überwindung Analphabetismus, Hilfestellung bei der Inanspruchnahme von Sprachförderangeboten des Bundesamtes für Migration und Flüchtlinge (BAMF),
+
+individuellen Rahmenbedingungen, die der Beschäftigungsfähigkeit entgegenstehen, z. B. von Geflüchteten, Frauen/Männern, die § 10 SGB II in Anspruch nehmen,
+
+Abstimmung der ganzheitlichen Betreuung mit schon bestehenden Leistungen (z. B. bei Leistungen in Kooperation mit der Jugendhilfe oder bei Therapien),
+
+Unterstützung von Bedarfsgemeinschaften mit Kindern bei der Inanspruchnahme von Leistungen der Kinder- und Jugendhilfe nach dem SGB VIII oder von Krankenkassen bzw. Reha-Trägern,
+
+Aufbau beruflicher Handlungskompetenzen, z. B. Unterstützung bei der Entwicklung von Arbeitstugenden, Förderung der beruflichen Flexibilität, Vermittlung der Anforderungen im Arbeitsalltag (u. a. pünktlicher Arbeitsbeginn, Erwartungen des Arbeitgebers),
+
+Übergangsmanagement, z. B. Förderung von Anschlussperspektiven, Beschäftigungs- und ausbildungsbegleitende Angebote (nur zutreffend bei Aufnahme einer Beschäftigung/Ausbildung während der Dauer einer ganzheitlichen Betreuung), Individuelle Hilfestellungen bei der Heranführung an eine Berufsorientierung, Ausbildung oder zur Begleitung während einer Ausbildung, z. B. Unterstützung bei der Suche nach Ausbildungsbetrieben, Vorbereitung auf und Begleitung zu Bewerbungsgesprächen, Ausbildungsplatz, Ansprechpartner für den Ausbildungsbetrieb, Koordination von und Begleitung zu Gesprächen mit dem Arbeitgeber, Unterstützung beim Übergang von der Ausbildung in eine anschließende Beschäftigung. In Bezug auf Jugendlichenmaßnahmen ist zu beachten, dass eine enge Abstimmung zwischen dem/der Coach/in, der nach § 16k
+
+3
+
+SGB II eingesetzt wird, und dem Maßnahmeträger der entsprechenden Maßnahme für junge Menschen erforderlich ist.
+
+Soweit die betreffenden erwerbsfähigen Leistungsberechtigten dazu bereit sind, kann das Coaching auch aufsuchend erfolgen. Viele der Problemlagen haben einen familiären oder sozialräumlichen Bezug. Das Coaching im eigenen Lebensumfeld erhöht häufig dessen Wirksamkeit. Die Einbeziehung von familiären oder sozialen Bezugspersonen wird deutlich erleichtert, es entsteht ein ganz unmittelbarer Eindruck vom Lebensumfeld des zu betreuenden Menschen. Aufsuchendes Coaching kann zudem das Vertrauen in die Integrationszusammenarbeit generell stärken und Ausdruck von Respekt und Augenhöhe sein. Sofern die ganzheitliche Betreuung bei der erwerbsfähigen leistungsberechtigten Person zu Hause stattfinden soll, ist eine Einwilligung erforderlich. Es wird empfohlen, diese schriftlich einzuholen und in Doxis abzulegen.
+
+Die Schaffung eines Vertrauensverhältnisses ist eine wesentliche Grundlage für die Förderung nach § 16k SGB II. Die Teilnahme an der ganzheitlichen Betreuung ist freiwillig und wird den erwerbsfähigen Leistungsberechtigten ohne Verweis auf etwaige Rechtsfolgen bei Ablehnung, Nichtantritt oder Abbruch der Maßnahme angeboten. § 31 Abs. 1 S. 1 Nr. 3 SGB II findet nach § 16k Abs. 4 SGB II keine Anwendung.
+
+
+
+Chunk #5
+------------------------------------------------------------------------------------------------------------------------------------------------------
+treuung bei der erwerbsfähigen leistungsberechtigten Person zu Hause stattfinden soll, ist eine Einwilligung erforderlich. Es wird empfohlen, diese schriftlich einzuholen und in Doxis abzulegen.
+
+Die Schaffung eines Vertrauensverhältnisses ist eine wesentliche Grundlage für die Förderung nach § 16k SGB II. Die Teilnahme an der ganzheitlichen Betreuung ist freiwillig und wird den erwerbsfähigen Leistungsberechtigten ohne Verweis auf etwaige Rechtsfolgen bei Ablehnung, Nichtantritt oder Abbruch der Maßnahme angeboten. § 31 Abs. 1 S. 1 Nr. 3 SGB II findet nach § 16k Abs. 4 SGB II keine Anwendung.
+
+Das Coaching kann auch aufsuchend oder beschäftigungsbegleitend erfolgen. Dabei sind auch alternative Beratungsformen, wie beispielsweise „Walk und Talk Meetings“ oder Beratungen an neutralen Orten möglich.
+
+Sonderregelungen erwerbsfähigen Leistungsberechtigten, wobei eine konkrete Altersgrenze nicht definiert wurde. Für die Zielgruppe der jungen Menschen kann eine ganzheitliche Betreuung auch zur Heranführung an eine oder zur Begleitung während der gesamten Dauer einer Ausbildung erfolgen. Sofern keine an die Ausbildung unmittelbar anschließende Beschäftigungsaufnahme erfolgt, kann das Coaching bis zu 12 Monate nach Ende der Ausbildung fortgeführt werden. Eine Abgrenzung zum arbeitsmarktpolitischen Instrument der „Assistierten Ausbildung“ ist zu beachten.
+
+Förderumfang
+
+Der Förderumfang beschreibt die Anzahl und Verteilung der Stunden innerhalb der Förderdauer der Teilnahme. Der erforderliche Förderumfang und dessen Anpassung richtet sich nach dem individuellen Bedarf der erwerbsfähigen leistungsberechtigten Person. Die vorgesehene gesamte Förderdauer wird in jedem Einzelfall durch das Fallmanagement festgelegt.
+
+Abgrenzung der ganzheitlichen Betreuung zum Fallmanagement, weiteren arbeitsmarktpolitischen Maßnahmen und Leistungen Dritter
+
+Fallmanagement
+
+Fallmanagement ist ein auf die erwerbsfähigen Leistungsberechtigten ausgerichteter Prozess, mit dem Ziel der möglichst nachhaltigen Integration in den Arbeitsmarkt.
+
+Dieser Prozess ist gekennzeichnet von einer Kooperation, in der die vorhandenen individuellen Ressourcen und multiplen Problemlagen methodisch erfasst werden. Zudem der Integrationsprozess und die dazu erforderlichen Dienst-, Geld- und Sachleistungen gemeinsam mit den erwerbsfähigen Leistungsberechtigten geplant, durchgeführt, koordiniert
+
+4
+
+Freiwillig- keit; keine Rechts- folgen
+
+und individuelle Unterstützungsbedarf der erwerbsfähigen Leistungsberechtigten wird somit im Hinblick auf das Ziel der unmittelbaren bzw. mittelbaren Arbeitsmarktintegration durch Beratung und Bereitstellung der verfügbaren Ressourcen abgedeckt und die Eigenverantwortung gestärkt.
+
+Dem Fallmanagement obliegen folgende Aufgaben:
+
+Planung und Steuerung des individuellen Integrationsprozesses Management / Koordinierung interner und externer Angebote und Dienstleistungen Systemische Aufgaben (Analyse der Bedarfsgerechtigkeit bestehender Angebote und
+
+Dienstleistungen, Impulse zur Weiterentwicklung der Angebote)
+
+
+
+Chunk #6
+------------------------------------------------------------------------------------------------------------------------------------------------------
+le Unterstützungsbedarf der erwerbsfähigen Leistungsberechtigten wird somit im Hinblick auf das Ziel der unmittelbaren bzw. mittelbaren Arbeitsmarktintegration durch Beratung und Bereitstellung der verfügbaren Ressourcen abgedeckt und die Eigenverantwortung gestärkt.
+
+Dem Fallmanagement obliegen folgende Aufgaben:
+
+Planung und Steuerung des individuellen Integrationsprozesses Management / Koordinierung interner und externer Angebote und Dienstleistungen Systemische Aufgaben (Analyse der Bedarfsgerechtigkeit bestehender Angebote und
+
+Dienstleistungen, Impulse zur Weiterentwicklung der Angebote)
+
+Fallmanager/-innen tragen die individuelle Fallverantwortung und sind „Lotsen“ im örtlichen Hilfesystem.
+
+Während der Fallmanager Unterstützungsangebote implementiert, koordiniert, überwacht und evaluiert wird der/die Coach/-in während der ganzheitlichen Betreuung stärker als „Umsetzer/-in“ tätig. Die Beratung und Begleitung im Wege der ganzheitlichen Betreuung ist in der Lebenswelt der erwerbsfähigen im Unterschied zum Fallmanagement enger Leistungsberechtigten verortet und kann tatsächlichen Möglichkeiten des Fallmanagements hinausreichen.
+
+Die komplette Fallverantwortung sowie die übergeordnete Koordinierungs- und Lotsenfunktion verbleibt auch bei dem Einsatz der ganzheitlichen Betreuung nach § 16k SGB II immer im Fallmanagement.
+
+Maßnahmen zur Aktivierung und beruflichen Eingliederung (§ 45 SGB III)
+
+In Abgrenzung zu Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 SGB II i.V.m. § 45 SGB III können durch die ganzheitliche Betreuung individuelle Förderlücken geschlossen und darüberhinausgehende Förderbedarfe gedeckt werden.
+
+Mit Maßnahmen zur Aktivierung und beruflichen Eingliederung (§ 45 SGB III) werden vorrangig Förderinhalte mit direktem Arbeitsmarktzugang gefördert. Mit der ganzheitlichen Betreuung können dagegen auch Inhalte gefördert werden, die über die Arbeitsförderung im engeren Sinne hinausgehen bzw. dieses Spektrum erweitern, z.B. Alltags- und in die ganzheitliche Sozialcoaching, Einbezug der Bedarfsgemeinschaftsmitglieder Betreuung. Die ganzheitliche Betreuung (§16k SGB II) umfasst demnach Förderelemente, die sowohl der persönlichen und sozialen Stabilisierung dienen als auch arbeitsmarktbezogene Inhalte.
+
+In Hinblick auf die arbeitsmarktbezogenen Inhalte fokussieren Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 SGB II i. V. m. § 45 SGB III vorrangig auf die Verbesserung von Vermittlungshemmnissen, das Feststellen vorhandener beruflicher Kenntnisse, den Erwerb beruflicher Kenntnisse sowie Aktivitäten zur Aufnahme einer Beschäftigung bzw. selbständigen Tätigkeit. Die ganzheitliche Betreuung zielt dagegen auf den Aufbau (noch nicht vorhandener) beruflicher Handlungskompetenzen und muss keinen unmittelbaren Arbeitsmarktbezug aufweisen.
+
+Nicht förderfähig nach § 16k SGB II sind daher die folgenden Förderinhalte:
+
+Feststellung der beruflichen Kenntnisse Berufliche Kenntnisvermittlung Heranführung an eine selbständige Tätigkeit
+
+
+
+Chunk #7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+SGB III vorrangig auf die Verbesserung von Vermittlungshemmnissen, das Feststellen vorhandener beruflicher Kenntnisse, den Erwerb beruflicher Kenntnisse sowie Aktivitäten zur Aufnahme einer Beschäftigung bzw. selbständigen Tätigkeit. Die ganzheitliche Betreuung zielt dagegen auf den Aufbau (noch nicht vorhandener) beruflicher Handlungskompetenzen und muss keinen unmittelbaren Arbeitsmarktbezug aufweisen.
+
+Nicht förderfähig nach § 16k SGB II sind daher die folgenden Förderinhalte:
+
+Feststellung der beruflichen Kenntnisse Berufliche Kenntnisvermittlung Heranführung an eine selbständige Tätigkeit
+
+5
+
+Soweit die Unterstützungsbedarfe erwerbsfähiger Leistungsberechtigter überwiegend auf arbeitsmarktbezogene Inhalte ausgerichtet sind, ist zu prüfen, ob Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 16 SGB II i. V. m. § 45 SGB III vorrangig einzusetzen sind. Soweit ein ganzheitlicher Unterstützungsbedarf besteht, ist eine Förderung nach § 16k SGB II zu prüfen.
+
+Eine Kombination der ganzheitlichen Betreuung mit einer Maßnahme zur Aktivierung und beruflichen Eingliederung kann mit unterschiedlichen Zielsetzungen im Einzelfall zielführend sein. Bei einer Kombination ist generell darauf zu achten, dass sich die Förderinhalte nicht doppeln.
+
+Ganzheitliche beschäftigungsbegleitende Betreuung und 16i SGB II im Rahmen der §§ 16e
+
+Die spezialgesetzlichen Regelungen zur ganzheitlichen beschäftigungsbegleitenden Betreuung nach § 16e Abs. 4 SGB II und § 16i Abs. 4 SGB II schließen eine gleichzeitige Förderung nach § 16k SGB II aus. Der ganzheitliche Ansatz ist bei den §§ 16e und 16i SGB II bereits realisiert.
+
+Leistungen Dritter
+
+Durch die ganzheitliche Betreuung dürfen keine originären Eingliederungsleistungen des kommunalen Trägers nach § 16a SGB II (Schuldner- und Suchtberatung, psychosoziale Betreuung, Kinderbetreuung, Pflege) erbracht werden.
+
+Auch die Förderung von Leistungen, für die ein anderer Leistungsträger dem Grunde nach zuständig ist, ist ausgeschlossen, bspw.
+
+Maßnahmen der gesundheitlichen Prävention und Förderung, gesundheitsfördernde Angebote sowie diagnostische und therapeutische Inhalte, die in die Zuständigkeit der gesetzlichen Krankenversicherung (Krankenkassen) oder der Rehabilitation (Reha- Träger) fallen
+
+ärztliche und psychologische Begutachtungen außerhalb der BA / des JC Leistungen der Kinder- und Jugendhilfe nach dem SGB VIII.
+
+Aufgabe der ganzheitlichen Betreuung ist es in diesen Fällen, Netzwerke zu anderen Leistungsträgern zu aktivieren, die erwerbsfähigen Leistungsberechtigten zu den Leistungen Dritter zu beraten, an den zuständigen Leistungsträger zu verweisen und zu begleiten sowie darauf hinzuwirken und zu unterstützen, dass die erwerbsfähigen Leistungsberechtigten Leistungen Dritter in Anspruch nehmen.
+
+Wegfall der Hilfebedürftigkeit nach § 16g Abs. 2 SGB II
+
+Sollte während der Förderung nach § 16k SGB II eine Beschäftigungs-/Ausbildungsaufnahme erfolgen, kann die Betreuung im Bedarfsfall auch dann weitergeführt werden, wenn die Hilfebedürftigkeit durch das Einkommen, das durch die Beschäftigung bzw. Ausbildung erzielt wird, beendet wird. Die Betreuung kann dabei insgesamt bis zu neun Monate erbracht werden, soweit und solange dies im Einzelfall erforderlich ist.
+
+
+
+Chunk #8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+sowie darauf hinzuwirken und zu unterstützen, dass die erwerbsfähigen Leistungsberechtigten Leistungen Dritter in Anspruch nehmen.
+
+Wegfall der Hilfebedürftigkeit nach § 16g Abs. 2 SGB II
+
+Sollte während der Förderung nach § 16k SGB II eine Beschäftigungs-/Ausbildungsaufnahme erfolgen, kann die Betreuung im Bedarfsfall auch dann weitergeführt werden, wenn die Hilfebedürftigkeit durch das Einkommen, das durch die Beschäftigung bzw. Ausbildung erzielt wird, beendet wird. Die Betreuung kann dabei insgesamt bis zu neun Monate erbracht werden, soweit und solange dies im Einzelfall erforderlich ist.
+
+Soweit bei Beschäftigungsaufnahme bereits eine ganzheitliche Betreuung erfolgt, sollte diese - soweit erforderlich - fortgeführt werden und keine neuen Maßnahmen nach § 16 SGB II i. V. m. § 45 Abs.1 S. 1 Nr. 5 SGB III erfolgen.
+
+6
+
+Technische Umsetzung / Dokumentation
+
+Die ganzheitliche Betreuung nach § 16k SGB II stellt zum einen eine eigene Eingliederungsleistung nach dem SGB II, zum anderen eine eigene Maßnahmeart dar, die der Datenmeldung zur BA-Statistik unterliegt.
+
+Die EDV-technische/statistische Darstellung im Programm FMG.job der Erbringung einer ganzheitlichen Betreuung erfolgt durch Zuweisung des betreffenden Kunden auf die Maßnahme mit der Bezeichnung „Ganzheitliche Betreuung“ im Projekt „400 Maßnahmen“. Zur Zuweisung müssen der Kundendatensatz und der entsprechende Maßnahmedatensatz zeitgleich in der Sitzung FMG.job geladen sein, um auf die Maßnahmezuweisungsmaske zu gelangen. Die ganzheitliche Betreuung beendet den Status der Arbeitslosigkeit nicht.
+
+Die Dokumentation der Beratungskontakte und des individuellen Förderverlaufes erfolgt als Beratungsvermerke im Fachprogramm FMG.job.
+
+Verfügbare Vordrucke in FMG.job:
+
+Angebot der ganzheitlichen Betreuung - (21 Angebot ganzheitl. Betreuung) Einverständnis Datenerhebung/-nutzung - (21 Einverständnis Datenerhebung)
+
+(Stand: 01.07.2023)
+
+7
