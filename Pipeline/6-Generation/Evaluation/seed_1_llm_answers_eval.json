@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "question": "Wie kann man eine Auskunftspflicht in einer Haushaltsgemeinschaft durchsetzen?",
+        "eval": {
+            "DNB": 2,
+            "DNT": 2,
+            "DFB": 6,
+            "DFT": 6,
+            "DCB": 2,
+            "DCT": 4
+        }
+    },
+    {
+        "id": 1,
+        "question": "Muss man Schülereinkommen aus Ferienjobs anzurechnen? Wenn ja, in welcher Höhe?",
+        "eval": {
+            "DNT": 2,
+            "DFB": 5,
+            "DFT": 6,
+            "DCT": 4,
+            "DNB": 4,
+            "DCB": 6 
+        }
+    },
+    {
+        "id": 2,
+        "question": "Wie ist weiter vorzugehen, wenn nach einer Versagung die Mitwirkung nachgeholt wird?",
+        "eval": {
+            "DFT": 5,
+            "DCB": 2,
+            "DCT": 2,
+            "DNB": 2,
+            "DNT": 2,
+            "DFB": 3
+        }
+    },
+    {
+        "id": 3,
+        "question": "Wie bemisst sich die Fahrkostenentschädigung bei Teilnahme an einer Maßnahme zur Förderung der beruflichen Weiterbildung?",
+        "eval": {
+            "DCB": 3,
+            "DCT": 2,
+            "DNB": 5,
+            "DNT": 4,
+            "DFB": 5,
+            "DFT": 6
+        }
+    },
+    {
+        "id": 4,
+        "question": "Ein Arbeitgeber beantragt einen Zuschuss zur Ausbildungsvergütung. Kann ein derartiger Zuschuss gewährt werden? Wenn ja, unter welchen Voraussetzungen?",
+        "eval": {
+            "DNT": 5,
+            "DFB": 4,
+            "DFT": 3,
+            "DCT": 4,
+            "DNB": 5,
+            "DCB": 6
+        }
+    }
+]
