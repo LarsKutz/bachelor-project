@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "question": "Ist es möglich, die Höhe einer russischen Rente umgerechnet in Euro zu erfahren?",
+        "eval": {
+            "DNB": 1,
+            "DNT": 1,
+            "DCT": 1,
+            "MQNB": 1,
+            "MQNT": 1,
+            "MQCT": 1
+        }
+    },
+    {
+        "id": 1,
+        "question": "Unter welchen Voraussetzungen ist ein Stromguthaben (Haushaltsstrom) als Einkommen im Sinne des § 11 SGB II bedarfsmindernd zu berücksichtigen?",
+        "eval": {
+            "MQCT": 1,
+            "DNB": 1,
+            "DNT": 1,
+            "MQNB": 1,
+            "MQNT": 1,
+            "DCT": 1
+        }
+    },
+    {
+        "id": 2,
+        "question": "Der 29jährige Markus absolviert seinen Bundesfreiwilligendienst und erhält dafür ein Taschengeld i.H.v. 420 €. Er erhält außerdem Mittagsverpflegung als Sachleistung. Diese hat einen Wert von 90 € monatlich. Daneben erzielt er ein Einkommen aus Erwerbstätigkeit von 800 € (brutto= netto). Welche Einkommen sind in welcher Höhe als Einkommen im Sinne des SGB II anzurechnen?",
+        "eval": {
+            "MQNT": 2,
+            "MQCT": 6,
+            "DNT": 1,
+            "DCT": 6,
+            "DNB": 1,
+            "MQNB": 6
+        }
+    },
+    {
+        "id": 3,
+        "question": "Die Ehefrau eines aus Syrien geflüchteten Mannes kommt im Rahmen des Familiennachzuges nach Deutschland. Unter welchen Voraussetzungen ist sie zur Ausübung einer Erwerbstätigkeit berechtigt?",
+        "eval": {
+            "MQCT": 6,
+            "MQNB": 6,
+            "DNT": 2,
+            "DCT": 2,
+            "DNB": 2,
+            "MQNT": 6
+        }
+    },
+    {
+        "id": 4,
+        "question": "Was passiert, wenn jemand, der an einer Maßnahme zur Wiedereingliederung teilnimmt, seiner Corona-Testverpflichtung nicht nachkommt?",
+        "eval": {
+            "DCT": 3,
+            "MQNT": 2,
+            "MQCT": 3,
+            "DNB": 5,
+            "MQNB": 3,
+            "DNT": 2
+        }
+    },
+    {
+        "id": 5,
+        "question": "Ein Antragsteller verweigert die Angabe von Konten und damit die Überprüfung von Einnahmen. Verfügt das Jobcenter über Möglichkeiten, Konten des Leistungsempfängers in Erfahrung zu bringen und wie ist vorzugehen?",
+        "eval": {
+            "DNB": 1,
+            "MQNT": 3,
+            "DCT": 2,
+            "MQCT": 2,
+            "DNT": 3,
+            "MQNB": 4
+        }
+    },
+    {
+        "id": 6,
+        "question": "Können Hilfeempfängern im Rahmen der Aufnahme einer sozialversicherungspflichtigen Beschäftigung ggfs. Fahrzeuge zur Verfügung gestellt werden, um den Arbeitsplatz zu erreichen? Fall ja, für welchen Zeitraum ist dies möglich?",
+        "eval": {
+            "MQCT": 3,
+            "MQNB": 2,
+            "DNT": 2,
+            "DCT": 3,
+            "MQNT": 3,
+            "DNB": 1
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Default Retriever, No Reranker, Basic",
+        "acronym": "DNB"
+    },
+    {
+        "id": 1,
+        "name": "Default Retriever, No Reranker, Title",
+        "acronym": "DNT"
+    },
+    {
+        "id": 2,
+        "name": "Default Retriever, FlashRank, Basic",
+        "acronym": "DFB"
+    },
+    {
+        "id": 3,
+        "name": "Default Retriever, FlashRank, Title",
+        "acronym": "DFT"
+    },
+    {
+        "id": 4,
+        "name": "Default Retriever, Cohere, Basic",
+        "acronym": "DCB"
+    },
+    {
+        "id": 5,
+        "name": "Default Retriever, Cohere, Title",
+        "acronym": "DCT"
+    },
+    {
+        "id": 6,
+        "name": "MultiQuery Retriever, No Reranker, Basic",
+        "acronym": "MQNB"
+    },
+    {
+        "id": 7,
+        "name": "MultiQuery Retriever, No Reranker, Title",
+        "acronym": "MQNT"
+    },
+    {
+        "id": 8,
+        "name": "MultiQuery Retriever, FlashRank, Basic",
+        "acronym": "MQFB"
+    },
+    {
+        "id": 9,
+        "name": "MultiQuery Retriever, FlashRank, Title",
+        "acronym": "MQFT"
+    },
+    {
+        "id": 10,
+        "name": "MultiQuery Retriever, Cohere, Basic",
+        "acronym": "MQCB"
+    },
+    {
+        "id": 11,
+        "name": "MultiQuery Retriever, Cohere, Title",
+        "acronym": "MQCT"
+    }
+]
