@@ -23,6 +23,7 @@ flashrank = "*"
 nltk = "*"
 unstructured = {extras = ["all-docs"], version = "*"}
 ranx = "*"
+gradio = "*"
 
 [dev-packages]
 
