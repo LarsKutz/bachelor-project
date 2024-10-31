@@ -1,0 +1,6 @@
+ICON_DELETE = ":material/delete:"
+ICON_CHECK = ":material/check:"
+ICON_ERROR = ":material/error:"
+ICON_WARNING = ":material/warning:"
+ICON_INFO = ":material/info:"
+ICON_RESTART_ALT = ":material/restart_alt:"
